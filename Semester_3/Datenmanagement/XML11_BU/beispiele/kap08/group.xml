@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Bestellung xsi:noNamespaceSchemaLocation="group.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Name>Herbert Hagedorn</Name>
+	<Lieferanschrift>
+		<Strasse>Hasenweg 13</Strasse>
+		<Ort>Frankfurt/Main</Ort>
+		<PLZ>60000</PLZ>
+	</Lieferanschrift>
+	<Rechnungsanschrift>
+		<Strasse>Hauptstrasse 24</Strasse>
+		<Ort>Hannover</Ort>
+		<PLZ>20000</PLZ>
+	</Rechnungsanschrift>
+</Bestellung>

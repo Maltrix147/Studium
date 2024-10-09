@@ -1,0 +1,356 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="en"
+      xml:lang="en">
+<head>
+    <meta http-equiv="Content-Language"
+          content="de" />
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=us-ascii" />
+
+    <title>Struktur des XML</title>
+    <style type="text/css">
+    /*<![CDATA[*/
+    <!--
+    h2	{ font-family: Georgia,'Times New Roman',Times,serif; font-size: 18pt; color: #006600; font-weight: bold }
+    p	{ font-family: Verdana,Arial,helvetica,sans--serif; font-size: 10pt; color: #000080 }
+    code	{ font-family: 'Courier New',Courier,mono; font-size: 10pt; color: #CC0133 }
+    hr	{ color: #000080;}
+    -->
+    /*]]>*/
+    </style>
+</head>
+
+<body>
+    <h2>Struktur des XML-Seminars</h2>
+
+    <p>Als erstes legen Sie den Prolog und das Hauptelement fest,
+    in diesem Fall ist es das "Seminar".</p>
+    <hr size="1" />
+
+    <p><code><b>&lt;?xml version="1.0"
+    encoding="ISO-8859-1"?&gt;</b></code></p>
+
+    <p><code><b>&lt;seminar&gt;</b></code></p>
+
+    <p><code><b>&lt;/seminar&gt;</b></code></p>
+    <hr size="1" />
+
+    <p>Das Seminar verfolgt ein klares Ziel, die Einf&uuml;hrung in
+    die XML-Sprache. Dieses findet an einem bestimmten Ort an einem
+    bestimmten Datum statt.</p>
+    <hr size="1" />
+
+    <blockquote>
+        <p><code>&lt;?xml version="1.0"
+        encoding="ISO-8859-1"?&gt;</code></p>
+
+        <p><code>&lt;seminar&gt;</code></p>
+
+        <blockquote>
+            <p><code><b>&lt;titel&gt;Einf&uuml;hrung in
+            XML&lt;/titel&gt;</b></code></p>
+
+            <p>
+            <code><b>&lt;ort&gt;XML-Stadt&lt;/ort&gt;</b></code></p>
+
+            <p>
+            <code><b>&lt;datum&gt;02.04.-06.04.&lt;/datum&gt;</b></code></p>
+        </blockquote>
+
+        <p><code>&lt;/seminar&gt;</code></p>
+    </blockquote>
+    <hr size="1" />
+
+    <p>Mit dieser Grobstruktur k&ouml;nnen Sie die grundlegenden
+    Informationen speichern, verwalten und abfragen. Sie werden
+    jedoch feststellen, dass eine weitere Unterteilung der
+    Seminarteilnehmer notwendig ist, um jeden Teilnehmer auflisten
+    zu k&ouml;nnen. Ebenfalls ist bekannt, dass ein Seminarleiter
+    den Inhalt des Kurses an die Teilnehmer vermitteln wird.</p>
+    <hr size="1" />
+
+    <blockquote>
+        <p><code>&lt;?xml version="1.0"
+        encoding="ISO-8859-1"?&gt;</code></p>
+
+        <p><code>&lt;seminar&gt;</code></p>
+
+        <blockquote>
+            <p><code>&lt;titel&gt;Einf&uuml;hrung in
+            XML&lt;/titel&gt;</code></p>
+
+            <p><code>&lt;ort&gt;XML-Stadt&lt;/ort&gt;</code></p>
+
+            <p>
+            <code>&lt;datum&gt;02.04.-06.04.&lt;/datum&gt;</code></p>
+
+            <p><code><b>&lt;person&gt;</b></code></p>
+
+            <blockquote>
+                <p>
+                <code><b>&lt;vorname&gt;&lt;/vorname&gt;</b></code></p>
+
+                <p>
+                <code><b>&lt;nachname&gt;&lt;/nachname&gt;</b></code></p>
+            </blockquote>
+
+            <p><code><b>&lt;/person&gt;</b></code></p>
+        </blockquote>
+
+        <p><code>&lt;/seminar&gt;</code></p>
+    </blockquote>
+    <hr size="1" />
+
+    <p>Weiterhin soll erkennbar sein, ob es sich bei der
+    aufgelisteten Person um einen Seminarleiter oder einen
+    Teilnehmer handelt. Also wird bei dem Element
+    <code>person</code> ein Attribut <code>typ</code>
+    eingef&uuml;gt, mit dem der Personentyp festgelegt wird. Ebenso
+    ist der Titel der Person <code>Herr</code> oder
+    <code>Frau</code> anzugeben. Dies wird &uuml;ber das Attribut
+    <code>anrede</code> realisiert.</p>
+    <hr size="1" />
+
+    <blockquote>
+        <p><code>&lt;?xml version="1.0"
+        encoding="ISO-8859-1"?&gt;</code></p>
+
+        <p><code>&lt;seminar&gt;</code></p>
+
+        <blockquote>
+            <p><code>&lt;titel&gt;Einf&uuml;hrung in
+            XML&lt;/titel&gt;</code></p>
+
+            <p><code>&lt;ort&gt;XML-Stadt&lt;/ort&gt;</code></p>
+
+            <p>
+            <code>&lt;datum&gt;02.04.-06.04.&lt;/datum&gt;</code></p>
+
+            <p><code>&lt;person <b>anrede=""
+            typ=""</b>&gt;</code></p>
+
+            <blockquote>
+                <p><code>&lt;vorname&gt;&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+        </blockquote>
+
+        <p><code>&lt;/seminar&gt;</code></p>
+    </blockquote>
+    <hr size="1" />
+
+    <p>Nun k&ouml;nnen Sie die Namen der Personen angeben.</p>
+    <hr size="1" />
+
+    <blockquote>
+        <p><code>&lt;?xml version="1.0"
+        encoding="ISO-8859-1"?&gt;</code></p>
+
+        <p><code>&lt;seminar&gt;</code></p>
+
+        <blockquote>
+            <p><code>&lt;titel&gt;Einf&uuml;hrung in
+            XML&lt;/titel&gt;</code></p>
+
+            <p><code>&lt;ort&gt;XML-Stadt&lt;/ort&gt;</code></p>
+
+            <p>
+            <code>&lt;datum&gt;02.04.-06.04.&lt;/datum&gt;</code></p>
+
+            <p><code>&lt;person anrede="Herr"
+            typ="Seminarleiter"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Hans&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Hauser&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Herr"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Rolf&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Rabicht&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Frau"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Sigrun&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Sieghaar&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Frau"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Linda&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Landmann&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Herr"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Bruno&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Brams&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+        </blockquote>
+
+        <p><code>&lt;/seminar&gt;</code></p>
+    </blockquote>
+    <hr size="1" />
+
+    <p>F&uuml;r den Ablauf des Seminars wurde ein Zeitplan durch den Veranstalter festgelegt. Diesen bringen Sie
+    ebenfalls in der XML-Struktur unter. Da sich dieser Zeitplan auf das Seminar bezieht, werden diese Informationen als Unterelement von
+    <code>&lt;seminar&gt;</code> angelegt.</p>
+    <hr size="1" />
+
+    <blockquote>
+        <p><code>&lt;?xml version="1.0"
+        encoding="ISO-8859-1"?&gt;</code></p>
+
+        <p><code>&lt;seminar&gt;</code></p>
+
+        <blockquote>
+            <p><code>&lt;titel&gt;Einf&uuml;hrung in
+            XML&lt;/titel&gt;</code></p>
+
+            <p><code>&lt;ort&gt;XML-Stadt&lt;/ort&gt;</code></p>
+
+            <p>
+            <code>&lt;datum&gt;02.04.-06.04.&lt;/datum&gt;</code></p>
+
+            <p><code><b>&lt;zeitplan zeit="9:00
+            Uhr"&gt;</b></code></p>
+
+            <p><code><b>&nbsp;
+            &lt;thema&gt;&Uuml;berblick&lt;/thema&gt;</b></code></p>
+
+            <p><code><b>&nbsp;
+            &lt;thema&gt;XHTML&lt;/thema&gt;</b></code></p>
+
+            <p><code><b>&nbsp; &lt;thema&gt;XML-Struktur&lt;/thema&gt;</b></code></p>
+
+            <p><code><b>&lt;/zeitplan&gt;</b></code></p>
+
+            <p><code><b>&lt;zeitplan zeit="13:00
+            Uhr"&gt;</b></code></p>
+
+            <p><code><b>&nbsp; &lt;thema&gt;DTD entwickeln&lt;/thema&gt;</b></code></p>
+
+            <p><code><b>&nbsp; &lt;thema&gt;Darstellung von XML mit
+            XSL&lt;/thema&gt;</b></code></p>
+
+
+            <p><code><b>&lt;/zeitplan&gt;</b></code></p>
+
+            <p><code><b>&lt;zeitplan zeit="17:00
+            Uhr"&gt;&lt;/zeitplan&gt;</b></code></p>
+
+            <p><code>&lt;person anrede="Herr"
+            typ="Seminarleiter"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Hans&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Hauser&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Herr"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Rolf&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Rabicht&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Frau"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Sigrun&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Sieghaar&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Frau"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Linda&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Landmann&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+
+            <p><code>&lt;person anrede="Herr"
+            typ="Teilnehmer"&gt;</code></p>
+
+            <blockquote>
+                <p>
+                <code>&lt;vorname&gt;Bruno&lt;/vorname&gt;</code></p>
+
+                <p>
+                <code>&lt;nachname&gt;Brams&lt;/nachname&gt;</code></p>
+            </blockquote>
+
+            <p><code>&lt;/person&gt;</code></p>
+        </blockquote>
+
+        <p><code>&lt;/seminar&gt;</code></p>
+    </blockquote>
+    <hr size="1" />
+
+    <p>&nbsp;</p>
+</body>
+</html>

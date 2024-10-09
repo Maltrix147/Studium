@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE VERWALTUNG SYSTEM "verwaltung.dtd">
+<VERWALTUNG>
+  <DATEN>
+    <NAME>Meier</NAME>
+  </DATEN>
+  <DATEN>
+    <NAME anrede="Herr">Meier</NAME>
+  </DATEN>
+    <!-- weitere Elemente -->
+</VERWALTUNG>

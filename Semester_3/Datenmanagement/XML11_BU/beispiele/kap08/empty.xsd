@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:herdt="http://www.herdt.com/">
+	<xs:element name="Adresse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Name">
+					<xs:complexType>
+						<xs:attribute name="kundennr" type="xs:positiveInteger" use="required"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

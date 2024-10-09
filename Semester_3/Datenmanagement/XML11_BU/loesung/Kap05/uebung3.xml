@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Einbinden der ausgelagerten DTD -->
+<!DOCTYPE SEMINAR SYSTEM "uebung3.dtd">
+
+<SEMINAR>
+  <TITEL>Einführung in XML</TITEL>
+  <ORT>XML-Stadt</ORT>
+  <DATUM>02.04.-06.04.</DATUM>
+  <ZEITPLAN zeit="9:00 Uhr">
+    <THEMA>Überblick</THEMA>
+    <THEMA>XHTML</THEMA>
+    <THEMA>XML entwickeln</THEMA>
+  </ZEITPLAN>
+  <ZEITPLAN zeit="13:00 Uhr">
+    <THEMA>DTD entwickeln</THEMA>
+    <THEMA>Darstellung von XML mit XSL</THEMA>
+  </ZEITPLAN>
+  <ZEITPLAN zeit="17:00 Uhr">
+    <THEMA>Ende</THEMA>
+  </ZEITPLAN>
+  <PERSON anrede="Herr" typ="Seminarleiter">
+    <VORNAME>Hans</VORNAME>
+    <NACHNAME>Hauser</NACHNAME>
+  </PERSON>
+  <PERSON anrede="Herr" typ="Teilnehmer">
+    <VORNAME>Rolf</VORNAME>
+    <NACHNAME>Rabicht</NACHNAME>
+  </PERSON>
+  <PERSON anrede="Frau" typ="Teilnehmer">
+    <VORNAME>Sigrun</VORNAME>
+    <NACHNAME>Sieghaar</NACHNAME>
+  </PERSON>
+  <PERSON anrede="Frau" typ="Teilnehmer">
+    <VORNAME>Linda</VORNAME>
+    <NACHNAME>Landmann</NACHNAME>
+  </PERSON>
+  <PERSON anrede="Herr" typ="Teilnehmer">
+    <VORNAME>Bruno</VORNAME>
+    <NACHNAME>Brams</NACHNAME>
+  </PERSON>
+</SEMINAR>

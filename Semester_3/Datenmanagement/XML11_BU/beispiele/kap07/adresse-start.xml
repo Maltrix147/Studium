@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Adresse 
+  xmlns="http://www.herdt.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.herdt.com start.xsd">
+  <Name>Herbert Hagedorn</Name>
+  <Strasse>Hasenweg 13</Strasse>
+  <Ort>Frankfurt/Main</Ort>
+  <PLZ>60000</PLZ>
+</Adresse>
+
+

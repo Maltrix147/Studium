@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Bestellung bestelldatum="2014-09-27">
+  <Adresse>
+    <Name>Herbert Hagedorn</Name>
+    <Strasse>Hasenweg 13</Strasse>
+    <Ort>Frankfurt/Main</Ort>
+    <PLZ>60000</PLZ>
+  </Adresse>
+  <Ware>
+    <Buch BestellNr="3453865219">
+      <Titel>Wolfsmond. Der dunkle Turm.</Titel>
+      <Autor>Stephen King</Autor>
+      <Anzahl>1</Anzahl>
+      <PreisEUR>15.00</PreisEUR>
+    </Buch>
+  </Ware>
+</Bestellung>
+
+

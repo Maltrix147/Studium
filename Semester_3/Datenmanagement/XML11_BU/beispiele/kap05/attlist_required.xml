@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<!DOCTYPE HTML [
+<!ELEMENT HTML (IMG)>
+  <!ELEMENT IMG EMPTY>
+  <!ATTLIST IMG src CDATA #REQUIRED
+                align (left|center|right) "left">
+]>
+<HTML>
+  <IMG src="bild.jpg" align="center" />
+</HTML>
+

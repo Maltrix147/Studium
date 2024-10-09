@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="test.xsl"?>
+
+ 
+<a>
+	<b> [b1] </b>
+	<bc>
+		<c> [b1-c1] </c>
+		<c> [b1-c2] </c>
+	</bc>
+	<b> [b2] </b>
+	<d> [d1] </d>
+	<d> [d2] </d>
+</a>

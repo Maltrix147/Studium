@@ -1,0 +1,27 @@
+%!Adobe-FontList 1.24
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Castellar
+FamilyName:Castellar
+StyleName:Regular
+FullName:Castellar
+MenuName:Castellar
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\malte\Dropbox\Semester_2\Gestaltung\Plakat\PPG010_Zukunftsschmiede_v1 Ordner\Document fonts\CASTELAR.TTF
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:48252
+FileModTime:1683996388
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Castellar
+NameArray:0,Win,1,Castellar
+%EndFont
+

@@ -1,0 +1,25 @@
+<!NOTATION jpg PUBLIC "-//ISO DIS 10918//NOTATION JPEG Graphics Format//EN">
+<!NOTATION gif PUBLIC "-//Compuserve//NOTATION Graphics Interchange Format//EN">
+<!ENTITY MRL "Mute Records Limited">
+<!ELEMENT MUSIKSAMMLUNG (ALBUM+)>
+<!ELEMENT ALBUM (AUTOR, (INTERPRET | GRUPPE), TITEL, GESAMTZEIT?, LABEL?, JAHR?, BILD*, LIED*)>
+<!ATTLIST ALBUM
+    typ (CD | MP3 | Vinyl | MC) "CD"
+    bewertung (0|1|2|3|4|5) #IMPLIED
+>
+<!ELEMENT AUTOR (#PCDATA)>
+<!ELEMENT INTERPRET (#PCDATA)>
+<!ELEMENT GRUPPE (#PCDATA)>
+<!ELEMENT TITEL (#PCDATA)>
+<!ATTLIST TITEL
+    stil (Schlager | s | Klassik | k | Pop | p |Rock | r | Independent | i | Volksmusik | v ) #REQUIRED
+>
+<!ELEMENT GESAMTZEIT (#PCDATA)>
+<!ELEMENT LABEL (#PCDATA)>
+<!ELEMENT JAHR (#PCDATA)>
+<!ELEMENT BILD (#PCDATA)>
+<!ATTLIST BILD
+   typ NOTATION (gif | jpg) #REQUIRED
+   quelle CDATA #REQUIRED
+>
+<!ELEMENT LIED (#PCDATA)>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<xlink:simple xmlns:xlink="http://www.w3.org/1999/xlink">
+  <img xlink:type="simple"
+       xlink:actuate="onLoad"
+       xlink:show="embed"
+       xlink:href="bild.gif">
+       Ein eingebettetes Bild
+  </img>
+</xlink:simple>

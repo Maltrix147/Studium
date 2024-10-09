@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<DOKUMENT>
+    <html xmlns:html="http://www.w3.org/TR/REC-html40">
+      <html:head>
+        <html:title>Namensraum</html:title>
+      </html:head>
+      <html:body>
+      <html:h2>Namensräume in XML</html:h2>
+      <html:img src="img/kopf.jpg" align="left" />
+      <html:p style="color:green; font-family:Courier">Dies ist ein Absatz mit XML-Daten, dem über das Stylesheet die Schriftart Courier und eine grüne Farbe zugewiesen wird.</html:p>
+      <html:p style="color:red;">Auch Bilder können über den HTML-Namensraum in ein XML-Dokument integriert werden.</html:p>
+      <html:br />
+      <html:a href="#">Dies ist ein Hyperlink in einem XML-Dokument</html:a>
+      </html:body>
+    </html>
+</DOKUMENT>
+

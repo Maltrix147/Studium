@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<!DOCTYPE BILDERGALERIE [
+  <!NOTATION tif SYSTEM "C:\Programme\TV\tifviewer.exe">
+  <!ELEMENT BILDERGALERIE (IMG)>
+  <!ELEMENT IMG (#PCDATA)>
+  <!ATTLIST IMG
+     typ NOTATION (tif) #REQUIRED
+     quelle CDATA #REQUIRED>
+]>
+<BILDERGALERIE>
+   <IMG typ="tif" quelle="images/bild.tif"/>
+</BILDERGALERIE>

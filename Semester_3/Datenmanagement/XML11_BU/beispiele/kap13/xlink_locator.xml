@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<xlink:extended xmlns:xlink="http://www.w3.org/1999/xlink">
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z1" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z2" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z3" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z4" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z5" />
+</xlink:extended>

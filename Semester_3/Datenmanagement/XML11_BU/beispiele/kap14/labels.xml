@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE LABELS SYSTEM "labels.dtd" >
+<LABELS>
+	<LABEL>
+		<NAME>Mute Records Limited</NAME>
+		<MAINOFFICE>Detroit</MAINOFFICE>
+		<WEB>www.muterec.com</WEB>
+	</LABEL>
+	<LABEL>
+		<NAME>Island Records Limited</NAME>
+		<MAINOFFICE>New York</MAINOFFICE>
+		<WEB>www.islandrecords.com</WEB>
+	</LABEL>
+	<LABEL>
+		<NAME>Jarrett Records</NAME>
+		<MAINOFFICE>Boston</MAINOFFICE>
+		<WEB>www.jrm.com</WEB>
+	</LABEL>
+	<LABEL>
+		<NAME>WEA Records</NAME>
+		<MAINOFFICE>London</MAINOFFICE>
+		<WEB>www.wea.com</WEB>
+	</LABEL>
+	<LABEL>
+		<NAME>Pilz Compact Disc</NAME>
+		<MAINOFFICE>Berlin</MAINOFFICE>
+		<WEB>www.pilzmusic.com</WEB>
+	</LABEL>
+</LABELS>
+

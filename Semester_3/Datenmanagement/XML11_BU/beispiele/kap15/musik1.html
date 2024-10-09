@@ -1,0 +1,26 @@
+<html lang="de">
+<head>
+    <title>Elemente der Musiksammlung</title>
+    <script type="text/javascript" src="loadxmldoc.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+        XMLObjekt = loadXMLDoc("musiksammlung.xml");
+
+        Kind = XMLObjekt.getElementsByTagName('ALBUM');
+        document.write('<br \/>Anzahl der Knoten: ' + Kind.length);
+
+        /* Schleife für die 1.Ebene */
+        for (i=0; i < Kind.length; i++) {
+	document.write('<br\/><b>Anzahl der unteren Knoten in Knoten['+ i +']: ' + Kind[i].childNodes.length + '<\/b>');
+
+	/* Schleife für die 2.Ebene */
+	for (j=0; j < Kind[i].childNodes.length; j++) {
+		if (Kind[i].childNodes[j].nodeType == 1) {
+		        document.write('<br \/>Inhalt des Knotens['+ i +','+ j +']: ' + Kind[i].childNodes[j].nodeName + ' - ' + getNodeText(Kind[i].childNodes[j]));
+		}
+	}
+        }
+</script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 229 351.36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: Nasalization, Nasalization;
+        font-size: 55px;
+      }
+    </style>
+  </defs>
+  <polygon class="cls-1" points="219.93 8.57 10.6 8.57 114.38 175.68 219.93 8.57"/>
+  <text class="cls-2" transform="translate(31.92 42.9) rotate(58.16)"><tspan x="0" y="0">T</tspan></text>
+  <text class="cls-2" transform="translate(44.5 63.17) rotate(58.16)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-2" transform="translate(50.52 72.85) rotate(58.16)"><tspan x="0" y="0">m</tspan></text>
+  <text class="cls-2" transform="translate(79.97 120.28) rotate(58.16)"><tspan x="0" y="0">e</tspan></text>
+  <polygon class="cls-1" points="218.41 342.79 114.63 175.68 9.07 342.79 218.41 342.79"/>
+  <text class="cls-2" transform="translate(204.21 319.93) rotate(-121.84)"><tspan x="0" y="0">S</tspan></text>
+  <text class="cls-2" transform="translate(185.55 289.89) rotate(-121.84)"><tspan x="0" y="0">h</tspan></text>
+  <text class="cls-2" transform="translate(167.59 260.96) rotate(-121.84)"><tspan x="0" y="0">i</tspan></text>
+  <text class="cls-2" transform="translate(161.55 251.24) rotate(-121.84)"><tspan x="0" y="0">f</tspan></text>
+  <text class="cls-2" transform="translate(143.59 222.32) rotate(-121.84)"><tspan x="0" y="0">t</tspan></text>
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!-- Anlegen der DTD -->
+<!DOCTYPE SEMINAR [
+  <!ELEMENT SEMINAR (TITEL, ORT, DATUM, ZEITPLAN+, PERSON+)>
+  <!ELEMENT ZEITPLAN (THEMA+)>
+  <!ELEMENT PERSON   (VORNAME, NACHNAME)>
+
+  <!ELEMENT TITEL    (#PCDATA)> <!--    titel kann alle Zeichen enthalten -->
+  <!ELEMENT ORT      (#PCDATA)> <!--      ort kann alle Zeichen enthalten -->
+  <!ELEMENT DATUM    (#PCDATA)> <!--    datum kann alle Zeichen enthalten -->
+  <!ELEMENT THEMA    (#PCDATA)> <!--    thema kann alle Zeichen enthalten -->
+  <!ELEMENT VORNAME  (#PCDATA)> <!--  vorname kann alle Zeichen enthalten -->
+  <!ELEMENT NACHNAME (#PCDATA)> <!-- nachname kann alle Zeichen enthalten -->
+]>
+
+<SEMINAR>
+  <TITEL>Einführung in XML</TITEL>
+  <ORT>XML-Stadt</ORT>
+  <DATUM>02.04.-06.04.</DATUM>
+  <ZEITPLAN>
+    <THEMA>Überblick</THEMA>
+    <THEMA>XHTML</THEMA>
+    <THEMA>XML entwickeln</THEMA>
+  </ZEITPLAN>
+  <ZEITPLAN>
+    <THEMA>DTD entwickeln</THEMA>
+    <THEMA>Darstellung von XML mit XSL</THEMA>
+  </ZEITPLAN>
+  <ZEITPLAN>
+    <THEMA>Ende</THEMA>
+  </ZEITPLAN>
+  <PERSON>
+    <VORNAME>Hans</VORNAME>
+    <NACHNAME>Hauser</NACHNAME>
+  </PERSON>
+  <PERSON>
+    <VORNAME>Rolf</VORNAME>
+    <NACHNAME>Rabicht</NACHNAME>
+  </PERSON>
+  <PERSON>
+    <VORNAME>Sigrun</VORNAME>
+    <NACHNAME>Sieghaar</NACHNAME>
+  </PERSON>
+  <PERSON>
+    <VORNAME>Linda</VORNAME>
+    <NACHNAME>Landmann</NACHNAME>
+  </PERSON>
+  <PERSON>
+    <VORNAME>Bruno</VORNAME>
+    <NACHNAME>Brams</NACHNAME>
+  </PERSON>
+</SEMINAR>

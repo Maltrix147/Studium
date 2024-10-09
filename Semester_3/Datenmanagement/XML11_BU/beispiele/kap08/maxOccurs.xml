@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<MUSIKSAMMLUNG xsi:noNamespaceSchemaLocation="maxOccurs.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ALBUM>
+		<AUTOR>Heiko Schröder</AUTOR>
+		<INTERPRET>Moby</INTERPRET>
+		<TITEL>Play</TITEL>
+		<LIED>Honey</LIED>
+		<LIED>Find my baby</LIED>
+		<LIED>Porcelain</LIED>
+		<LIED>Why does my heart feel so bad?</LIED>
+		<LIED>South side</LIED>
+		<LIED>Rushing</LIED>
+		<LIED>Bodyrock</LIED>
+		<LIED>Natural Blues</LIED>
+		<LIED>Machete</LIED>
+		<LIED>7</LIED>
+		<LIED>Run on</LIED>
+		<LIED>Down slow</LIED>
+		<LIED>If things were perfect</LIED>
+		<LIED>Everloving</LIED>
+		<LIED>Inside</LIED>
+		<LIED>Guitar flute &amp; string</LIED>
+		<LIED>The sky is broken</LIED>
+		<LIED>My weakness</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>Max Mustermann</AUTOR>
+		<GRUPPE>a-ha</GRUPPE>
+		<TITEL>Minor earth major sky</TITEL>
+		<LIED>Minor earth major sky</LIED>
+		<LIED>Little black</LIED>
+		<LIED>Velvet</LIED>
+		<LIED>Summer moved on</LIED>
+		<LIED>The sun never shone that day</LIED>
+		<LIED>To let you win</LIED>
+		<LIED>The company man</LIED>
+		<LIED>Thought that it was you</LIED>
+		<LIED>I wish I cared</LIED>
+		<LIED>Barely hanging on</LIED>
+		<LIED>You'll never get over me</LIED>
+		<LIED>I won't forget her</LIED>
+		<LIED>Mary Ellen makes the moment count</LIED>
+	</ALBUM>
+</MUSIKSAMMLUNG>

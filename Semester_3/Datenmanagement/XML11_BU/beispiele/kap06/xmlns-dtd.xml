@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE VERWALTUNG PUBLIC "//Meine eigene DTD" "verwaltung.dtd" [
+  <!ATTLIST DATEN xmlns:extra  CDATA #FIXED "http://www.mitanrede.de/">
+  <!ATTLIST NAME  extra:anrede (Herr|Frau) #IMPLIED>
+]>
+<VERWALTUNG>
+  <DATEN>
+    <NAME>Meier</NAME>
+  </DATEN>
+  <DATEN xmlns:extra="http://www.mitanrede.de/">
+    <NAME extra:anrede="Herr">Meier</NAME>
+  </DATEN>
+    <!-- weitere Elemente -->
+</VERWALTUNG>
+
+
+

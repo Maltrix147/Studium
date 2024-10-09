@@ -1,0 +1,20 @@
+<!ENTITY % heading "H1 | H2 | H3 | H4 | H5 | H6">
+<!ENTITY % align "align (left|center|right) #IMPLIED">
+<!ELEMENT HTML ((%heading;)|P|TD)*>
+
+  <!ELEMENT H1 (#PCDATA)>
+    <!ATTLIST H1 %align;>  
+  <!ELEMENT H2 (#PCDATA)>
+    <!ATTLIST H2 %align;>
+  <!ELEMENT H3 (#PCDATA)>
+    <!ATTLIST H3 %align;>
+  <!ELEMENT H4 (#PCDATA)>
+    <!ATTLIST H4 %align;>
+  <!ELEMENT H5 (#PCDATA)>
+    <!ATTLIST H5 %align;>
+  <!ELEMENT H6 (#PCDATA)>
+    <!ATTLIST H6 %align;>
+  <!ELEMENT TD (#PCDATA)>
+    <!ATTLIST TD %align;>
+  <!ELEMENT P  (#PCDATA)>
+    <!ATTLIST P  %align;>

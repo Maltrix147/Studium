@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="Bestellnummer" type="BestellnummerTyp" />
+<xs:simpleType name="BestellnummerTyp">
+  <xs:restriction base="xs:stringi">
+    <xs:pattern value="1[0-9][0-9]-[A-E]-[0-9][0-9]" />
+  </xs:restriction>
+</xs:simpleType>
+</xs:schema>
+

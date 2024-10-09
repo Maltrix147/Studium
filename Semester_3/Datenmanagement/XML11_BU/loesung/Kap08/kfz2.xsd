@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="AUTO">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="KFZ" maxOccurs="unbounded" >
+      
+        <xs:complexType>
+          <xs:sequence>
+            <xs:element name="HERSTELLER"  type="xs:string" />
+            <xs:element name="MODELL"  type="xs:string" />
+
+            <xs:element name="LEERGEWICHT">
+              <xs:complexType>
+                <xs:simpleContent>                               
+                  <xs:extension base="LEERGEWICHTtyp">
+                    <xs:attribute name="einheit" type="xs:string" fixed="kg" />
+                  </xs:extension>
+                </xs:simpleContent>                  
+              </xs:complexType>
+            </xs:element>
+
+            <xs:element name="ZYLINDER" type="xs:integer" />
+
+            <xs:element name="HUBRAUM">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="HUBRAUMtyp">
+                    <xs:attribute name="einheit" type="xs:string" fixed="ccm" />
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+
+            <xs:element name="LEISTUNG">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="LEISTUNGtyp">
+                    <xs:attribute name="einheit" type="LEISTUNG_ATT_typ" default="kW" />
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>
+            
+            <xs:element name="HOECHSTGESCHWINDIGKEIT">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="HOECHSTGESCHWINDIGKEITtyp">
+                    <xs:attribute name="einheit" type="HOECHSTGESCHWINDIGKEIT_ATT_typ" default="kmh" />
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>      
+            
+            <xs:element name="VON0AUF100">
+              <xs:complexType>
+                <xs:simpleContent>
+                  <xs:extension base="VON0AUF100typ">
+                    <xs:attribute name="einheit" type="xs:string" fixed="s" />
+                  </xs:extension>
+                </xs:simpleContent>
+              </xs:complexType>
+            </xs:element>         
+            
+          </xs:sequence>
+        </xs:complexType>     
+
+      </xs:element>
+      
+      
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+
+<!-- Festlegen des maximalen Wertes von LEERGEWICHT -->
+<xs:simpleType name="LEERGEWICHTtyp">
+  <xs:restriction base="xs:positiveInteger">
+    <xs:maxExclusive value="2000" />
+  </xs:restriction>
+</xs:simpleType>
+
+<!-- Festlegen des maximalen Wertes von HUBRAUM -->
+<xs:simpleType name="HUBRAUMtyp">
+  <xs:restriction base="xs:positiveInteger">
+    <xs:maxExclusive value="10000" />
+  </xs:restriction>
+</xs:simpleType>
+
+<!-- Festlegen des maximalen Wertes von LEISTUNG -->
+<xs:simpleType name="LEISTUNGtyp">
+  <xs:restriction base="xs:positiveInteger">
+    <xs:maxExclusive value="500" />
+  </xs:restriction>
+</xs:simpleType>
+
+<!-- Festlegen des maximalen Wertes von HOECHSTGESCHWINDIGKEIT-->
+<xs:simpleType name="HOECHSTGESCHWINDIGKEITtyp">
+  <xs:restriction base="xs:positiveInteger">
+    <xs:maxExclusive value="350" />
+  </xs:restriction>
+</xs:simpleType>
+
+<!-- Festlegen von einer Dezimalstelle -->
+<!-- Festlegen des kleinstmöglichen Wertes von VON0AUF100 -->
+<xs:simpleType name="VON0AUF100typ">
+  <xs:restriction base="xs:decimal">
+    <xs:fractionDigits value="1" />
+    <xs:minExclusive value="3.0" />
+  </xs:restriction>
+</xs:simpleType>
+
+<!-- Festlegen der möglichen Werte für ein Attribut -->
+<xs:simpleType name="LEISTUNG_ATT_typ">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="kW|PS" />
+  </xs:restriction>
+</xs:simpleType>
+
+<!-- Festlegen der möglichen Werte für ein Attribut -->
+<xs:simpleType name="HOECHSTGESCHWINDIGKEIT_ATT_typ">
+  <xs:restriction base="xs:string">
+    <xs:pattern value="kmh|mph" />
+  </xs:restriction>
+</xs:simpleType>
+
+</xs:schema>
+

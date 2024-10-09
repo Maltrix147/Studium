@@ -1,0 +1,49 @@
+<html lang="de">
+<head>
+<title>Elemente der Musiksammlung</title>
+    <script type="text/javascript" src="loadxmldoc.js"></script>
+    <link type="text/css" rel="stylesheet" href="musik_link.css">
+</head>
+<body>
+  <h2>Musiksammlung</h2>
+  <p>Datenumfang: <span id="counter"></span> Einträge</p>
+  <div id ="tabelle"></div>
+
+<script type="text/javascript">
+        XMLObjekt = loadXMLDoc("musiksammlung.xml");
+
+        counter.innerHTML = XMLObjekt.getElementsByTagName('ALBUM').length;
+        output = '<table><tr class="firstline">';
+        output = output + '<td><b>Interpret</b></td><td><b>Album</b></td><td><b>Bemerkung</b></td>'
+        output = output + '</tr>';
+        Album = XMLObjekt.getElementsByTagName('ALBUM');
+        for (i=0; i < Album.length; i++)  {
+	output = output + '<tr>';
+
+	output = output + '<td>';
+	Interpret = Album[i].getElementsByTagName('INTERPRET');
+	if (Interpret.length == 0) {
+	        Interpret = Album[i].getElementsByTagName('GRUPPE');
+	}
+	output = output + getNodeText(Interpret[0]);
+	output = output + '</td>';
+
+	output = output + '<td>';
+	Titel     = Album[i].getElementsByTagName('TITEL');
+	TitelText = getNodeText(Titel[0]);
+	output = output + '<a href="javascript:OeffneInfoFenster(\'' + TitelText + '\')">' + TitelText +'</a>';
+	output = output + '</td>';
+
+	output = output + '<td>';
+	Lieder = Album[i].getElementsByTagName('LIED'); // Anzahl der Lieder eines Albums
+	output = output + 'Lieder:' + Lieder.length;
+	output = output + '</td>';
+
+	output = output + '</tr>';
+        };
+        output = output + '</table>';
+        tabelle.innerHTML = output;
+</script>
+
+</body>
+</html>

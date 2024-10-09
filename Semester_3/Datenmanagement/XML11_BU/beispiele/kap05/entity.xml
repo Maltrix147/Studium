@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<!DOCTYPE ALLGENTITY [
+<!ELEMENT ALLGENTITY (PERSON*)>
+  <!ELEMENT PERSON (#PCDATA)>
+  <!ENTITY mm "Max Müller">
+  <!ENTITY em "Erwin Mustermann">
+  
+]>
+
+<ALLGENTITY>
+   <PERSON>&mm;</PERSON>
+   <PERSON>&em;</PERSON>      
+</ALLGENTITY>

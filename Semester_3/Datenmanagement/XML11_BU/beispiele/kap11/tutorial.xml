@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="tutorial.xsl"?>
+
+<OBERELEMENT>
+   <SICHTBAR> Element, das angesprochen werden soll. </SICHTBAR>
+   <UNSICHTBAR> Element, das NICHT angesprochen werden soll. </UNSICHTBAR>
+</OBERELEMENT>

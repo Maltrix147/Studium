@@ -1,0 +1,16 @@
+<!ELEMENT Bestellung (Adresse, Ware)>
+<!ATTLIST Bestellung bestelldatum CDATA #REQUIRED>
+
+<!ELEMENT Adresse (Name, Strasse, Ort, PLZ)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Strasse (#PCDATA)>
+<!ELEMENT Ort (#PCDATA)>
+<!ELEMENT PLZ (#PCDATA)>
+
+<!ELEMENT Ware (Buch+)>
+<!ELEMENT Buch (Titel, Autor, Anzahl, PreisEUR)>
+<!ATTLIST Buch BestellNr CDATA #REQUIRED>
+<!ELEMENT Titel (#PCDATA)>
+<!ELEMENT Autor (#PCDATA)>
+<!ELEMENT Anzahl (#PCDATA)>
+<!ELEMENT PreisEUR (#PCDATA)>

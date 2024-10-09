@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+
+<a xmlns:xlink="http://www.w3.org/1999/xlink"
+     xlink:type="simple"
+     xlink:href="xlink_arc.xml"
+     xlink:actuate="onRequest"
+     xlink:show="new">
+     Zur anderen Seite
+ </a>
+

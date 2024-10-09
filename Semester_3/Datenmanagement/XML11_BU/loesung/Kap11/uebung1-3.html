@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      lang="de"
+      xml:lang="de">
+<head>
+    <meta http-equiv="Content-Language"
+          content="de" />
+    <meta http-equiv="Content-Type"
+          content="text/html; charset=us-ascii" />
+
+    <title>Kapitel 7 - &Uuml;bung 1 - 2</title>
+    <style type="text/css">
+    h2	{ font-family: Georgia,'Times New Roman',Times,serif; font-size: 18pt; color: #006600; font-weight: bold }
+    p,li	{ font-family: Verdana,Arial,helvetica,sans--serif; font-size: 10pt; color: #000080 }
+    code	{ font-family: 'Courier New',Courier,mono; font-size: 10pt; color: #CC0133 }
+    hr	{ color: #000080;}
+    </style>
+</head>
+
+<body>
+    <h2>Aufgabe 1</h2>
+
+    <hr size="1" />
+
+    <p>Der Befehl zum Einbinden einer XSL-Datei in eine XML-Datei lautet:</p>
+	<p><code>&lt;?xml-stylesheet type=&quot;text/xsl&quot; href=&quot;xsl-Dateiname&quot;?&gt;</code></p>
+    <hr size="1" />
+
+    <h2>Aufgabe 2</h2>
+    <hr size="1" />
+
+    <p>Innerhalb der XSL-Datei muss &uuml;ber die Processing Instruction </p>
+<p><code>&lt;xsl:stylesheet version=&quot;1.0&quot; xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;&gt;</code></p>
+<p>der Namensraum - meist xsl definiert werden. Damit wird sichergestellt, dass
+nur die mit dem Pr&auml;fix xsl versehenen Elemente vom XSLT-Prozessor als
+XSL-Befehle interpretiert werden. Alle anderen Elemente bleiben unber&uuml;hrt und
+werden unver&auml;ndert weitergeleitet.</p>
+    <hr size="1" />
+
+    <h2>Aufgabe 3</h2>
+    <hr size="1" />
+
+    <p>Mit den nachfolgenden Filterangaben werden folgende Elemente selektiert:</p>
+	<p>//ELEMENT1 = die Elemente ELEMENT1 in einer beliebigen Strukturtiefe</p>
+	<p>.//ELEMENT2 = die Elemente ELEMENT2, die sich unterhalb des aktuell
+	selektierten Knotens befinden</p>
+	<p>ELEMENT1/ELEMENT2[1] = das zweite Element ELEMENT2, dass ein Unterelement
+	von ELEMENT1 ist</p>
+	<p>ELEMENT1/ELEMENT2[@attribut1] = die Elemente ELEMENT2, die ein
+	Unterelement von ELEMENT1 sind und das Attribut attribut1 aufweisen</p>
+    <hr size="1" />
+
+    <p>&nbsp;</p>
+
+    <p>&nbsp;</p>
+</body>
+</html>

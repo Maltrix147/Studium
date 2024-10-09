@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<Personalie xsi:schemaLocation="http://www.herdt.com personalie.xsd adresse.xsd" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xmlns="http://www.herdt.com">
+	<Name>Heiko Schröder</Name>
+	<Adresse>
+		<Strasse>Musterstraße 123</Strasse>
+		<Ort>Musterstadt</Ort>
+		<PLZ>88888</PLZ>
+	</Adresse>
+</Personalie>

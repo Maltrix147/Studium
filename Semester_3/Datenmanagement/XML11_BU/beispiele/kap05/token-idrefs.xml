@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<!DOCTYPE TOKEN [
+<!ELEMENT TOKEN (PERSON*)>
+  <!ELEMENT PERSON (#PCDATA)>
+  <!ATTLIST PERSON kennung ID #REQUIRED>
+  <!ATTLIST PERSON verwandt IDREFS #IMPLIED>
+]>
+<TOKEN>
+  <PERSON kennung="P1">Max Müller</PERSON>
+  <PERSON kennung="P2" verwandt="P3 P4">Max Mustermann</PERSON>
+  <PERSON kennung="P3" verwandt="P2 P4">Erwin Mustermann</PERSON>
+  <PERSON kennung="P4" verwandt="P2 P3">Erika Mustermann</PERSON>
+</TOKEN>

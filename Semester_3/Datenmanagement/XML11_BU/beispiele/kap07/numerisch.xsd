@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="Preis">
+  <xs:simpleType>
+    <xs:restriction base="xs:decimal">
+      <xs:fractionDigits value="2" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+<xs:element name="Anzahl" type="xs:nonNegativeInteger" />
+<xs:element name="Grad">
+  <xs:simpleType>
+    <xs:restriction base="xs:decimal">
+      <xs:fractionDigits value="1" />
+      <xs:minInclusive value="-90.0" />
+      <xs:maxInclusive value="60.0" />
+    </xs:restriction>
+  </xs:simpleType>
+</xs:element>
+
+
+</xs:schema>
+

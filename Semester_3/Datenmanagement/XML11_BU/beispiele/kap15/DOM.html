@@ -1,0 +1,22 @@
+<html lang="de">
+<head>
+    <title>Auslesen der Elemente und Attribute</title>
+    <script type="text/javascript" src="loadxmldoc.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+          XMLObjekt = loadXMLDoc("person.xml");
+
+          xml_daten = XMLObjekt.getElementsByTagName('PERSON')[0];
+          document.write('<p><strong>')
+          document.write(xml_daten.childNodes[0].nodeValue + '<\/strong><br \/>');
+          document.write(xml_daten.attributes[0].nodeName + ' = ' + xml_daten.attributes[0].nodeValue);
+
+          xml_daten = XMLObjekt.getElementsByTagName('PERSON')[1];
+          document.write('<p><strong>')
+          document.write(xml_daten.childNodes[0].nodeValue + '<\/strong><br \/>');
+          document.write(xml_daten.attributes[0].nodeName + ' = ' + xml_daten.attributes[0].nodeValue);
+
+</script>
+</body>
+</html>

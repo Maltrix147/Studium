@@ -1,0 +1,20 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:herdt="http://www.herdt.com"
+ vc:minVersion="1.1" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning">
+ <xs:element name="Budget">
+  <xs:complexType>
+   <xs:sequence>
+    <xs:element name="Bereich" type="xs:string"/>
+    <xs:element name="Wert" type="werttyp"/>
+   </xs:sequence>
+  </xs:complexType>
+ </xs:element>
+ <xs:complexType name="werttyp">
+  <xs:simpleContent>
+   <xs:extension base="xs:integer">
+    <xs:attribute name="minimal" type="xs:integer"/>
+    <xs:attribute name="maximal" type="xs:integer"/>
+    <xs:assert test="@minimal le @maximal"/>
+   </xs:extension>
+  </xs:simpleContent>
+ </xs:complexType>
+</xs:schema>

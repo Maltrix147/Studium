@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<Lager xsi:noNamespaceSchemaLocation="buch.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Buch>
+		<Autor>Hillary Rodham Clinton</Autor>
+		<Titel>Gelebte Geschichte</Titel>
+		<Verlag>Econ</Verlag>
+		<Seiten>669</Seiten>
+		<Erscheinungsdatum>2003-06-09</Erscheinungsdatum>
+		<BestellNummer>XJ19151</BestellNummer>
+		<PreisEUR>24.00</PreisEUR>
+	</Buch>
+	<Buch>
+		<Autor>x</Autor>
+		<Titel>x</Titel>
+		<Verlag>x</Verlag>
+		<Seiten>669</Seiten>
+		<Erscheinungsdatum>2002-09-18</Erscheinungsdatum>
+		<BestellNummer>MP19127</BestellNummer>
+		<PreisEUR>8.90</PreisEUR>
+	</Buch>
+</Lager>

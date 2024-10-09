@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <!-- Einige Attribute mit dem Wert 'null' wurden im Sinne der Übersichtlichkeit entfernt -->
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_1" height="47.25" width="53.250005" y="150.750008" x="122.750038"  stroke-width="2" stroke="#000000" fill="#ffff00"/>
+  <circle id="svg_2" r="31.878906" cy="197.625011" cx="170.750022" stroke-width="2" stroke="#000000" fill="#ff0000"/>
+  <text xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_3" y="204.000015" x="169.250053" stroke-width="0" stroke="#000000" fill="#0000ff" >SVG</text>
+ </g>
+</svg>

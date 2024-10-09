@@ -1,0 +1,5 @@
+body, td   { font-family:Verdana,Arial; font-size:10pt; color:black; padding: 3px;}
+h2         { font-family:Verdana,Arial; font-size:16pt; color:#0066FF; }
+
+table { border:1px solid #000000; background-color: #FFF; }
+.firstline  { background-color:#99CCFF; font-weight: bold;}

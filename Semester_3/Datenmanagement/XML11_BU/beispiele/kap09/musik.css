@@ -1,0 +1,4 @@
+ALBUM             { font-family:Verdana,helvetica,sans-serif; color:#000; }
+INTERPRET, GRUPPE { font-size:14pt; font-weight:bold; color:#800000; }
+TITEL             { font-size:12pt; font-weight:bold; color:#800000; }
+LIED, AUTOR       { font-size:8pt; text-indent:10pt;}

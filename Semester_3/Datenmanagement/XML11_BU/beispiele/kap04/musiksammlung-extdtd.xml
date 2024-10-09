@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<!DOCTYPE MUSIKSAMMLUNG SYSTEM "extern.dtd">
+<MUSIKSAMMLUNG>
+	<ALBUM>
+		<AUTOR>Heiko Schröder</AUTOR>
+		<INTERPRET>Moby</INTERPRET>
+		<TITEL>Play</TITEL>
+		<LIED>Honey</LIED>
+		<LIED>Find my baby</LIED>
+		<LIED>Porcelain</LIED>
+		<LIED>Why does my heart feel so bad?</LIED>
+		<LIED>South side</LIED>
+		<LIED>Rushing</LIED>
+		<LIED>Bodyrock</LIED>
+		<LIED>Natural Blues</LIED>
+		<LIED>Machete</LIED>
+		<LIED>7</LIED>
+		<LIED>Run on</LIED>
+		<LIED>Down slow</LIED>
+		<LIED>If things were perfect</LIED>
+		<LIED>Everloving</LIED>
+		<LIED>Inside</LIED>
+		<LIED>Guitar flute &amp; string</LIED>
+		<LIED>The sky is broken</LIED>
+		<LIED>My weakness</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>Max Mustermann</AUTOR>
+		<GRUPPE>a-ha</GRUPPE>
+		<TITEL>Minor earth major sky</TITEL>
+		<LIED>Minor earth major sky</LIED>
+		<LIED>Little black</LIED>
+		<LIED>Velvet</LIED>
+		<LIED>Summer moved on</LIED>
+		<LIED>The sun never shone that day</LIED>
+		<LIED>To let you win</LIED>
+		<LIED>The company man</LIED>
+		<LIED>Thought that it was you</LIED>
+		<LIED>I wish I cared</LIED>
+		<LIED>Barely hanging on</LIED>
+		<LIED>You'll never get over me</LIED>
+		<LIED>I won't forget her</LIED>
+		<LIED>Mary Ellen makes the moment count</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>Heiko Schröder</AUTOR>
+		<GRUPPE>Mesh</GRUPPE>
+		<TITEL>Fragmente</TITEL>
+		<LIED>Trust you</LIED>
+		<LIED>My defender</LIED>
+		<LIED>You didn't want me</LIED>
+		<LIED>I don't think they know</LIED>
+		<LIED>Confined</LIED>
+		<LIED>Someone to believe in</LIED>
+		<LIED>State of mind</LIED>
+		<LIED>So important (original acoustic version)</LIED>
+		<LIED>In the light of day</LIED>
+		<LIED>I don't expect to be right</LIED>
+		<LIED>The purest people</LIED>
+		<LIED>Trust you (mesh remix)</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>Max Mustermann</AUTOR>
+		<INTERPRET>Ludwig van Beethoven</INTERPRET>
+		<TITEL>Berühmte Klavier-Sonaten</TITEL>
+		<LIED>Mondschein Sonate</LIED>
+		<LIED>Pathétique</LIED>
+		<LIED>Waldstein-Sonate</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>Heiko Schröder</AUTOR>
+		<INTERPRET>Philip Glass</INTERPRET>
+		<TITEL>Koyaanisqatsi</TITEL>
+		<LIED>Koyaanisqatsi</LIED>
+		<LIED>Vessel</LIED>
+		<LIED>Cloudscape</LIED>
+		<LIED>Pruit Igoe</LIED>
+		<LIED>The Grid</LIED>
+		<LIED>Prophecies</LIED>
+	</ALBUM>
+</MUSIKSAMMLUNG>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<VERWALTUNG>
+  <DATEN>
+    <NAME>Meier</NAME>
+  </DATEN>
+  <DATEN>
+    <extra:NAME xmlns:extra="http://www.irgendeinURI.de/mit-anrede"
+           anrede="Herr">Meier</extra:NAME>
+  </DATEN>
+    <!-- weitere Elemente -->
+</VERWALTUNG>

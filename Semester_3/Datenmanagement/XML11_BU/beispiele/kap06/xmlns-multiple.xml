@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<standard:VERWALTUNG xmlns:standard="http://www.irgendeinURI.de/standard"
+                     xmlns:extra   ="http://www.irgendeinURI.de/extra">
+  <standard:DATEN>
+    <standard:NAME>Meier</standard:NAME>
+  </standard:DATEN>
+  <extra:DATEN>
+    <extra:NAME anrede="Herr">Meier</extra:NAME>
+  </extra:DATEN>
+  <!-- weitere Elemente -->
+</standard:VERWALTUNG>
+

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:herdt="http://www.herdt.com/">
+	<xs:element name="MUSIKSAMMLUNG">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" ref="ALBUM"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="ALBUM">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="AUTOR"/>
+				<xs:choice>
+					<xs:element name="INTERPRET"/>
+					<xs:element name="GRUPPE"/>
+				</xs:choice>
+				<xs:element name="TITEL"/>
+				<xs:element name="LIED" minOccurs="1" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

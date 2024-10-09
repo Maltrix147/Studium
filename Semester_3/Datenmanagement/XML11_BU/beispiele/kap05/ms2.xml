@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE MUSIKSAMMLUNG SYSTEM "C:\uebung\xml11_bu\beispiele\kap06\ms2.dtd" [
+  <!ENTITY hs "Heiko Schröder">
+<!ENTITY MRL "Mute Records Limited">]>
+<MUSIKSAMMLUNG>
+	<ALBUM>
+		<AUTOR>&hs;</AUTOR>
+		<INTERPRET>Moby</INTERPRET>
+		<TITEL>Play</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="jpg" quelle="images/moby_play1.jpg" />
+		<BILD typ="jpg" quelle="images/moby_play2.jpg" />
+		<LIED>Honey</LIED>
+		<LIED>Find my baby</LIED>
+		<LIED>Porcelain</LIED>
+		<LIED>Why does my heart feel so bad?</LIED>
+	</ALBUM>
+	<ALBUM typ="Vinyl">
+		<AUTOR>&hs;</AUTOR>
+		<GRUPPE>a-ha</GRUPPE>
+		<TITEL>Minor earth major sky</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="gif" quelle="images/aha_minor.gif" />
+		<LIED>Minor earth major sky</LIED>
+		<LIED>Little black</LIED>
+		<LIED>Velvet</LIED>
+		<LIED>Summer moved on</LIED>
+	</ALBUM>
+</MUSIKSAMMLUNG>

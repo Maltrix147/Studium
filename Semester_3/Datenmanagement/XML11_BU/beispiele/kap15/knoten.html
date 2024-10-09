@@ -1,0 +1,20 @@
+<html lang="de">
+<head>
+    <title>Musiksammlung</title>
+    <script type="text/javascript" src="loadxmldoc.js"></script>
+</head>
+<body>
+  <script type="text/javascript">
+        XMLObjekt = loadXMLDoc("musiksammlung.xml");
+
+        Knoten = XMLObjekt.firstChild;
+        document.write('Hauptelement: ' + Knoten.nodeName + '<br \/>');
+
+        KnotenElement = XMLObjekt.getElementsByTagName('TITEL')[0];
+        document.write('Knotenelement: ' + KnotenElement.nodeName + '<br \/>');
+        document.write('Attribut ' + KnotenElement.attributes[0].nodeName + ' mit Wert ' + KnotenElement.attributes[0].nodeValue + '<br \/>');
+        document.write('Attribut ' + KnotenElement.attributes[1].nodeName + ' mit Wert ' + KnotenElement.attributes[1].nodeValue + '<br \/>');
+    </script>
+</body>
+</html>
+

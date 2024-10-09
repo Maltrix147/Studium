@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes" ?>
+<xlink:extended xmlns:xlink="http://www.w3.org/1999/xlink">
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z1" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z2" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z3" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z4" />
+  <wo xlink:type="locator" xlink:href="..." xlink:label="Z5" />
+  <was xlink:type="resource" xlink:label="wert">lokale Ressource</was>
+  <was xlink:type="resource" xlink:label="pic">/images/bild.jpg</was>
+  <wie xlink:type="arc" xlink:from="Z2" xlink:to="Z3" />
+  <wie xlink:type="arc" xlink:from="Z5" xlink:to="Z3" />
+  <wie xlink:type="arc" xlink:from="Z2" xlink:to="Z1" />
+  <wie xlink:type="arc" xlink:from="Z5" xlink:to="Z1" />
+  <wie xlink:type="arc" xlink:from="Z4" xlink:to="Z3" />
+</xlink:extended>

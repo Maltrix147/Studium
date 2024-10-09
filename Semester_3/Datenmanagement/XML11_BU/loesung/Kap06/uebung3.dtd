@@ -1,0 +1,16 @@
+  <!ELEMENT SEMINAR  (TITEL, ORT, DATUM, ZEITPLAN+, PERSON+)>
+  <!ELEMENT ZEITPLAN (THEMA+)>
+  <!ATTLIST ZEITPLAN
+            zeit CDATA #REQUIRED>
+  <!ELEMENT PERSON   (VORNAME, NACHNAME)>
+  <!ATTLIST PERSON
+            anrede (Herr|Frau) #REQUIRED
+            typ    (Seminarleiter|Teilnehmer) #REQUIRED
+  >
+
+  <!ELEMENT TITEL    (#PCDATA)> <!--    titel kann alle Zeichen enthalten -->
+  <!ELEMENT ORT      (#PCDATA)> <!--      ort kann alle Zeichen enthalten -->
+  <!ELEMENT DATUM    (#PCDATA)> <!--    datum kann alle Zeichen enthalten -->
+  <!ELEMENT THEMA    (#PCDATA)> <!--    thema kann alle Zeichen enthalten -->
+  <!ELEMENT VORNAME  (#PCDATA)> <!--  vorname kann alle Zeichen enthalten -->
+  <!ELEMENT NACHNAME (#PCDATA)> <!-- nachname kann alle Zeichen enthalten -->

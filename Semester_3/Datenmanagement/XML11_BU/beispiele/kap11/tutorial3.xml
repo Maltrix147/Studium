@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="tutorial3.xsl"?>
+
+<TEXT>
+	<RED>XSL machts möglich...</RED>
+	<BOLD>Die Daten werden fett dargestellt oder</BOLD>
+	<ITALIC>kursiv, je nach angelegter Transformation.</ITALIC>
+</TEXT>

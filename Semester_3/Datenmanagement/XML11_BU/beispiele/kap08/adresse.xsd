@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xs:schema targetNamespace="http://www.herdt.com" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Adresse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Strasse" type="xs:string"/>
+				<xs:element name="Ort" type="xs:string"/>
+				<xs:element name="PLZ" type="xs:integer" minOccurs="5" maxOccurs="5"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

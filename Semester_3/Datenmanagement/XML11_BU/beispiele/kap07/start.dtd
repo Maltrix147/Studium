@@ -1,0 +1,6 @@
+<!ELEMENT Adresse (Name, Strasse, Ort, PLZ)>
+<!ELEMENT Name    (#PCDATA)>
+<!ELEMENT Strasse (#PCDATA)>
+<!ELEMENT Ort     (#PCDATA)>
+<!ELEMENT PLZ     (#PCDATA)>
+

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fahrzeugverwaltung</title>
+<script type="text/javascript" src="loadxmldoc.js"></script>
+<link type="text/css" rel="stylesheet" href="uebung3.css"></link>
+<script id="kfzdaten" type="application/xml">
+<AUTO>
+   <KFZ>
+      <HERSTELLER>BMW</HERSTELLER>
+      <MODELL>BMW Z8</MODELL>
+      <LEERGEWICHT einheit="kg">1690</LEERGEWICHT>
+      <ZYLINDER>8</ZYLINDER>
+      <HUBRAUM>4941</HUBRAUM>
+      <LEISTUNG einheit="kW">294</LEISTUNG>
+      <HOECHSTGESCHWINDIGKEIT einheit="kmh">250</HOECHSTGESCHWINDIGKEIT>
+      <VON0AUF100 einheit="s">4,7</VON0AUF100>
+   </KFZ>
+   <KFZ>
+      <HERSTELLER>MERCEDES</HERSTELLER>
+      <MODELL>SLK 32 AMG</MODELL>
+      <LEERGEWICHT einheit="kg">1495</LEERGEWICHT>
+      <ZYLINDER>6</ZYLINDER>
+      <HUBRAUM>3199</HUBRAUM>
+      <LEISTUNG einheit="kW">260</LEISTUNG>
+      <HOECHSTGESCHWINDIGKEIT einheit="kmh">250</HOECHSTGESCHWINDIGKEIT>
+      <VON0AUF100 einheit="s">5,2</VON0AUF100>
+   </KFZ>
+   <KFZ>
+      <HERSTELLER>AUDI</HERSTELLER>
+      <MODELL>1.8 T quattro</MODELL>
+      <LEERGEWICHT einheit="kg">1395</LEERGEWICHT>
+      <ZYLINDER>4</ZYLINDER>
+      <HUBRAUM>1781</HUBRAUM>
+      <LEISTUNG einheit="kW">165</LEISTUNG>
+      <HOECHSTGESCHWINDIGKEIT einheit="kmh">243</HOECHSTGESCHWINDIGKEIT>
+      <VON0AUF100 einheit="s">6,4</VON0AUF100>
+   </KFZ>
+</AUTO>
+
+</script>
+</head>
+<body>
+  <h2>Fahrzeugverwaltung</h2>
+  <p>Datenumfang: <span id="counter"></span> Einträge</p>
+  <div id ="tabelle"></div>
+<hr>
+<script type="text/javascript">
+        xmlSource = document.getElementById("kfzdaten").textContent;
+        parser = new DOMParser();
+        kfzObjekt = parser.parseFromString(xmlSource, "application/xml");
+
+        Vkfz = kfzObjekt.getElementsByTagName('KFZ');
+        document.getElementById('counter').innerHTML = Vkfz.length;
+
+        output = '<table><tr class="firstline">';
+        output = output + '<td><b>Hersteller</b></td><td><b>Modell</b></td>'
+        output = output + '</tr>';
+
+        for (i=0; i < Vkfz.length; i++) {
+	output = output + '<tr>';
+
+	output = output + '<td>';
+	output = output + getNodeText(Vkfz[i].getElementsByTagName('HERSTELLER')[0]);
+	output = output + '</td>';
+
+	output = output + '<td>';
+	Modell = getNodeText(Vkfz[i].getElementsByTagName('MODELL')[0]);
+	output = output + '<a href="javascript:OeffneModellInfo(\'' + Modell + '\')">' + Modell +'</a>';
+	output = output + '</td>';
+
+
+
+	output = output + '</tr>';
+        };
+        output = output + '</table>';
+
+        document.getElementById('tabelle').innerHTML = output;
+</script>
+<noscript>Bitte aktivieren Sie in Ihrem Browser JavaScript, um die XML-Daten auslesen zu können.</noscript>
+</body>
+</html>

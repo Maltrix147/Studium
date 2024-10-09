@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="uebung2.xsl"?>
+<!DOCTYPE MUSIKSAMMLUNG SYSTEM "ms.dtd" [
+  <!ENTITY MRL "Mute Records Limited">
+  <!ENTITY IRL "Island Records Limited">
+  <!ENTITY JR "Jarrett Records">
+  <!ENTITY WR "WEA Records">
+  <!ENTITY PCD "Pilz Compact Disc">
+  <!ENTITY hs "Heiko Schröder">
+  <!ENTITY mm "Max Mustermann">
+]>
+<MUSIKSAMMLUNG>
+	<ALBUM>
+		<AUTOR>&hs;</AUTOR>
+		<INTERPRET>Moby</INTERPRET>
+		<TITEL stil="Pop" bewertung="4">Play</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="jpg" quelle="images/moby_play1.jpg"/>
+		<BILD typ="jpg" quelle="images/moby_play2.jpg"/>
+		<LIED>Honey</LIED>
+		<LIED>Find my baby</LIED>
+		<LIED>Porcelain</LIED>
+		<LIED>Why does my heart feel so bad?</LIED>
+		<LIED>South side</LIED>
+		<LIED>Rushing</LIED>
+		<LIED>Bodyrock</LIED>
+		<LIED>Natural Blues</LIED>
+		<LIED>Machete</LIED>
+		<LIED>7</LIED>
+		<LIED>Run on</LIED>
+		<LIED>Down slow</LIED>
+		<LIED>If things were perfect</LIED>
+		<LIED>Everloving</LIED>
+		<LIED>Inside</LIED>
+		<LIED>Guitar flute &amp; string</LIED>
+		<LIED>The sky is broken</LIED>
+		<LIED>My weakness</LIED>
+	</ALBUM>
+	<ALBUM typ="Vinyl">
+		<AUTOR>&mm;</AUTOR>
+		<GRUPPE>a-ha</GRUPPE>
+		<TITEL stil="Pop" bewertung="3">Minor earth major sky</TITEL>
+		<GESAMTZEIT>58:30</GESAMTZEIT>
+		<LABEL>&WR;</LABEL>
+		<JAHR>2000</JAHR>
+		<BILD typ="gif" quelle="images/aha_minor.gif"/>
+		<LIED>Minor earth major sky</LIED>
+		<LIED>Little black</LIED>
+		<LIED>Velvet</LIED>
+		<LIED>Summer moved on</LIED>
+		<LIED>The sun never shone that day</LIED>
+		<LIED>To let you win</LIED>
+		<LIED>The company man</LIED>
+		<LIED>Thought that it was you</LIED>
+		<LIED>I wish I cared</LIED>
+		<LIED>Barely hanging on</LIED>
+		<LIED>You'll never get over me</LIED>
+		<LIED>I won't forget her</LIED>
+		<LIED>Mary Ellen makes the moment count</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>&hs;</AUTOR>
+		<GRUPPE>Mesh</GRUPPE>
+		<TITEL stil="Independent" bewertung="5">Fragmente</TITEL>
+		<GESAMTZEIT>51:49</GESAMTZEIT>
+		<LABEL>&JR;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="jpg" quelle="images/mesh_fragmente.jpg"/>
+		<LIED>Trust you</LIED>
+		<LIED>My defender</LIED>
+		<LIED>You didn't want me</LIED>
+		<LIED>I don't think they know</LIED>
+		<LIED>Confined</LIED>
+		<LIED>Someone to believe in</LIED>
+		<LIED>State of mind</LIED>
+		<LIED>So important (original acoustic version)</LIED>
+		<LIED>In the light of day</LIED>
+		<LIED>I don't expect to be right</LIED>
+		<LIED>The purest people</LIED>
+		<LIED>Trust you (mesh remix)</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>&mm;</AUTOR>
+		<INTERPRET>Ludwig van Beethoven</INTERPRET>
+		<TITEL stil="Klassik">Berühmte Klavier-Sonaten</TITEL>
+		<GESAMTZEIT>56:30</GESAMTZEIT>
+		<LABEL>&PCD;</LABEL>
+		<JAHR>1988</JAHR>
+		<BILD typ="jpg" quelle="images/lvb.jpg"/>
+		<LIED>Mondschein Sonate</LIED>
+		<LIED>Pathétique</LIED>
+		<LIED>Waldstein-Sonate</LIED>
+	</ALBUM>
+	<ALBUM>
+		<AUTOR>&hs;</AUTOR>
+		<INTERPRET>Philip Glass</INTERPRET>
+		<TITEL stil="Klassik" bewertung="4">Koyaanisqatsi</TITEL>
+		<GESAMTZEIT>46:26</GESAMTZEIT>
+		<LABEL>&IRL;</LABEL>
+		<JAHR>1983</JAHR>
+		<BILD typ="jpg" quelle="images/glass_koya.jpg"/>
+		<LIED>Koyaanisqatsi</LIED>
+		<LIED>Vessel</LIED>
+		<LIED>Cloudscape</LIED>
+		<LIED>Pruit Igoe</LIED>
+		<LIED>The Grid</LIED>
+		<LIED>Prophecies</LIED>
+	</ALBUM>
+</MUSIKSAMMLUNG>
+

@@ -1,0 +1,29 @@
+  <!ELEMENT AUTO (KFZ+)>
+  <!ELEMENT KFZ (HERSTELLER, MODELL, (LEERGEWICHT, ZYLINDER?, HUBRAUM, LEISTUNG, HOECHSTGESCHWINDIGKEIT, VON0AUF100)?)>
+
+  <!ELEMENT HERSTELLER  (#PCDATA)>
+  <!ELEMENT MODELL      (#PCDATA)>
+  <!ELEMENT LEERGEWICHT (#PCDATA)>
+  <!ATTLIST LEERGEWICHT
+            einheit (kg) "kg"
+  >
+  <!ELEMENT ZYLINDER    (#PCDATA)>
+  <!ELEMENT HUBRAUM     (#PCDATA)>
+  <!ATTLIST HUBRAUM
+            einheit (ccm) "ccm"
+  >
+
+  <!ELEMENT LEISTUNG    (#PCDATA)>
+  <!ATTLIST LEISTUNG
+            einheit (kW|PS) "kW"
+  >
+
+  <!ELEMENT HOECHSTGESCHWINDIGKEIT (#PCDATA)>
+  <!ATTLIST HOECHSTGESCHWINDIGKEIT
+            einheit (kmh|mph) "kmh"
+  >
+
+  <!ELEMENT VON0AUF100  (#PCDATA)>
+  <!ATTLIST VON0AUF100
+            einheit (s) "s"
+  >

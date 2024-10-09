@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<MUSIKSAMMLUNG>
+   <ALBUM typ="CD">
+      <INTERPRET>Moby</INTERPRET>
+      <TITEL>Play</TITEL>
+      <GESAMTZEIT>63:03</GESAMTZEIT>
+      <LABEL>Mute Records Limited</LABEL>
+      <JAHR>1999</JAHR>
+      <LIED>
+        <LIEDTITEL>Honey</LIEDTITEL>
+        <TITELZEIT>3:28</TITELZEIT>
+      </LIED>
+      <LIED>
+        <LIEDTITEL>Find my baby</LIEDTITEL>
+        <TITELZEIT>3:59</TITELZEIT>
+      </LIED>
+      <LIED>
+        <LIEDTITEL>Porcelain</LIEDTITEL>
+        <TITELZEIT>4:01</TITELZEIT>
+      </LIED>
+      <LIED>...</LIED>
+   </ALBUM>
+</MUSIKSAMMLUNG>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<DOKUMENT>
+  <GRUSS>Ich grüße die Welt mit meinem ersten XML-Dokument.</GRUSS>
+  <AUTOR>
+    <VORNAME>Heiko</VORNAME>
+    <NACHNAME>Schröder</NACHNAME>
+    <FOTO src="djwidjiw"/>
+  </AUTOR>
+</DOKUMENT>
+
+

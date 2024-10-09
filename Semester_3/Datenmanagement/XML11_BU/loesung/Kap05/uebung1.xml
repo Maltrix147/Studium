@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE MUSIKSAMMLUNG SYSTEM "uebung1.dtd" [
+    <!ENTITY hs "Heiko Schröder">
+]>
+<MUSIKSAMMLUNG>
+<!-- eingefügte Bewertung als Attribut -->
+	<ALBUM bewertung="4">
+		<AUTOR>&hs;</AUTOR>
+		<INTERPRET>Moby</INTERPRET>
+		<TITEL>Play</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="jpg" quelle="images/moby_play1.jpg"/>
+		<BILD typ="jpg" quelle="images/moby_play2.jpg"/>
+		<LIED>Honey</LIED>
+		<LIED>Find my baby</LIED>
+		<LIED>Porcelain</LIED>
+		<LIED>Why does my heart feel so bad?</LIED>
+	</ALBUM>
+<!-- eingefügte Bewertung als Attribut -->
+	<ALBUM typ="Vinyl" bewertung="3">
+		<AUTOR>&hs;</AUTOR>
+		<GRUPPE>a-ha</GRUPPE>
+		<TITEL>Minor earth major sky</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="gif" quelle="images/aha_minor.gif"/>
+		<LIED>Minor earth major sky</LIED>
+		<LIED>Little black</LIED>
+		<LIED>Velvet</LIED>
+		<LIED>Summer moved on</LIED>
+	</ALBUM>
+<!-- eingefügte Bewertung als Attribut -->
+	<ALBUM bewertung="5">
+		<AUTOR>&hs;</AUTOR>
+		<GRUPPE>Mesh</GRUPPE>
+		<TITEL>Fragmente</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="jpg" quelle="images/mesh_fragmente.jpg"/>
+		<LIED>Trust you</LIED>
+		<LIED>My defender</LIED>
+		<LIED>You didn't want me</LIED>
+		<LIED>I don't think they know</LIED>
+	</ALBUM>
+<!-- keine Bewertung -->
+	<ALBUM>
+		<AUTOR>&hs;</AUTOR>
+		<GRUPPE>Pet Shop Boys</GRUPPE>
+		<TITEL>Se a vida é (That's the way life is)</TITEL>
+		<GESAMTZEIT>63:03</GESAMTZEIT>
+		<LABEL>&MRL;</LABEL>
+		<JAHR>1999</JAHR>
+		<BILD typ="jpg" quelle="images/psb_sea.jpg"/>
+		<LIED>Se a vida é (That's the way life is)</LIED>
+		<LIED>Betrayed</LIED>
+		<LIED>How I learned to hate rock 'n' roll</LIED>
+		<LIED>Se a vida é (Pink noise mix)</LIED>
+	</ALBUM>
+</MUSIKSAMMLUNG>
