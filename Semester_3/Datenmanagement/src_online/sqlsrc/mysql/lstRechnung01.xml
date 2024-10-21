@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<Rechnung>
+  <Kunde>
+    <Kundennummer>12345</Kundennummer>
+    <Nachname>Gamdschie</Nachname>
+    <Vorname>Sam</Vorname>
+    <Strasse>Beutelhaldenweg</Strasse>
+    <Hausnnummer>5</Hausnnummer>
+    <Postleitzahl>67676</Postleitzahl>
+    <Ort>Hobbingen</Ort>
+    <Kundenart>Privatkunde</Kundenart>
+    <Bestellung>
+      <Bestellnummer>00001</Bestellnummer>
+      <Bestelldatum>20120512 12:30:00</Bestelldatum>
+      <Status>bezahlt</Status>
+      <Artikel>
+        <Artikelnummer>7856</Artikelnummer>
+        <Artikelname>Silberzwiebel</Artikelname>
+        <Menge>15</Menge>
+        <Preis>6.13</Preis>
+        <Währung>EUR</Währung>
+      </Artikel>
+      <Artikel>
+        <Artikelnummer>7863</Artikelnummer>
+        <Artikelname>Tulpenzwiebel</Artikelname>
+        <Menge>10</Menge>
+        <Preis>32.90</Preis>
+        <Währung>EUR</Währung>
+      </Artikel>
+     [...]
+</Rechnung>

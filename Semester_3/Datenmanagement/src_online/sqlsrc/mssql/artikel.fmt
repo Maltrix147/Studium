@@ -1,0 +1,6 @@
+11.0
+4
+1       SQLCHAR             0       12      ";"      1     artikel_id                 ""
+2       SQLCHAR             0       510     ";"      2     bezeichnung                German_PhoneBook_CI_AI
+3       SQLCHAR             0       41      ";"      3     einzelpreis                ""
+4       SQLCHAR             0       6       "\n"     4     waehrung                   German_PhoneBook_CI_AI
