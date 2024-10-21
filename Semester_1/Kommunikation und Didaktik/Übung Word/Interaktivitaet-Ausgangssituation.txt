@@ -1,0 +1,418 @@
+Welches Lernprogramm darf sich ‘interaktiv’ nennen?
+ 
+Universität Erfurt
+Erziehungswissenschaftliche Fakultät
+Seminararbeit
+Constance Schulz
+
+ 
+Welches Lernprogramm darf sich ‘interaktiv’ nennen?
+Universität Erfurt
+Erziehungswissenschaftliche Fakultät
+Seminararbeit
+Problembasiertes Lernen in multimedialen Lernumgebungen
+WS 2003/2004
+Betreut von: Prof. Dr. Helmut M. Niegemann
+Erstellt von: Constance Schulz,
+Matrikelnummer: 19537
+
+ 
+Inhalt
+1	Einleitung	5
+2	Was ist Interaktion, was ist Interaktivität?	7
+3	Funktionen der Interaktivität	10
+3.1	Individualisiertes Lernen	11
+3.2	Motiviertes Lernen	13
+3.3	Kooperatives Lernen	18
+4	Formen der Interaktivität	24
+4.1	Navigations- und Orientierungshilfen	25
+4.2	Interaktions- und Lehr-/Lern-Metaphern	28
+5	Realisierung von Interaktivität	32
+5.1	Lerner-Aktivität	33
+5.2	Lernprogramm-Aktivität	39
+6	Zusammenfassung	42
+7	Literaturverzeichnis	52
+ 
+
+ 
+Abbildungsverzeichnis
+Abbildung 3 1: Intrinsische und extrinsische Motivation	18
+Abbildung 4 2: Fließende Grenzen zwischen Steuerungsinteraktionen und didaktischen Interaktionen nach Strzebkowski, 1997, S. 278	28
+ 
+Tabellenverzeichnis
+Tabelle 1: Vergleich der Methoden in Bezug auf Gruppengröße und Aufgabenteilung	27
+
+ 
+1	Einleitung
+Mit den rapiden Veränderungen in der Arbeitswelt haben sich auch die Lebens- und Lerngewohnheiten der Lernenden verändert. Bildungseinrichtungen sind mehr und mehr gezwungen, ihre Wissensinhalte orts- und zeitunabhängig anzubieten.
+Digitale Medien, insbesondere das Internet, scheinen hier die zunächst idealen Plattformen zu bieten (bmb+f, 2003).
+„Die Hochschulen haben jetzt die Chance, durch die Nutzung von Informations- und Kommunikationstechnologien die Qualität der Lehre zu verbessern, den Anteil eines geführten bzw. eines betreuten Selbststudiums zu erhöhen, neue Fernstudienangebote und neue Kombinationen von Präsenzlehre und Selbst-/Fernstudienanteilen zu entwickeln sowie gleichzeitig neue Angebote für die Weiterbildung zu schaffen.“ (bmb+f, 2003)
+Das Grundlagenwissen soll immer mehr auf dezentrale und selbstständige Lernformen verlagert werden (Strzebkowski, 1997). Individuelles und flexibles Lernen gewinnt also immer mehr an Bedeutung und neue Formen von Wissensvermittlungsprozessen bilden sich heraus. Die Vision des selbstbestimmten, ortsunabhängigen Lernens bekommt neue Impulse: Die modernen Informations- und Kommunikationstechniken eröffnen neuartige Aus-, Fort- und Weiterbildungsmöglichkeiten, die ein eigenverantwortliches und selbstorganisiertes, individuelles Lernen und ein Sich-Einstellen auf unterschiedliche, sich rasch wandelnde berufliche Anforderungen ermöglichen.
+Netzbasiertes Lernen verändert die Strukturen herkömmlicher Lehrangebote. Dabei gelten die Möglichkeiten der Interaktivität als wesentliches Potential von digitalem Lernen.
+„The first benefit is great interactivity. Initially the computers will be reactive, like a musical instrument, as they are today. Soon they will take initiatives as well, behaving like a personal assistant.“ (Kay, 1991, S. 106)
+Nahezu jedes Lernprogramm trägt das Attribut „interaktiv“. Doch was ist interaktiv? Ist das Aufrufen verschiedener Lerninhalte entsprechend dem Aufschlagen einer Buchseite bereits ein „interaktiver“ Vorgang? Oder ist erst das Bearbeiten und Lösen von Aufgaben mit entsprechendem Feedback des Lernprogramms interaktiv? Warum brauchen wir Interaktivität? Was bewirkt Interaktivität?
+Aufgabe dieser Arbeit ist es,
+-	den Begriff Interaktivität einzugrenzen und Interaktion von Interaktivität zu differenzieren (Kapitel 2: Was ist Interaktion, was ist Interaktivität?)
+-	die Funktionen von Interaktivität zu beleuchten, um zu erkennen, warum auf Interaktivität so viel Wert gelegt wird (Kapitel 3: Funktionen der Interaktivität)
+-	aufzuzeigen, welche Formen von Interaktivität existieren (Kapitel 4: Formen der Interaktivität)
+-	Realisierungsformen interaktiver Lernprogrammbestandteile vorzustellen (Kapitel 5: Realisierung von Interaktivität)
+-	eine Antwort darauf zu finden, welches Lernprogramm sich tatsächlich ’interaktiv‘ nennen darf (Kapitel 6: Zusammenfassung)
+2	Was ist Interaktion, was ist Interaktivität?
+Der Begriff Interaktion ist vom Lateinischen inter (= zwischen) und agere (= handeln) abgeleitet. Im Allgemeinen wird Interaktion als sozialer Prozess betrachtet, bei dem zwei oder mehr Personen unter Berücksichtigung des Kontexts ihrer Handlungen sich gegenseitig aufeinander beziehen. Die Handlungen der einen Person dienen als Vorgabe der Handlung der anderen Person. Interaktion beschreibt „die gegenseitige Beeinflussung, die wechselseitige Abhängigkeit und das ’Miteinander-in-Verbindung-treten‘ zwischen Individuen und sozialen Gebilden“ (Haack, 1997, S. 152). Der Begriff Interaktion weitet sich in den achtziger Jahren um den Begriff Mensch-Computer-Interaktion aus. Digitale Medien können einen menschlichen Gesprächspartner mit eingeschränkter sozialer Präsenz ersetzen und kommen somit als Kommunikationspartner in Frage.
+„Die Mensch-Programm-Interaktion zeichnet sich - im Gegensatz zur sozialen Interaktion - dadurch aus, dass sie frei von sozialen Konsequenzen ist.“ (Schulmeister, 2001, S. 325)
+Schulmeister sieht in der Mensch-Computer-Interaktion für Jugendliche einen Vorteil. Der Computer ist bei ihnen sehr beliebt, da er zwar auch bewertende Rückmeldungen gibt, die jedoch „gelöscht“ werden. In der Schule hinterlassen Schüler bei Lehrern einen Eindruck, der nicht so leicht gelöscht werden kann wie in einem Lernprogramm (Schulmeister, 2002). Weiterhin bauen Lernende bei Interaktionen mit dem Computer keine Angst auf, da sie ungestraft Fehler machen können. Sie bleiben anonym und sanktionsfrei, und genau das spielt eine wesentliche Rolle für die Lernmotivation der Lernenden. Chester & Gwen (1997) bestätigen diese Erkenntnis.
+Interaktion bezeichnet nach Schulmeister (2001, S. 323) im computerunterstützten Lernen „den Umgang mit den symbolischen Inhalten des Lernprogramms“. Interaktivität hingegen meint in Bezug auf ein Lernprogramm „die Häufigkeit und Dimension technisch mediierter Aktionen, z. B. die Unterbrechung einer Programmprozedur.“
+Lernprogramme enthalten nach Haack (1997) bestimmte Stufen des Interaktionsniveaus. Werden in ein Lernprogramm folgende Merkmale implementiert, so erhöht sich die Interaktivität schrittweise:
+-	„Zugreifen auf bestimmte Informationen, Auswählen, Umblättern
+-	Ja/Nein- und Multiple-Choice-Antwortmöglichkeiten und Verzweigen auf entsprechende Zusatzinformationen
+-	Markieren bestimmter Informationsteile und Aktivierung entsprechender Zusatzinformationen
+-	freier Eintrag komplexer Antworten auf komplexe Fragestellungen mit intelligentem tutoriellem Feedback
+-	freier ungebundener Dialog mit einem Tutor oder mit Lernpartnern mit Hilfe von Multimedia- und Hypermediasystemen“ (Haack, 1997, S. 153)
+Fast alle Lernprogramme werden mit dem Attribut „interaktiv“ versehen. Untersucht man die Produkte genauer, enthalten viele Lernprogramme keine interaktiven Objekte, sondern Menüs und Schaltflächen, um sich im Programm bewegen zu können. Das sind Elemente und Kennzeichen der Navigation, das heißt, die Lernenden können höchstens Inhalte und Objekte bestimmen und auswählen, bleiben also in der Informationserschließung weiterhin passiv. Issing (1998) schlägt daher folgende Kriterien für echte Interaktivität vor:
+-	Kreativität: Die Lernenden sollen die Möglichkeit haben, selbst kreativ zu werden, d. h. sie können Inhalte verändern und selbst erstellen.
+-	Dynamik und Adaptivität: Das Programm reagiert individuell auf Aktionen des Lernenden
+-	Kontrolle: Lernende kontrollieren ihren Lernprozess selbst
+-	Unterstützung: Die Lernenden müssen bei Bedarf unterstützt werden, z. B. sollte eine adaptive Hilfe oder Führung angeboten werden
+Zusammenfassend kann gesagt werden: Interaktivität multimedialer Lernprogramm beinhaltet demnach die Aktivität des Lernenden, Eingriffs- und Steuerungsmerkmale, sowie ein aktives Verhalten des Lernprogrammes, z. B. in Form von Feedback:
+„Ein Lehr-/Lernprogramm ist dann interaktiv zu nennen, wenn es in einem Lehr-/ Lerndialog in wechselnder Initiative zwischen System und Lerner Aufgaben zu Bearbeitung vorgibt, deren Beantwortung durch den Lehrer und/oder Beantwortungserfolg diagnostiziert und/oder bewertet und als Ergebnis dieser Diagnose explizite, aufgabenintrinsische Rückmeldungen abgibt, neue Aufgaben vorgibt oder über eine Modellierung des Lerners und adaptiven Testen andere kontigente Hilfestellung leistet. Jedes Lehr-/Lernsystem, welches sich in diesem Sinne flexibel (’intelligent‘) oder semiflexibel (’quasiintelligent‘) auf einen jeweiligen Lernenden und eine konkrete Lernsituation einstellt, ist in diesen Sinne ’interaktiv‘.“ (Fischer, 1989)
+3	Funktionen der Interaktivität
+Es gibt viele verschiedene Lernformen, aber in einer Hinsicht sind sich die Experten einig:
+„Psychologen und Pädagogen stimmen darin überein, daß aktives Lernen in hohem Maße effizienter ist als passives Konsumieren einen Stoffes. Das, was im Sinne eines ’learning by doing‘ selbständig erarbeitet wird, kann auch verarbeitet und damit wirklich verstanden werden.“ (Bodendorf, 1990; S. 39)
+Aktives Lernen setzt eine Mensch-Computer-Interaktion voraus, in der der Mensch im Mittelpunkt steht. Der Computer sollte sich den Handlungen des Menschen anpassen und dementsprechend auf seine Handlungen eingehen. Der Lernende soll auf diese Weise mehr persönlichen Einfluss auf den Computer gewinnen und aktiv in das Geschehen eingreifen können (Laurel, 1992).
+Interaktivität soll die Grundfunktionen jedes Lehrens unterstützen, ansonsten ist sie überflüssig oder gar kontraproduktiv (Niegemann et al., 2004). Nach Klauer (1985) sind dies die Grundfunktionen jedes Lehrens: Motivieren, Informieren, Verstehen fördern, Behalten fördern, Anwenden und Transfer fördern und Lernprozess organisieren und regulieren. Interaktivität kann im computerunterstützen Lernen jede einzelne Lehrfunktion unterstützen (Niegemann et al., 2004):
+-	Motivierende Interaktionen
+-	Informationsliefernde Interaktionen
+-	Verstehen fördernde Interaktionen
+-	Behalten fördernde Interaktionen
+-	Interaktionen, die das Anwenden und den Transfer fördern
+-	Interaktionen, die Lernprozesse regulieren
+Für die Interaktivität multimedialer Lehr- und Lernsysteme ergeben sich nach Haack (1997) die Funktionen individualisiertes Lernen, motiviertes Lernen und kooperatives Lernen.
+Beim individualisierten Lernen kann der Lernende entsprechend seinen Interessen und Lernbedürfnissen Lehrinhalte auswählen. Er selbst kann sein Lerntempo bestimmen und den Lernprozess steuern.
+Beim motivierten Lernen wird der Lernende aktiv in das Lerngeschehen einbezogen. Der Lernsoftware-Didaktiker versucht die Aufmerksamkeit des Lernenden zu wecken und somit
+das Interesse auf den Lerninhalt zu lenken. Dies kann durch interaktive Techniken gefördert werden.
+Beim kooperativem Lernen werden andere Lernende in den Lernprozess mit einbezogen, d. h. gemeinsame Aktivitäten stehen im Vordergrund. In kleinen Gruppen erarbeiten die Lernenden selbstständig Inhalte. Sie lernen soziale Kooperation, kontrollieren und korrigieren sich gegenseitig.
+3.1	Individualisiertes Lernen
+Lernen ist im engeren Sinne immer individuell und vollzieht sich innerhalb eines Lernenden (Hesse, Garsoffky & Hron, 1997).
+„Individualisiertes Lernen findet dann statt, wenn die Interaktivität eines Programms die Auswahl und die Darbietung von Lerninformationen ermöglicht, die den jeweiligen Interessen und Lernbedürfnissen des Lernenden an einer bestimmten Stelle im Lernprozess entsprechen.“ (Haack, 1997, S. 154)
+Individualisiertes Lernen kann nur dann stattfinden, wenn die Lernumgebung sich an die Bedürfnisse und Wünsche des Lernenden anpasst. Der Lernende steht im Mittelpunkt und steuert den Lernprozess. Hier ist natürlich vorausgesetzt, dass dem Lernenden verschiedene Möglichkeiten zur Verfügung gestellt werden.
+Sehr interessant hierbei ist der Aspekt, dass bei vielen Lernprogrammen mehrere Zielgruppen angesprochen werden können:
+Lernende, die
+-	Einsteiger sind und sich komplett das Wissen aufbauen müssen
+-	ihr Wissen auffrischen wollen
+-	nach speziellen Fragen und Antworten suchen
+Individuelles Lerntempo und individuelle Einstiegsmöglichkeiten stehen hierbei im Vordergrund. In Lernumgebungen sollte jeder Lernende die Möglichkeit haben, sein Arbeitstempo selbst zu bestimmen und sein Einstiegskapitel zu wählen.
+Beim individualisierten Lernen eröffnen sich dem Lernenden folgende Möglichkeiten:
+-	Der Lernende kann unabhängig von Unterrichtszeit und Klassenräumen arbeiten.
+-	Er ist unabhängig von der Lerngeschwindigkeit anderer Teilnehmer.
+-	Er kann selbst alle Fragen beantworten oder Übungen durcharbeiten und dadurch sein Wissen überprüfen.
+3.2	Motiviertes Lernen
+Motivation ist positiv konnotiert. Sie ist abhängig von den Eigenschaften des Lernenden und dessen momentaner Lebenssituation und Zeitpunkten (Niegemann et al., 2004).
+„Motivation ist die allgemeine Bezeichnung für alle Prozesse, die körperlich und physische Vorgänge auslösen, steuern oder aufrechterhalten. Jedes Lebewesen fühlt sich, angeregt von seinen Neigungen und Abneigungen, von bestimmten Reizen und Aktivitäten stärker angezogen als von anderen.“ (Zimbardo, 1999, S. 319)
+Menschen besitzen von sich aus Motivation, um bestimmte Handlungen auszuführen. Diese von innen herführende Motivation bezeichnen wir als intrinsische Motivation. Bei der intrinsischen Motivation spielen positive oder negative Verstärkung keine Rolle (Edelmann, 2000). Es ist ein Lernen oder Arbeiten aus eigenem, innerem Antrieb und zur persönlichen Befriedigung.
+„Intrinsische Motivation setzt sich zusammen aus dem Sachinteresse (Neugier), dem Anreiz (positive Emotion) und der Erfolgserwartung.“ (Edelmann, 2000, S. 258)
+Lehrende können jedoch nicht immer davon ausgehen, dass Lernende in allen Bereichen intrinsisch motiviert sind und jeder gleich stark motiviert ist. Manche Lerninhalte liegen außerhalb eines selbst festgelegten Ziels und es wird gelernt, um z. B. eine Prüfung zu bestehen oder eine gute Note zu erlangen. Hier spricht man von extrinsischer Motivation.
+„Extrinsische Lernmotivation ist dann gegeben, wenn der Lernende durch äußere Anreize zum Lernen angehalten wird, wenn z. B. das Erreichen positiver Reize als Angebot steht.“ (Strittmatter & Niegemann, 2000, S. 63)
+Wenn nach gelernten Inhalten ein Test positiv ausfällt und der Lernende gelobt wird, ist er stark motiviert. Diesen Erfolg sollten nach Skinner die Lernenden durch erreichbare Teilziele möglichst oft erfahren (Holzinger, 2001). Bleibt die Belohnung aus, nimmt die Motivation wieder ab. Nach Holzinger ist intrinsische Motivation wesentlich wirkungsvoller und dauerhafter als extrinsische Motivation (Holzinger, 2001).
+ 
+Abbildung 3 1: Intrinsische und extrinsische Motivation
+Wie können Lernende beim E Learning motiviert werden, wie kann das Interesse des Lernenden wachgehalten werden? Die Instruktionspsychologie  liefert hierzu eine Reihe von Ansätzen und Lernmodellen. Sie geben Empfehlungen und Hinweise über Vorgehensweisen bei Lernenden mit bestimmten Voraussetzungen (Vorwissen, Motivation) und bestimmten Lernzielen, die erreicht werden sollen (Strittmatter & Niegemann, 2000). Innerhalb dieses Bereichs finden sich nach Holzinger drei wesentliche Modelle, die Motivation als zentrales Element berücksichtigen (Holzinger, 2001):
+-	das ARCS-Modell von Keller (1983)
+-	der Ansatz der Supermotivation von Spitzer (1995) und
+-	der Time-Continuum-Ansatz von Wlodkowski (1985)
+Im Folgenden wird Kellers ARCS-Modell dargestellt, da es das bekannteste ist und systematisch angewendet wurde.
+ARCS steht für die Anfangsbuchstaben der vier Motivierungskomponenten (Niegemann et al., 2004; Niegemann, 2001):
+-	Attention: Aufmerksamkeit erlangen
+Wird die Aufmerksamkeit eines Lernenden aktiviert, ist der Lernende interessiert und intrinsisch motiviert. Die Aufmerksamkeit eines Lernenden kann nach Keller in drei Unterkategorien erlangt werden: 
+-	Orientierungsverhalten provozieren,
+-	Neugier bzw. Fragehaltung anregen und 
+-	Abwechslung bieten.
+-	Relevance: Bedeutsamkeit des Lehrstoffs ermitteln
+Keller unterscheidet hier zwischen Ziel- und Prozessaspekt der Relevanz. Mit Lerninhalten kann das Bestehen einer Prüfung erzielt werden oder das Aufbauen von Fähigkeiten erreicht werden. Beides sind Beispiele für das Erreichen eines bestimmten Ziels. Zum Prozessaspekt gehören z. B. Gruppenarbeit und Experimentieren. Auch die Relevanz unterteilt Keller nochmals in drei Unterkategorien:
+-	Vertrautheit,
+-	Lernzielorientierung und
+-	Anpassung an Lernermotivation.
+1 Im angloamerikanischen Raum wird die Instruktionspsychologie als Instructional Design (ID) bezeichnet.
+-	Confidence: Erfolgszuversicht geben
+Die Zuversicht auf Erfolg motiviert schon an sich. Der Erfolg darf jedoch nicht zu leicht für den Lernenden erreichbar sein, sonst fehlt ihm die notwendige Herausforderung. Andersherum darf für den Lernenden der Erfolg nicht zu hoch angesetzt werden, da sonst die Lernziele für den Lernenden unerreichbar erscheinen. Keller gibt hier drei Hinweise:
+-	Lernanforderungen bewusst machen,
+-	Gelegenheiten für Erfolgserlebnisse bieten und
+-	Möglichkeiten zur Selbstkontrolle geben.
+-	Satisfaction Zufriedenheit, Befriedigung herstellen
+Lernende sind sehr schnell demotiviert, wenn die versprochenen Lernziele nicht erreicht und die Anstrengungen nicht belohnt werden. Auch hier unterscheidet Keller drei Unterkategorien:
+-	natürliche Konsequenzen (Anwendungsmöglichkeiten des gelernten Wissens bieten)
+-	positive Folgen, wie Rückmeldungen und Bekräftigungen dem Lernenden geben und
+-	Gleichheit
+E Learning verlangt von Lernenden ein hohes Maß an Selbstständigkeit und Disziplin. Es setzt die Fähigkeiten voraus, sich selbst zu organisieren und die notwendige Eigeninitiative zu entwickeln. In selbstständigen Lernprozessen spielt daher der Aufbau und die Erhaltung von Motivation eine Schlüsselrolle.
+Nach Klauer (1985) ist die Motivation eine von sechs grundlegenden Lehrfunktionen, die dafür sorgen, dass Lehren einen wirksamen Effekt aufweist. Ohne ein bestimmtes Maß an Motivation, kann kein Lernprozess stattfinden. Daher muss die Motivation den gesamten Designprozess von E Learning-Modulen bestimmen. Keller (1983) weist hier auf die Mindestanforderungen an Instruktionen hin. Ist der Lernende in den Lernprozess eingebunden und wirkt aktiv mit, steigt seine Motivation. Vom lerntheoretischen Aspekt her muss eine Lernsoftware deswegen ein hohes Maß an Lerneraktivität auslösen. Dies wird vor allem durch ein hohes Maß an Interaktivität erreicht (Haack, 1997).
+3.3	Kooperatives Lernen
+„Cooperation is one of the most important human activities. Elephants have survived because of their size; cheetahs because of their speed; humans because of their ability to cooperate for the good of the group. In modern life, people who can organize as a group to accomplish a common end are likely to be successful...in virtually any endeavor.“ (Slavin, 1982, S. 5)
+Lernen mit Computern und Multimedia wurde in dieser Arbeit zunächst als individuelles Lernen betrachtet. Es können aber auch beim computerunterstützten Lernen andere Personen,
+B. andere Lernende oder Tutoren mit einbezogen werden. Wird der Computer für Kommunikation zwischen Mitgliedern einer Gruppe genutzt, um gemeinsam Wissen und Fertigkeiten aufzubauen und zu verfestigen, spricht man von kooperativem Lernen (Hesse, Garsoffky & Hron, 1997).
+„[...] cooperative learning will be defined as students working together in a group small enough that everyone can participate on a collective task that has been clearly assigned. Moreover students are expected to carry out their task without direct and immediate supervision of the teacher.“ (Slavin 1995, S. 3)
+Diese Definition von kooperativen Lernen umfasst „kooperatives Lernen“, „kollaboratives Lernen“ und „Gruppenlernen“ und konzentriert sich auf die Aufgabe selbst und das Delegieren der Verantwortung (vgl. Cohen, 1995).  Nach Slavin können also die drei Begriffe „kooperatives Lernen“, „kollaboratives Lernen“ und „Gruppenlernen“ synonym verwendet werden (Konrad & Traub, 2001; Hesse, Garsoffky & Hron, 1997).
+Beim kooperativen Lernen stehen gemeinsame Aktivitäten im Vordergrund. Jedes einzelne Gruppenmitglied hat einerseits eine individuelle Aufgabe, die in seiner Verantwortlichkeit liegt, ansonsten ergeben sich negative Konsequenzen. Ziel ist es, ein höheres Maß an Eigenbeteiligung jedes einzelnen Lernenden zu erreichen. Andererseits erarbeitet die Gruppe auch gemeinsame Aufgabenbereiche. Das gemeinsame Erarbeiten ist besonders erfolgreich, wenn die Gruppenmitglieder sich gegenseitig anleiten und ermutigen. Im regen Austausch lernen die einzelnen Gruppenmitglieder sich selbst und eigene Lernmethoden zu verstehen (metakognitives Wissen) und entwickeln effektivere Lerntechniken und Lernstrategien (Konrad & Traub, 2001). Die Gruppenmitglieder lernen das jedoch nicht von selbst und besitzen nicht von vornherein die Fähigkeit, kooperativ zu lernen. Voraussetzung für das Erlernen dieser Fähigkeit ist zunächst eine strukturierte Lernsituation und Interaktionsform. Weiterhin müssen die Gruppenmitglieder generell eine Bereitschaft zur Gruppenarbeit aufweisen (Hesse, Garsoffky & Hron, 1997).
+„The essential feature of cooperative learning is that the students help other students to be successful.“ (Slavin, 1987, S. 8)
+Jedes Gruppenmitglied entwickelt im Lernprozess die Fähigkeit zur sozialen Kooperation, d. h. der Lernende entwickelt die Kommunikationsfähigkeit, reagiert sensibel, lernt zu koordinieren und selbstständig zu denken und zu arbeiten. Die kooperativen Lernmethoden gehören zu den am gründlichsten untersuchten Alternativen zum traditionellen Schulunterricht. Hinsichtlich der Breite positiver Auswirkungen ist das kooperative Lernen als Unterrichtsmethode konkurrenzlos (Slavin, 1982). Methoden und Modelle für kooperatives Lernen wurden schon vor 40 Jahren für den Präsenzunterricht entwickelt und es wurde der Nachweis geführt, dass diese Methoden den Lernprozess fördern und verbessern (Slavin, 1995; Clark & Mayer, 2002). Diese Methoden bilden die Grundlage, um kooperatives Lernen in computerunterstütztes Lernen zu integrieren (Clark & Mayer, 2002). Die verschiedenen Methoden sind nach Clark und Mayer (2002) die Jigsaw-Methode, Structured Controversy, Problem-Based Learning und Peer Tutoring:
+-	Jigsaw-Methode (Gruppenpuzzle): Eine Lerngruppe wird in einzelne Gruppen (home teams) mit je vier bis fünf Mitgliedern geteilt. Jedes Gruppenmitglied erhält ein Segment des zu erarbeitenden Themas, das er seiner Gruppe vermitteln muss. Dazu splitten sich die Gruppen auf, treffen sich in Expertenteams (specialty subteams) und erarbeiten die Inhalte sowie eine Strategie, wie die anderen Jigsaw-Gruppenmitglieder unterwiesen werden sollen (Clark & Mayer, 2002).
+-	Structured Controversy: Die Lerngruppe wird vom Lehrenden in Vierergruppen geteilt. Jede Gruppe erhält ein Diskussionsthema, wobei zwei Mitglieder die Pro-Position und zwei Mitglieder die Contra-Position übernehmen. Nachdem die Pro- und die Contragruppe ihre Argumente separat besprochen haben, präsentiert die Progruppe ihre Argumente der Contragruppe. Die Contragruppe wiederholt die Proargumente, um zu zeigen, wie sie die Proargumente verstanden hat. Danach werden die Rollen getauscht. Die Vierergruppe präsentiert dadurch eine durchdachte und logisch aufgebaute Stellungnahme für die anderen Vierergruppen (Clark & Mayer, 2002).
+-	Problem-Based Learning: Eine Gruppe von acht bis zehn Lernenden trifft sich ohne großartige Vorbereitung mit einem Tutor, um z. B. einen Krankheitsfall zu analysieren und zu diskutieren. Einen hohen Lernerfolg erzielen die Lernenden nach der „Seven-Jump-Methode“ (Clark & Mayer, 2002): Nachdem die Lernenden das Problem gelesen oder gehört haben, ...
+1.	... klären sie unbekannte Begriffe und Sachverhalte.
+2.	... definieren sie das Problem.
+3.	... analysieren sie das Problem mit Hilfe von Brainstorming verschiedener plausibler Erklärungen.
+4.	... entwickeln sie eine kritische Abhandlung der verschiedenen plausiblen Erklärungen und versuchen eine kohärente Beschreibung des Problems aufzuzeigen.
+5.	... definieren sie Lernziele.
+6.	... befassen sie sich selbstgesteuert mit eventuell vorhandenen Lücken (festgestellt durch die definierten Lernziele).
+7.	... treffen sie sich mit den anderen Gruppen, tauschen Lernergebnisse aus und entwickeln eine Endversion des Problems.
+-	Peer Tutoring, Scripted Cooperation: Zwei Lernende erhalten eine Aufgabe, beispielsweise in Textform. Beide lesen zunächst den ersten Teil des Textes. Ein Lernender fasst den Text zusammen und arbeitet die Hauptpunkte heraus, während der andere ihm zuhört und eventuell korrigiert oder ergänzt. Dann lesen beide den zweiten Teil des Textes und tauschen die Rollen (Clark & Mayer, 2002).
+Tabelle 1: Vergleich der Methoden in Bezug auf Gruppengröße und Aufgabenteilung
+Methode	Gruppengröße	Aufgabenteilung
+Jigsaw-Methode	4 - 5	Jeder ein Segment
+Structured Controversy	4	2 Pro / 2 Contra, im Wechsel
+Problem-Based Learning	8 - 10	Gemeinsam nach der Seven-Jump-Methode
+Peer Tutoring, Scripted Cooperation	2	Zusammenfassen / Ergänzen, im Wechsel
+Diese Methoden können mit Hilfe von synchronen und asynchronen Kommunikationstools beim E Learning netzbasierten Lernen eingesetzt werden. Synchrone Kommunikation findet zeitgleich statt. Die Tools hierfür sind beispielsweise Chats  oder Whiteboards . Obwohl Chatten bei Jugendlichen sehr beliebt ist, werden Chats in E Learning kaum genutzt. Sie sind meistens unstrukturiert, so dass der Lernende schnell den Überblick verlieren kann (Niegemann et al., 2004).
+Bei der asynchronen Kommunikation reagieren die Kommunikationspartner zu unterschiedlichen Zeitpunkten auf die Äußerungen des anderen. Asynchrone Kommunikationstools sind z. B. E-Mails oder Diskussionsforen. Bei der zeitversetzten Kommunikation haben die Kommunikationspartner die Möglichkeit, über ein Thema oder eine Angelegenheit zunächst nachzudenken und selbst den Zeitpunkt einer Antwort festzulegen.
+Ein großer Kritikpunkt beim netzbasierten kooperativen Lernen ist das Fehlen von Gestik und Mimik. Die soziale Präsenz ist eingeschränkt, da non- und paraverbale Kommunikationselemente nicht wahrgenommen werden können (Niegemann et al., 2004). Jedoch können erste Studien belegen, dass netzbasierte Diskussionen tiefgründiger sind und einen höheren Lernerfolg erzielen als Präsenzdiskussionen. Jonassen und Kwon (2001) untersuchten in einem Weiterbildungsprogramm für Ingenieure im Bereich Organisationsführungskräfte (Leadership in Organization) Online-Diskussionen. Es waren quantitativ weniger Beiträge in der Online- Diskussion, jedoch mehr aufgabenorientiert. Die Lernenden hatten für ihre Entscheidungen mehr Zeit zum Reflektieren ihrer Ideen und Perspektiven. Die Lernenden, die ihre Probleme mit Hilfe des Computers gelöst hatten, waren mit dem Lernprozess mehr zufrieden und waren davon überzeugt, dass die Qualität des Problem-Lösen-Prozesses wesentlich höher war (Jonassen & Kwon, 2001).
+Diese Ergebnisse zeigen, dass netzbasiertes kooperatives Lernen im Sinne von Lernerfolg wertvoll sein kann und den Grad der Interaktivität auf Grund gemeinsamer Lerneraktiviät ungemein erhöht.
+4	Formen der Interaktivität
+„Die Interaktionsformen und das darin integrierte Feedback bilden das ’zentrale Nervensystem‘ eines Lernprogrammes und sind damit stark verantwortlich für die Qualität des Lernprozesses mit einem Computer.“ (Strzebkowski, 1997, S. 280)
+Wie oben dargestellt, hängt die Interaktivität mit den Aktivitäten des Lernenden im computerunterstützten Lernen zusammen, die das Computerprogramm bereitstellen muss. Diese Aktions- und Interaktionsformen lassen sich nach Baumgartner in zwei große Kategorien zusammenfassen:
+-	Steuerungsinteraktionen (Navigations- und Systemfunktionen)
+Bei der Steuerungsinteraktion soll der Lernende ohne lange kognitive Anstrengung zur gewünschten Information gelangen (intuitive Steuerung).
+-	didaktische Interaktionen (kontext- und bedarfsorientiert funktionieren)
+Das zentrale Anliegen der didaktischen Interaktion ist die Auseinandersetzung des Lernenden mit der dargestellten Information (aktiver Wissenserwerb)
+Strzebkowski betrachtet die Grenzen zwischen den beiden Kategorien als fließend, wenn beispielsweise ein Lernender frei navigiert und das System ihn mit Bemerkungen oder Anregungen unterstützt (siehe Abbildung 4-1). Die freie Navigation gehört zu den Steuerungsinteraktionen, die vom System gelieferten Bemerkungen oder Anregungen gehören zu den didaktischen Interaktionen.
+ 
+Abbildung 4 2: Fließende Grenzen zwischen Steuerungsinteraktionen und didaktischen Interaktionen nach Strzebkowski, 1997, S. 278
+Haack teilt die Interaktionsformen ebenfalls in zwei ähnliche Bereiche (Haack, 1997):
+-	Navigations- und Orientierungshilfen
+Je höher die Anzahl der Wahlmöglichkeiten im Lernprogramm, desto höher die Gefahr der Desorientierung und Verwirrung, die zu „lost in hyperspace“ führen (Gay & Mazur, 1991). Navigations- und Orientierungshilfen helfen dem Lernenden sich im Lernprogramm zurecht zu finden.
+-	Interaktions- und Lehr-/Lernmetaphern
+Ziel ist es, dass sich Lernende möglichst intuitiv mit der Lernsoftware auseinandersetzen können. Daher sollten sich die Aktionen und Handlungen am Computer an realen Handlungen anlehnen. Dieses kann durch Metaphern erreicht werden.
+Im Folgenden werden die Navigations- und Orientierungshilfen sowie Interaktions- und Lehrmetaphern näher beleuchtet.
+4.1	Navigations- und Orientierungshilfen
+Der Begriff Navigation steht synonym für Benutzerführung. Für jedes Lernprogramm wird ein Navigationsprinzip entwickelt, das den Weg zu den Inhalten und durch die Inhalte und Prozesse festlegt. In den Printmedien gibt es schon eine Reihe von Orientierungshilfen, die auch für den digitalen Bereich eingesetzt werden können, z. B. Inhaltsverzeichnisse, alphabetische Glossare, Stichwortverzeichnisse, Querverweise etc. Die folgende Übersicht hat Haack aus verschiedenen Quellen  zusammengestellt (Haack, 1997):
+-	Graphische Browser
+Netz- oder Baumstrukturen verdeutlichen den Lernenden die globale Struktur oder Teile des Lernprogrammes.
+-	Fischaugensichten
+Fischaugensichten funktionieren wie eine Linse. Ein großer Winkel zeigt eine detaillierte Ansicht, ein kleiner Winkel eine weniger detaillierte Sicht der Umgebung.
+-	Leseprotokolle (Backtrack-Funktionen, history list)
+Leseprotokolle speichern die bisher „besuchten“ oder bearbeiteten Inhalte, hier als Knoten bezeichnet. Der Lernende kann direkt einen Knoten anspringen oder schrittweise seinen Weg zurückverfolgen.
+-	Breadcrumbs
+Bearbeitete Inhalte (Knoten) sind gekennzeichnet. Der Lernende erkennt sofort, dass er diesen Bereich schon bearbeitet hat.
+-	Lesezeichen (Bookmarks)
+Mit Lesezeichnen können Lernende sich individuell wichtige Bereiche kennzeichnen.
+-	Thumb tabs
+Thumb tabs sind Autorenhinweise (Hinweise des Lehrenden), die dem Lernenden wichtige und relevante Bereiche signalisieren.
+-	Pfade (paths, trails)
+Pfade schränken das freie Navigieren des Lernenden in verschiedener Hinsicht ein. Zellweger unterscheidet drei Arten von Pfaden:
+1.	sequentielle Pfade (vorgegebene Reihenfolge-Ordnung oder thematischer Ordnung)
+2.	verzweigte Pfade (Lernender kann bei einer Verzweigung auswählen)
+3.	bedingte Pfade (Lernprogramm wertet Test des Lernenden aus und bestimmt danach die weitere Richtung)
+Bei diesen aufgelisteten Navigations- und Orientierungsmitteln wandert der Lernende über bestimmte Stationen zu einem Folgeknoten (Haack, 1997). Jedoch können die Bewegungen eines Lernenden auch durch semantische Sprünge gekennzeichnet sein. Die Lernenden stellen eine spezifische Zielanfrage, z. B. eine Suchanfrage in einer Datenbank. Gall & Hannafin (1994) haben diese Art von Navigationsprozessen in vier Bereiche geteilt (Haack, 1997):
+-	Searching
+Der Lernende hat eine gezielte Anfrage an das Lernprogramm. Die Anfrage wird als erfolgreich angesehen, wenn die Trefferquote hoch ist und der Zugriff einfach ist (Haack, 1997).
+-	Browsing
+Der englische Begriff „browsing“ bedeutet übersetzt soviel wie „stöbern, schmökern, blättern“. Beim Browsen werden bestimmte Informationsquellen durchsucht, ohne dass feste Ziele oder konkrete Probleme vorgegeben sind. Dieses „Sich-treiben-lassen“ beim freien Durchstöbern der Hypertexte im World Wide Web basiert auf dem Vorhandensein eingebauter Links (Verbindungsstellen zu anderen Objekten). Dies kann ohne einen konkreten Plan, eine bestimmte Information zu finden (ungerichtet) oder planvoll (gerichtet) erfolgen. Die Gefahr, dass der Lernende vom Lehrenden wichtig eingestufte Informationen übersieht oder nicht wahrnimmt, ist beim Browsing sehr hoch (Haack, 1997).
+-	Connecting
+Der Lernende verbindet vorhandene Wissensknoten neu, d. h. er nimmt dadurch Korrekturen oder Ergänzungen im Lernprogramm vor (Haack, 1997).
+-	Collecting
+Diese Methode ist eine Erweiterung des Connectings: Der Lernende hat die Möglichkeit Lerninhalte neu zu strukturieren oder Formate umzuwandeln, z. B. Veränderungen des Screen-Designs oder Bildbearbeitung (Haack, 1997).
+4.2	Interaktions- und Lehr-/Lern-Metaphern
+Die Mensch-Computer-Interaktion muss intuitiv sein und sich möglichst an realen Handlungen orientieren, die den Benutzern vertraut sind. Hierbei sind Metaphern ein Hilfsmittel.
+„Eine Metapher ist ein Verfahren des Geistes, vermittels dessen uns gelingt, etwas zu erfassen, das unserem begrifflichen Vermögen ferner liegt. Mit Hilfe des nächsten, das wir am besten meistern, können wir zu einem Verständnis des Entlegenen und schwer Beherrschbaren gelangen.“ (Ortega y Gasset) 
+Im Folgenden werden verschiedene Metaphern vorgestellt, die den Lernenden vertraute Situationen bieten und damit die Mensch-Computer-Interaktion als vertraute Handlung erscheinen lassen. Haack gliedert Metaphern in räumliche und zeitliche Metaphern (Haack, 1997).
+Räumliche Metaphern
+Interface-Metaphern schaffen zu einem realen Sachverhalt ein elektronisches Gegenstück. Der Benutzer arbeitet nicht mit abstrakten Objekten, sondern mit „bildlichen Repräsentanten“ (Haack, 1997). Eines der bekanntesten Beispiele ist die Desktop-Metapher . Hier werden Icons benutzt, um damit Mausaktionen aufzuführen. Das Aussehen der Icons orientiert sich dabei idealerweise am Aussehen der realen Gegenstände. Ein Löschvorgang wird z. B. durch ein Blatt dargestellt, das in einen Papierkorb zu werfen ist. Die Buchmetapher (elektronisches Buch) stellt das Printmedium Buch digital dar, mit seinen Kapiteln und Unterkapiteln. Möglicherweise sind auch die Buchelemente Stichwortverzeichnis, Glossar und Literaturverzeichnis vorhanden. Eine Weiterentwicklung der Interface-Metapher stellen Florins (1990) ’informational landscapes’ dar. Sie repräsentieren vertraute Handlungen und Prozesse im realen Raum, zum Beispiel das Durchwandern eines Hauses oder das Reisen in einer Landschaft (Florin, 1990).
+Diese genannten grafischen Interaktionsmetaphern stoßen jedoch zunehmend auf Kritik. Eine einfache Übertragbarkeit der menschlichen Raumorientierung in eine semantische Navigation im Lernprogramm bezweifeln z. B. Dillon, McKnight & Richardson (1993). Hinzukommt die Kritik, dass Bildschirme oft überladen sind, und den Lernenden in ihrer Komplexität überfordern. Dies führte zur Entwicklung neuer Interaktionsmetaphern, den zeitlichen Metaphern (Haack, 1997).
+Zeitliche Metaphern
+Mit zeitlich-narrativen Metaphern können Lerninhalte entsprechend den klassischen Kunstformen Theater und Erzählung dramaturgisch gestaltet und gegliedert werden. Dadurch soll die Aufmerksamkeit geweckt und das Interesse der Lernenden aufrechterhalten werden.
+-	Interface agents (Agenten)
+Agents sind Personen auf dem Bildschirm, die den Lernenden durch das Lernprogramm führen. Agenten können in Form von Zeichentrick-Charakteren, TV-Sprechern (Video) oder real wirkenden virtuellen Figuren (Avatare) erscheinen. Agenten geben dem Lernprogramm einen sozialen Charakter und lassen es auch visuell als Konversationspartner erscheinen (Clark & Mayer, 2002). Untersuchungen von Moreno et al. (2001) und Aktinson (2002) haben ergeben, dass Lerngruppen mit Agenten bessere Ergebnisse erzielen.
+
+-	Computers as theatre
+Laurel (1993, 1998) stellt unter dem Schlagwort computers as theater einen motivationalen Ansatz zur Inhaltsgestaltung vor. Die Lerninhalte werden nach dramaturgischen, lernerzentrierten Aspekten konzipiert und gegliedert, um Motivation und Aufmerksamkeit während des Lernvorgangs kontinuierlich aufrecht zu erhalten. Dies erreicht der Lernsoftware-Designer durch den Aufbau eines Spannungsbogens oder den gezielten Einsatz inhaltsunterstützender Bilder und Diagramme.
+-	Story telling
+Lerninformationen werden mit der Metapher des Geschichtenerzählens strukturiert. Geschichten sind für die Gedächtnisorganisation besonders bedeutend. Schank (nach Niegemann et al., 2004) schlägt für die Konzipierung von Lernprogrammen vor, typische Handlungsabläufe narrativ zu gestalten. Dabei treten unerwartete Ereignisse auf, die den Lernenden überraschen. Werden die Erwartungen des Lernenden enttäuscht, hat er ein besonders großes Interesse an Erklärung. Diese Enttäuschung bleibt besonders in Erinnerung und kann bei ähnlichen Problemlösungen positiv eingesetzt werden. Schank entwickelte darauf aufbauend die Instruktionsdesignmethode „Learning by doing“ in „Goal- Based Scenarios“ (Niegemann et al., 2004).
+Künftige Entwicklungen neuer peripherer Ein- und Ausgabewerkzeuge werden völlig neue Lern-Interaktionsmetaphern mit sich bringen. Interaktionstechniken der virtuellen Welt werden es ermöglichen, Lernende unmittelbar in computergenerierte Welten zu integrieren (Haack, 1997) oder gar virtuelle mit realen Welten zu kombinieren (augmented reality).
+5	Realisierung von Interaktivität
+Die aufgelisteten Navigations- und Orientierungshilfen sowie Interaktions- und Lehr-/Lern- Metaphern zeigen die Vielfältigkeit von Interaktivität, die eingesetzt werden, um ein individuelles, motiviertes und kooperatives Lernen zu ermöglichen.
+Nach Thissen (2001) ist die Qualität von Interaktivität einer Lernsoftware abhängig von der Präsentation der Navigations- und Orientierungshilfen. Den Chancen von Interaktivität und Selbststeuerung steht das Risiko des „Lost in Hyperspace“ gegenüber. Eine gute Orientierungshilfe, eine übersichtliche Struktur und gute Navigationsinstrumente sind unabdingbare Voraussetzungen. Eine wesentliche Rolle hierbei spielen Aspekte wie Auswahl, Strukturierung und Anordnung der Navigations- und Orientierungshilfen. Eine gute Navigation zeichnet sich vor allem dadurch aus, dass sie intuitiv ist und nicht gelernt werden muss. Hilfreich dabei ist eine konsistente und transparente Navigation, die sich einheitlich durch die Lernsoftware zieht. Die Navigation sollte zu den Zielen, Erwartungen und dem Verhalten des Lernenden passen und ihm alternative Wege zum Ziel bieten (Thissen, 2001).
+Bei der Gestaltung der didaktischen Interaktion stehen Motivation und Aufmerksamkeit des Lernenden im Vordergrund. Der Lernende soll die Möglichkeit haben, Inhalte auszuprobieren und zu erforschen. Praktische Möglichkeiten sind der Einsatz von dramaturgischen und narrativen Mitteln in Form von Metaphern. Metaphern sollten wie die Navigations- und Orientierungshilfen einfach und konsistent gestaltet sein, dennoch nicht langweilig und trivial wirken. Eine realistische Metapher erhöht die Akzeptanz des Lernenden gegenüber des Lernprogrammes. Eine Metapher sollte die Aufgabe haben, Informationen und Inhalte zu transportieren, darf aber nicht durch die optische Gestaltung dominieren und sich in den Vordergrund drängen. Sie sollte zudem „flexibel“ sein, um in verschiedenen Situationen eingesetzt werden zu können. Dadurch kann eine eher Verwirrung verursachende Mischung mehrerer Metaphern verhindert werden (Thissen, 2001).
+Im Folgenden werden realisierbare Lerner-Aktivitäten und Lernprogramm-Aktivitäten näher vorgestellt.
+5.1	Lerner-Aktivität
+Computerunterstütztes Lernen erfordert ein hohes Maß an Selbstdisziplin und Konzentration. Damit das Lernen erfolgreich zum Lernziel führt, müssen die Eigenschaften des Lernenden berücksichtigt werden. Hierbei ist die Rolle des Vorwissens, sowie der Einfluss des Alters und der kognitive Entwicklungsstand der Lernenden zu beachten.
+„Die Qualität der Interaktion wird entscheidend durch die Fertigkeiten und Erfahrungen bestimmt, die die Lernenden in solchen Systemen mitbringen.“ (Haack, 1997, S. 155)
+Eine hohe Qualität der Interaktivität allein verspricht nicht einen maximalen Lernerfolg. Der Lernende muss die Interaktivität nutzen und erfolgreich anwenden können. Dies bedeutet, dass die Qualität der Interaktivität von den Fähigkeiten des Lernenden bestimmt wird, „die angebotenen Interaktionstechniken wahrzunehmen, zu erkennen, zu interpretieren und zielbewußt anzuwenden“ (Issing, 1998). Die metakognitiven Fähigkeiten sind die Voraussetzung für eine interaktive Informationserschließung in Lernprogrammen mit offenen Inhaltsstrukturen. Nach Issing (1998) sind folgende Fertigkeiten für das Arbeiten und Lernen mit hypermedialen Lernprogrammen von Bedeutung:
+-	Database Exploration: Die Lernenden sollen sich rasch einen Überblick über den strukturellen und inhaltlichen Aufbau des Lernprogramms machen können. Außerdem sollten sie sich von vornherein über den Umfang des Lernprogrammes einen Überblick verschaffen können.
+-	Retrieval- und Navigations-Strategien: Die Lernenden sollten einzelne Informationen und Zusammenhänge im Lernprogramm erkennen können, sie inhaltlich-logisch sammeln und speichern können.
+-	Authoring: Die Lernenden sollten die gespeicherten individuellen Informationsstrukturierungen z. B. als Concept-Maps wiedergeben können. Als Grundlagen sollen ihre eigenen Kenntnisse und Erfahrungen dienen.
+-	Inquiring und Team work: Die Lernenden sollten sich bei Fragen oder Problemen an den Experten wenden können und mit anderen Lernenden im Lernprogramm arbeiten können.
+Bei einer alltäglichen Nutzung der neuen Medientechnologie werden die Lernenden entsprechende Arbeitsstrategien entwickeln, jedoch können Lernprogramm-Didaktiker nicht von diesen Fertigkeiten bei allen Lernenden ausgehen. Daher sollten in dem Lernprogramm Hilfen integriert werden, die die von Issing aufgezählten Fertigkeiten unterstützen:
+„...students need extra guidance before they know how to utilize hypertext facilities...“ (Whalley, 1993)
+Auswahl von Lerninhalten und Wahl einer Reihenfolge
+Zu den trivialen Aktionsformen des Lernenden gehören die Auswahl von Lerninhalten und die selbstständige Wahl einer Reihenfolge des Lernstoffes (Niegemann et al., 2004). Wichtig hierbei ist, dass der Lernende weiß, was sich hinter einem Thema verbirgt, d. h. die Überschriften müssen beispielsweise selbsterklärend sein. Hilfreich für die Auswahl von Lerninhalten sind die Auflistung von Lernzielen und kurze Zusammenfassungen. So kann der Lernende beim individualisierten Lernen schnell selbst entscheiden, ob der Lernabschnitt von ihm bereits beherrscht wird und übersprungen werden kann oder ob er hier Zeit zum Lernen investieren sollte. Eine Integration von Guided Tours ermöglicht Lernenden mit unterschiedlichen Vorkenntnissen oder Interessen effektives und motiviertes Lernen. Lernende mit Vorkenntnisse können z. B. die Grundlagen-Kapitel überspringen, während Lernende ohne Vorkenntnissen die Möglichkeit haben, fundiertes Wissen aufzubauen. Guided Tours sollten jederzeit verfügbar sein und als Roter Faden für alle Zielgruppen dienen. Beide Lerner-Aktivitäten, Auswahl von Lerninhalten und die Wahl einer Reihenfolge, sind mit einfachen Mitteln innerhalb einer Webseite realisierbar. Im computerunterstützten Lernen differenzieren Lawless und Kulikowich (1998) zwischen drei Navigationstypen:
+-	Knowledge seeker: suchen gezielt nach Informationen
+-	Feature explorer: sind z. B. von den Gestaltungselementen eines Informationsangebots und dessen technischer Umsetzung fasziniert und versuchen diese zu entdecken/zu erkunden
+-	Apathitic hypertext user: haben keine genauen Vorstellungen, navigieren ziellos und verfolgen die Links, die am interessantesten erscheinen
+Ein Lernprogramm mit offenen Inhaltsstrukturen wäre beispielsweise für den ’Apathitic hypertext user‘ nicht geeignet. Wenn ein Lernprogramm für alle Navigationstypen erstellt werden soll, müssen sie auch alle berücksichtigt werden und von den Navigations- und Orientierungshilfen des Lernprogramms aufgefangen werden, z. B. eine Nachricht an den ’Apathitic hypertext user‘ senden, in dem ein Lernplan vorgeschlagen wird.
+Auswählen unterschiedlicher Schwierigkeitsniveaus
+Eine weitere Lerner-Aktivität beinhaltet das Auswählen unterschiedlicher Schwierigkeitsniveaus. Es müssen hierbei aber auch die Lernenden berücksichtigt werden, die nicht den Mut haben, sich für höhere Schwierigkeitsgrade zu entscheiden. Das Lernprogramm muss solche Lernenden unterstützen und motivieren, alle Schwierigkeitsstufen auszuprobieren.
+Bearbeiten und Lösen von Aufgaben
+Das Bearbeiten und Lösen von Aufgaben hilft Lernenden Wissenslücken zu erkennen. Solche Aufgaben mit Lösungen zu programmieren ist sehr zeitaufwändig, wenn keine vorhandene Lernplattform dies von vornherein anbietet, wie z. B. Blackboard, Clix oder WebCT. Diese Plattformen bieten eine einfache Erstellung von Selbstlernaufgaben ohne HTML-Kenntnisse, beispielsweise von Multiple-Choice-Fragen, Sortierfragen, Kurze-Antwort-Aufgaben oder Rechenaufgaben. Diese können vom System automatisch korrigiert werden. Beginnen einzelne Lektionen mit einem Einstiegstest, können Lernende sehr schnell beurteilen, ob sie ein bestimmtes Wissen schon abrufen können oder es sich noch aneignen müssen.
+Vervollständigen oder Modifizieren von Lernmaterialien
+Das Vervollständigen oder Modifizieren von Lernmaterialien ermöglicht den Lernenden ein „Lernen durch Modellieren“ (Strzebkowski, 1997). Hierzu gehören z. B. das Verknüpfen von verschiedenen Daten miteinander, Notizen verfassen, Links hinzufügen oder Schaubilder vervollständigen. Die Lernenden werden aufgefordert selbst aktiv zu werden, und die Aufmerksamkeit wird aufrechterhalten. Das Modellieren eigener Informationsstrukturen in hypermedialen Lernumgebungen wird in der didaktischen Gestaltung und Anwendung von Lernprogrammen immer bedeutender und wichtiger. Der Lernende interagiert zwischen seiner Wissenstruktur und der des Lernsystems. Solche Lernprogramme weisen einen hohen Grad an intellektueller Interaktivität mit Hilfe von ’kognitiven Medien‘ (cognitive tools). In kognitiven Landkarten kann der Lernende seine eigenen Gedanken projizieren, er kann neue Perspektiven, Beziehungen und Relationen austesten und damit experimentieren (Issing, 1998).
+Ein großer Kritikpunkt des computerunterstützten Lernens ist die eingeschränkte Möglichkeit seitens der Lernenden Fragen zu stellen. Viele computerunterstützte Lernprogramme sehen keine echte Lehrer-Lerner-Interaktion vor. Eine Möglichkeit besteht darin, einen vorgefertigten Fragenkatalog zu entwerfen und dem Lernenden zu Verfügung zu stellen. Die Fragen müssen natürlich den Fragen der Lernenden entsprechen (Niegemann, 2004). Eine andere Möglichkeit besteht nach Niegemann darin, die Navigation fragenbasiert aufzubauen. Der Lernende muss sich an bestimmten Stellen überlegen, was er wissen möchte. Mangelt es den Lernenden an der Formulierung sinnvoller Fragestellungen und an Arbeitsstrategien, sind sie eventuell überfordert und fühlen sich unter Druck gesetzt. Hier ist eine gute Betreuung und Kontrolle des Lernenden erforderlich, nicht nur in inhaltlicher Sicht, sondern auch in den Bereichen Lernstrategien, Strategien zur Planung und Kontrolle des eigenen Lernprozesses und des Ressourcenmanagements (Urhahne et al., 2000).
+Lernspiele und Simulationen
+Lernspiele und Simulationen sind in der technischen Realisierung sehr aufwändig, jedoch ist der Grad der Lerner-Aktivität sehr hoch. Bestimmte Fähigkeiten und Fertigkeiten sollen während eines Spiels, also „spielerisch“ erlernt werden. In Simulationsprogrammen können komplexe Zusammenhänge verdeutlicht und demonstriert werden. Simulationen erlauben dem Lernenden gefahrloses Experimentieren in virtuellen Umgebungen, z. B. lernen Piloten das Verhalten in kritischen Situationen in Simulationsprogrammen. Sie sitzen hinter einem Flugzeug-Cockpit und der Computer simuliert die Umgebung. Hier wenden Lernende ihr gelerntes Wissen an (entdeckendes, exploratives Lernen). Das Verhalten des Lernprogramms muss für den Lernenden transparent sein (Strittmatter & Niegemann, 2000).
+Hilfen zur Planung und Organisation
+Computerunterstütztes Lernen erfordert ein hohes Maß an Selbstdisziplin. Nicht jeder Lernende kann sich selbst organisieren und einen eigenen Lernplan entwickeln. Für erfolgreiches E Learning ist es notwendig, hier den Lernenden unter die Arme zu greifen und Hilfen zur Planung und Organisation des Lernens zu geben. Auch kann nicht von jedem Lernenden erwartet werden, dass er sich sofort in dem Lernprogramm zurecht findet. Aufbau, Symbole etc. sollten in einem separaten Kapitel erläutert werden. Lernumgebungen wie z. B. Blackboard, Clix und WebCT bieten von Haus aus eine kontextsensitive Hilfe. Eine kontextsensitive Hilfe bietet Hilfe zum Inhalt der aktuellen Bildschirmseite und ändert sich je nach Inhalt der dargestellten Bildschirmseite. Jedoch ist es wichtig, den Lernenden auch eine inhaltsbezogene Hilfe zum Arbeiten mit dem Lernprogramm anzubieten, um Fragen wie z. B. „Wo finde ich meine Termine?“, „Wo finde ich aktuelle Hinweise vom Lehrenden?“, „Bis wann muss ich welchen Inhalt gelernt haben?“ zu beantworten (Niegemann et al., 2004). Für Lernende, die zum ersten Mal mit dem Lernprogramm arbeiten, ist es sinnvoll ein Einstiegsseminar zu veranstalten (Online-Veranstaltung oder Präsenzveranstaltung). Hier sollte das Arbeiten mit dem Lernprogramm erklärt werden.
+5.2	Lernprogramm-Aktivität
+Die Lerninhalte können dann als interaktiv gelten, wenn sie sich an das Lernverhalten des jeweiligen Lernenden anpassen. Ohne ein geringes Maß an Adaptivität kann ein Lernprogramm nicht interaktiv genannt werden (Niegemann, 2004). Das Lernprogramm bezieht sich auf die Äußerungen des Lernenden und passt sich daran an. Nach Leutner (2002) kann diese Anpassung in folgenden Bereichen stattfinden:
+-	Instruktionsumfang und Lernzeit: Es sollte so lange gelehrt werden, bis die Lernenden ihr Lernziel erreicht haben. Das heißt, der Wissensstand muss in kurzen Zeitabständen diagnostiziert werden.
+-	Instruktionssequenz: Je nachdem, welchen Fehler der Lernende in der Bearbeitung der Aufgabe gemacht hat, erhält er individuell eine neue Instruktion.
+-	Aufgaben-Präsentationszeit und Antwortbegrenzung: Um den Lernenden schnell vom Wissen zum Können zu führen (vom deklarativen Wissen zum prozeduralen Wissen), sollten Möglichkeiten Fehler zu machen, möglichst gering sein.
+-	Aufgabenschwierigkeit: Beantwortet der Lernende eine Aufgabe richtig, gibt ihm das Lernprogramm eine schwierigere Aufgabe. Ist seine Antwort falsch, gelangt er in eine niedere Schwierigkeitsstufe.
+Fragen, Aufgaben und Probleme stellen und kontrollieren
+Das System muss Fragen, Aufgaben und Probleme stellen und kontrollieren bzw. bewerten. Bei falschen Antworten sollte der Lernende ein brauchbares Feedback bekommen, so dass er die Lücken aufarbeiten kann. Gut wäre es, wenn das Lernprogramm so tolerant ist, dass es z. B. Tippfehler von inhaltlichen fehlerhaften Antworten unterscheiden kann (Niegemann, 2004). Hier ist der Programmieraufwand wesentlich höher. Kommerzielle Lernumgebungen geben bei dieser Art von Tests immer noch die Möglichkeit, dass der Lehrende die Antworten der Lernenden korrigiert.
+Aktive Hilfe
+Das Lernprogramm kann auch aktive Hilfe leisten, indem es auf ein bestimmtes Klickverhalten oder auf typisch wiederholte Fehler reagiert. Diese Art von Hilfe findet sich beispielsweise in MS Word: Wird nicht mit Formatvorlagen gearbeitet, macht die Software darauf aufmerksam und bietet Hilfe zum Erstellen von Formatvorlagen. Wichtig ist jedoch, dass der Lernende diese Hilfe ausschalten kann (Niegemann et al., 2004). Wie stark das Lernprogramm oder ein Tutor den Lernweg kontrollieren sollte, ist umstritten. Starke Führung bedeutet einerseits, dass die Lernenden den Überblick behalten und mit großer Sicherheit ans Ziel gelangen. Zusätzlich haben sie das Gefühl, ein Ziel erreicht zu haben. Man entkommt der Gefahr des ’Lost-in-Hyperspace‘. Andererseits kann eine starke Führung als Einengung und Vorenthaltung interessanter Informationen erlebt werden. Das explorative Lernen wird stark eingeschränkt und die Möglichkeit, per Zufall auf interessante Themen zu stoßen (Serendipity-Effekt), entfällt. Eine programmierte inhaltliche Hilfe stützt insbesondere Lernende mit mittlerem Vorwissen. Fortgeschrittene brauchen sie eher nicht, oder sie wirkt sogar kontraproduktiv. AnfängerInnen werden zusätzlich abgelenkt und oder gar überfordert. Indirekte Hilfe (in Beispielen verpackt) motiviert mehr als direkte Hilfe (Leutner et al., 2000).
+Ausreichendes Feedback
+Lernende, die computergestützt lernen, fühlen sich oft allein gelassen. Ohne ein ausreichendes Feedback kann ein Lernprogramm scheitern und von den Lernenden nicht akzeptiert werden. Eine „virtuelle“ Hilfe ist zwar sofort verfügbar, aber in vielen Fällen nicht ausreichend. Die Lernenden brauchen individuelle Fehlererklärungen. Sinnvoll ist es für E- Learning-Kurse einen Tutor zu beauftragen, der Fragen beantwortet, die das System nicht beantworten kann. Hier ist vor allem die Reaktionszeit zu berücksichtigen. Wartet ein Lernender längere Zeit auf eine Antwort, ist er schnell frustriert und fühlt sich allein gelassen. Die richtige Mischung von Programm- und Lernerkontrolle ist nur unter Einbeziehung von Zielgruppe, Inhaltsbereich und Einsatzbereich einer Anwendung zu finden. Weiterhin muss der Betreuende darauf achten, dass er bei bewertenden Rückmeldungen niemals das Selbstwertgefühl des Lernenden angreift (Niegemann, 2004).
+6	Zusammenfassung
+Die Interaktivität ist als Lernsoftware-Komponente von sehr großer Bedeutung und zählt als Maßstab für effektives Lernen. Welches Lernprogramm darf sich nun ’interaktiv‘ nennen?
+Die Ausführungen dieser Arbeit haben gezeigt, dass nicht von Interaktivität gesprochen werden kann, wenn der Lernende z. B. mit der Maus ausschließlich Lerninhalte aktiviert. Interaktivität ist also mehr als eine Reihe von Eingriffs- und Steuermöglichkeiten in Ablauf und Inhalt. Wirkliche Interaktivität geht von einem aktiven Lernverhalten des Lernenden und von einem aktiven Verhalten des Lernprogramms aus.
+Ein Lernprogramm kann sich dann interaktiv nennen, wenn es individualisiertes Lernen unterstützt.
+Der Lernende soll selbst sein Lerntempo bestimmen und auch Lerninhalte auswählen können (siehe 3.1 Individualisiertes Lernen). Das Lernprogramm unterstützt den Lernenden mit einem entsprechenden Feedback und reagiert auf seine Aktionen. Es passt sich dem Lernenden an. Ohne ein geringes Maß an Adaptivität kann ein Lernprogramm nicht interaktiv genannt werden (Niegemann, 2004). Die Adaptivität kann beispielsweise in den Bereichen Lernzeit, Lernsequenzen, Aufgaben mit Antwortbegrenzung und in der Aufgabenschwierigkeit umgesetzt werden (siehe 5.2 Lernprogramm-Aktivität).
+Im computerunterstützten Lernen basieren die Lernprozesse in starkem Maß auf Eigenaktivitäten. Das Lernprogramm soll die Lernenden in der Verfolgung ihrer Lerninteressen unterstützen, z. B. durch Lernpfade, Hinweise oder Rückmeldungen. Diese Unterstützung soll den Lernenden in seiner Lernaktivität möglichst wenig einschränken (Kerres, 2002).
+Ein Lernprogramm kann sich dann interaktiv nennen, wenn es den Lernenden motiviert, aktiv zu werden und zum Handeln auffordert.
+Ein interaktives Lernprogramm soll den Lernenden motivieren, d. h. der Lerngegenstand wird „entdeckt“ (aktiv) und angewendet. Das Prinzip heißt Motivation durch Herausforderung. Dabei ist allerdings darauf zu achten, dass der Lernende nicht durch ein zu reichhaltiges Angebot überfordert wird. Das kann zur „kognitiven Überlastung“ (cognitive overload) führen und der Lernende kann durch die Überforderung der Aufmerksamkeitsspanne und Gedächtniskapazität von der Interaktion mit dem Lernprogramm nicht profitieren.
+Lernprogramme dürfen sich nur dann interaktiv nennen, wenn sie über Navigations-Aktivitäten hinaus Lernende zum aktiven Agieren und Reagieren motivieren. Der Lernende soll durch die Beschäftigung mit dem Lernprogramm „in sich“ motiviert sein, mehr zu erfahren und die Lernziele zu erreichen. Die intrinsische Motivation ist in Hinblick auf den Lernerfolg wesentlich wirkungsvoller und dauerhafter (Holzinger, 2001).
+Das Ziel eines Lernsoftware-Designers sollte es sein, eine Situation zu schaffen, „in der der Benutzer nicht merkt, daß er bei der Nutzung einer Anwendungssoftware mit einem Computer arbeitet. Das heißt, der Benutzer habe dann das Interface und die Repräsentation der virtuellen Welt derart verinnerlicht, daß er nur damit beschäftigt ist, seine Aufgabe zu lösen und sein Ziel zu erreichen als ob er direkt in der ’virtuellen Welt‘ agieren würde“ (Strzebowski, 1997, 290).
+Ein Lernprogramm kann sich dann interaktiv nennen, wenn es die Zusammenarbeit zwischen Lernenden ermöglicht und bei der Kommunikation aktive Unterstützung leistet.
+Lernprogramme dürfen sich nur dann interaktiv nennen, wenn sie über Navigations-Aktivitäten hinaus Lernende zum aktiven Agieren und Reagieren untereinander motivieren. Im Unterschied zur interaktiven CD-ROM bieten Lernprogramme im Internet die Möglichkeit des Zusammenarbeitens von zwei oder mehreren Personen. Haben die Lernenden die Möglichkeit, aufeinander bezogen zu handeln, steigt der Grad der Interaktivität. Eine Zusammenarbeit in Gruppen fördert soziale Schlüsselqualifikationen wie Gruppenorganisation und Teamfähigkeit. Findet ein Austausch unterschiedlicher Perspektiven online statt, ist die Auseinandersetzung wesentlich strukturierter und intensiver (siehe 3.3 Kooperatives Lernen). Präsenzdiskussionen beinhalten eine soziale Präsenz, wie Mimik und Gestik, Online-Diskussionen ermöglichen dem Lernenden selbst den Zeitpunkt der Antwort zu wählen und dadurch tendenziell einen qualitativ hochwertigeren Beitrag zu leisten. Die Gestaltung kooperativer Lerninhalte ist didaktisch anspruchsvoll, da die Lernenden meistens erst im Lernprozess die Fähigkeit zur sozialen Kooperation entwickeln. Es ist empfehlenswert, den Lernenden einen Tutor beiseite zu stellen, der die Lernenden regelmäßig betreut. Der Tutor soll darüber hinaus Ansprechpartner bei Schwierigkeiten sein. Solche Betreuung ist nur in netzbasierten Lernprogrammen möglich. Beim computerunterstützen Lernen ist allenfalls eine automatisierte Rückmeldung möglich.
+Ein hoher Grad an Interaktivität, d. h. eine Integration von individualisiertem motiviertem und kooperativem Lernen, ruft positive motivationale Effekte hervor. Der Lernende kann sich mit dem Lernangebot identifizieren. Die Lernintensität und Persistenz ist hoch und die Abbruchquote relativ gering (Kerres, 2002). Computer- und netzbasiertes Lernen ohne Lerner-Aktivität und Lernprogramm-Aktivität kann ohne Interaktivität kaum einen hohen Lernerfolg erzielen. Damit ist Interaktivität ein entscheidendes Qualitätskriterium für computer- und netzbasiertes Lernen.
+Ein handhabbarer Kriterienkatalog für den Grad von der Interaktivität von Lernprogrammen fehlt bislang, bzw. wird von der einschlägigen Literatur nicht geliefert. Für Entscheider in Bildungseinrichtungen und für ggf. weiterführende Untersuchungen besteht aber ein großes Interesse an einem derartigen Katalog. Basierend auf den Darstellungen dieser Arbeit soll abschließend der Versuch unternommen werden, ein Konzept für einen solchen Kriterienkatalog zu formulieren.
+Allgemeine Interaktivitätskriterien
+o	Die Lernenden haben Zugriff auf eine Hilfe, die ihnen das Lernprogramm erklärt und zeigt, wie sie mit ihm umgehen.
+o	Das Lernprogramm reagiert aktiv auf (wiederholte) Fehler des Lernenden, die der Lernende jederzeit aktivieren und deaktivieren kann. 
+Diese Art von Hilfe findet sich beispielsweise in MS Word: Wird nicht mit Formatvorlagen gearbeitet, macht die Software darauf aufmerksam und bietet Hilfe.
+o	Der Lernende bekommt Unterstützung zur Planung und Organisation seines Lernvorgangs. 
+Der Lernende hat Zugriff auf einen Terminkalender. Hinter jedem Lernmodul steht ein Datum, bis wann der Lernende es bearbeitet haben sollte.
+o	Der Lernende hat die Möglichkeit, bezüglich des Lernprogramms selbst und der Organisation Fragen zu stellen.
+o	Die Lernende kann Fragen zum Lerninhalt stellen.
+o	Die Navigation des Lernprogramms ist fragenbasiert aufgebaut.
+o	Der Lernende erhält klare Anweisungen zur Vorgehensweise im Lernprogramm.
+o	Die Lerninhalte sind in sinnvolle Lernmodule eingeteilt.
+o	Die einzelnen Lernmodule können in überschaubaren Zeiteinheiten bearbeitet werden.
+o	Das Lernprogramm kann auf Aktivitäten des Lernenden angemessen – also seinen Erwartungen entsprechend – reagieren.
+o	Die Lerninhalte können bei Bedarf ausgedruckt werden.
+o	Die Lernmodule können unterbrochen und gegebenenfalls ausgedruckt werden.
+
+Interaktivitätskriterien für individuelles Lernen
+o	Die Lernmodule und deren Struktur ermöglichen den Lernenden einen individuellen Einstieg.
+o	Die einzelnen Lerninhalte sind übersichtlich dargestellt.
+o	Aus der Übersicht heraus kann der Lernende zusätzliche Kurzinformationen aufrufen.
+o	Die Kurzinformationen sind kompakt und einheitlich dargestellt. Die Kurzinformationen sehen gleich aus (Gestaltungsaspekt).
+Die Kurzinformationen sind einheitlich prägnant formuliert (Inhaltsaspekt).
+
+Interaktivitätskriterien für individuelles Lernen
+o	Jedes Lernmodul enthält Informationen zu
+o	den Eingangsvoraussetzungen.
+o	der benötigte Lernzeit der einzelnen Module.
+o	den erreichenden Lernzielen.
+o	Hinweise zum nächsten Lernschritt.
+o	Jedes Lernmodul enthält Aufgaben zur Selbstkontrolle, die ausgewertet werden.
+o	Jede Testauswertung gibt Hinweise zum weiteren Lernvorgang. Frage 2 wurde falsch beantwortet, bitte wiederholen Sie Modul 2.1.
+o	Der Lernende kann seine neu erlernten Fähigkeiten oder Fertigkeiten anwenden. 
+Beispiele hierfür wären komplexe Aufgaben, Simulationen oder Lernspiele.
+o	Der Lernende kann seinen individuellen Lernvorgang jederzeit nachvollziehen.
+Die gelernten Module werden im Inhaltsverzeichnis mit einem Haken gekennzeichnet.
+Der Lernende hat eine Übersicht, in der er nachschauen kann, welches Modul er sich wann angeschaut hat.
+o	Der Lernende kann eine Übersicht der bearbeiteten Lernmodule sowie den erreichten Lernerfolg aufrufen.
+In der Lernplattform WebCT gibt es beispielsweise den Button „Resume Course“.
+o	Der Lernende kann sich einzelne Lernmodule auswählen und selbst eine Reihenfolge festlegen.
+o	Der Lernende hat Zugriff auf eine Guided Tour.
+o	Das Lernprogramm passt sich dem Lernverhalten des Lernenden an (Adaptivität).
+Es wird so lange gelehrt, bis der Lernende sein Lernziel erreicht (regelmäßiges Abfragen des Wissensstands).
+Der Lernende erhält individuelle Instruktionen als Reaktion auf Fehler.
+Der Lernende sollte schnell sein Wissen zum Können umwandeln können (wenig Raum zu Fehlern in den Übungen gewährleisten).
+Die Aufgabenschwierigkeit soll sich den Fähigkeiten des Lernenden anpassen.
+o	Der Lernende hat die Möglichkeit, Lernmaterial zu vervollständigen oder zu modifizieren.
+Der Lernende kann z. B. Inhalte neu miteinander verknüpfen, Links hinzufügen, Schaubilder vervollständigen.
+
+Interaktivitätskriterien für motiviertes Lernen
+o	Das Design des Lernprogramms ist:
+o	übersichtlich.
+Das Design ist klar strukturiert, die Navigationselemente sind klar zu erkennen.
+o	intuitiv und klar verständlich.
+Der Lernende erkennt Links sofort. Sie sind einheitlich dargestellt. Die Bezeichnung des Navigationspunktes sagt aus, was sich hinter dem Button verbirgt.
+o	angenehm.
+Der Hinter- und Vordergrundkontrast des Designs stimmt überein. Die Texte sind klar lesbar. Die Farbgestaltung ist nicht zu grell und lenkt nicht vom Lernen ab.
+o	Die angegebenen Lernziele stimmen mit den Erfolgserwartungen des Lernenden überein.
+o	Der Lernende bekommt Rückmeldungen und Bekräftigungen vom Lernprogramm.
+o	Innerhalb des Lernprogrammes werden Aufgaben gleich bewertet.
+o	Ein Agent führt den Lernenden durch das Lernprogramm.
+o	Der Lernende kann mit dem Agenten kommunizieren.
+
+Interaktivitätskriterien für kooperatives netzbasiertes Lernen
+o	Das Lernprogramm beinhaltet Kommunikationsmöglichkeiten, wie beispielsweise:
+o	ein Diskussionsforum
+o	E-Mail
+o	Chatroom
+o	Whiteboard
+o	Die Online-Diskussionen werden von einem Tutor organisiert.
+o	Die Online-Diskussionen werden von einem Tutor betreut.
+o	Die Lernenden werden in Gruppen eingeteilt und bekommen eine Aufgabe.
+o	Die Gruppen haben die Möglichkeit z. B. nach dem Bearbeiten der Aufgabe, sich auszutauschen und ihre Ergebnisse zu präsentieren.
+
+7	Literaturverzeichnis
+Atkinson, R. K. (2002). Optimizing learning from examples using animated pedagogical agents. Journal of Educational Psychology, 94, 416-427
+Berk, E. & Devlin, J. (1991). Hypertext/hypermedia handbook. New York: Intertext
+Bodendorf, F. (1990). Computer in der fachlichen und universitären Ausbildung. München: Oldenbourg Wissenschaftsverlag GmbH (Handbuch der Informatik; Bd. 15.1)
+Chester, A. & Gwynne, G. (1997). Online Teaching: The Delights and Dangers of Pseudonymity. In: Müldner, T. & Reeves, T. C. (Eds.), Educational Multimedia & Hypermedia and Telecommunications. Proceedings of the ED-MEDIA/ED-ELECOM 97. Vol. 1. Charlottesville, VA: Ass. for the Advancement of Computing in Education 1997 - S. 188-193
+Clark, R. & Mayer, R. E. (2002). E Learning and the Science of Instruction. Proven Guidelines for Consumers and Designers of Multimedia Learning. San Francisco: John Wiley & Sons, Inc.
+Cohen, E. G. (1994). Restructuring the classroom: Conditions for productive small groups. Review of Educational Research, 64, 1-35
+Dillon, A., McKnight, C. & Richardson, J. (1993). Space - the final chapter or why physical representations are not semantic intentions. In A. Dillon, C. McKnight & J. Richardson (Eds.), Hyptertext - a psychological perspective (S. 169-188). Chichester: Ellis Horwood.
+Edelmann, W. (2000). Lernpsychologie. Weinheim: Psychologie Verlags Union, Verlagsgruppe Beltz
+Florin, F. (1990). Information landscapes. In: S. Ambron & K. Hopper (Eds.) Learning with interactive multimedia. Redmond: Microsoft Press/Apple
+Gay, G. & Mazur, J. (1991), Navigating in hypermedia. In E. Berk & J. Devlin (Eds.), Hyper- text/hypermedia handbook (S. 271-283). New York: Intertext
+Haack, J. (1997). Interaktivität als Kennzeichen von Multimedia und Hypermedia. In L. J. Issing & P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet. Lehrbuch für Studium und Praxis (2. Aufl., S. 151-166). Weinheim: Beltz PVU
+Hesse, F., Garsoffky, B. & Hron, A. (1997). Interface-Design für computerunterstütztes kooperatives Lernen. In L. J. Issing & P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet. Lehrbuch für Studium und Praxis (2. Aufl., S. 151-166). Weinheim: Beltz PVU
+Hofmann, M. & Simon, L. (1995). Problemlösung Hypertext. München: Carl Hanser
+Holzinger, A. (2001). Basiswissen Multimedia. Bd 2: Lernen - kognitive Grundlagen multimedialer Informationssysteme. Würzburg: Vogel Buchverlag
+Issing, L. (1998). Lernen mit Multimedia aus psychologisch-didaktischer Perspektive. In: Dörr, G. & Jüngst, K. L. (Hrsg.), Lernen mit Medien. Ergebnisse und Perspektiven zu medial vermittelten Lehr- und Lernprozessen. Weinheim Juventa, S. 159-178
+Jonassen, D. H. & Kwon, H. I. (2001). Communication Patterns in Computer Mediated Versus Face-to-Face Group Problem Solving. Educational technology Research and Development 49(1), 35-51
+Kamin, C. S., O´Sullivan, P. S. & Deterin, R. R. (2002). Does case modality impact critical thinking in PBL groups? Paper presented at the American Educational Reserach Association Annual Meeting, New Orleans, LA
+Kay, A. C. (1991). Computers, Networks and Education. In: Scientific American. Special Issue Jg. 3 (1991/265), S. 100-107.
+Keller, J. M. (1983). Motivational Design of Instruction. In: Reighluth, C. M. (Hrsg.): Instructional-Design Theories and Models: An Overview of their Current Status. Hillsdale, N. J.: Erlbaum, S. 383-434.
+Konrad, K. & Traub, S. (2001). Kooperatives Lernen: Theorie und Praxis in Schule, Hochschule und Erwachsenenbildung. Baltmannsweiler: Schneider-Verlag Hohengehren
+Laurel, B., Oren, T. & Don, A. (1992). Issues in multimedia interface design: Media integrations an interface agents. In M. M. Blattner & R. B. Dannenberg (Eds.), Multimedia inter- face design (S. 53-86). New York: ACM Press
+Laurel, B. (1993). Computers as theatres. Reading: Addison-Wesley
+Leutner, D. (1997). Adaptivität und Adaptierbarkeit multimedialer Lehr- und Informationssysteme. In L. J. Issing & P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet. Lehrbuch für Studium und Praxis (2. Aufl., S. 138-149). Weinheim: Beltz PVU
+Leutner, D. & Brünken, R. (Hrsg.) (2000): Neue Medien in Unterricht, Aus- und Weiterbildung: aktuelle Ergebnisse empirischer pädagogischer Forschung. Münster et.al.: Waxmann.
+Kerres, M. (2002). Online- und Präsenzelemente in hybriden Lernarrangements kombinieren. In A. Hohenstein & K. Wilbers (Hrsg.): Handbuch E Learning. Köln Fachverlag Deutscher Wirtschaftsdienst.
+Kuhlen, R. (1991). Hypertext. Ein nicht-lineares Medium zwischen Buch und Wissensbank.
+Berlin, Heidelberg: Springer-Verlag
+Moreno, R. et al. (2001). The Case for Social Agency in Computer-Based Teaching: Do Stu- dents Learn More Deeply When They Interact with Animated Pedagogical Agents? Cognition an Instruction, 19, 177-214
+Niegemann, H. et al. (2004). Kompendium E Learning. Berlin, Heidelberg: Springer-Verlag (x.media.press)
+Schulmeister, R. (2001). Virtuelle Universität - Virtuelles Lernen. München: Oldenbourg Wissenschaftsverlag GmbH
+Schulmeister, R. (2002) Grundlagen Hypermedialer Lernsysteme: Theorie - Didaktik - De- sign. (3. Aufl.). München: Oldenbourg Wissenschaftsverlag GmbH
+Slavin, R. (1982). Cooperative Learning: Student teams. Washington, DC: National Education Association.
+Slavin, R. (1995). Cooperative Learning: Theory, Research and Practice. (2nd ed.) Needham Heights, Massachusetts: Ally & Bacon
+Strittmatter, P. & Niegemann, H. (2000). Lehren und Lernen mit Medien. Darmstadt: Wissenschaftliche Buchgesellschaft
+Strzebkowski, R. (1997). Realisierung von Interaktivität und Multimedialen Präsentationstechniken. In L. J. Issing & P. Klimsa (Hrsg.), Information und Lernen mit Multimedia und Internet. Lehrbuch für Studium und Praxis (2. Aufl., S. 268-303). Weinheim: Beltz PVU
+Thissen, Frank (2001). Screen-Design Handbuch. Effektiv informieren und kommunizieren mit Multimedia. Berlin, Heidelberg: Springer-Verlag (x.media.press)
+Urhahne, D. et al. (2000). Computereinsatz im naturwissenschaftlichen Unterricht. - Ein Überblick über die pädagogisch-psychologischen Grundlagen und ihre Anwendung.
+In: ZfDN, Jg. 6, 157 - 186.
+Zimbardo, P. & Gerrig, R. (1999). Psychologie. Berlin, Heidelberg: Springer-Verlag 
+Index
+A
+Auswahl von Lerninhalten  40
+L
+Lernen
+individualisiertes Lernen  17
+kooperatives Lernen  17
+motiviertes Lernen  17
+ 
+
