@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no" ?>
+<!DOCTYPE Seminar SYSTEM "uebung2.dtd">
+<Seminar>
+    <Name>Einfuehrung in XML</Name>
+    <Datum>2.4-6.4.</Datum>
+    <Ort>Stadt</Ort>
+    <Vormittags Zeit="ab9Uhr">
+        <Thema>Ueberblick</Thema>
+        <Thema>XML</Thema>
+        <Thema>Struktur</Thema>
+    </Vormittags>
+    <Nachmittags Zeit="ab13Uhr">
+        <Thema>XSL</Thema>
+        <Thema>DTD</Thema>
+    </Nachmittags>
+    <Ende Zeit="bis17Uhr" />
+    <Personen>
+        <Leiter>
+            <Vorname>Hans</Vorname>
+            <Nachname>Hauser</Nachname>
+        </Leiter>
+        <Teilnehmer>
+            <Person>
+                <Vorname>Hans</Vorname>
+                <Nachname>Hauser</Nachname>
+            </Person>
+            <Person>
+                <Vorname>Hans</Vorname>
+                <Nachname>Hauser</Nachname>
+            </Person>
+        </Teilnehmer>
+    </Personen>
+</Seminar>

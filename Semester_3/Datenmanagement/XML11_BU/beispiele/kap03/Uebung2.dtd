@@ -1,0 +1,7 @@
+<!ELEMENT Seminar (Name, Datum, Ort, Vormittags, Nachmittags)>
+        <!ELEMENT ALBUM (AUTOR, (INTERPRET | GRUPPE)+, TITEL, LIED*)>
+        <!ELEMENT AUTOR		(#PCDATA)>
+        <!ELEMENT INTERPRET	(#PCDATA)>
+        <!ELEMENT GRUPPE		(#PCDATA)>
+        <!ELEMENT TITEL		(#PCDATA)>
+        <!ELEMENT LIED		(#PCDATA)>
