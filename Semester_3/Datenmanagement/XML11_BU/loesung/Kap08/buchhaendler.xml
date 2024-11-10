@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 
-<Lager xsi:noNamespaceSchemaLocation="buch.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Lager xsi:noNamespaceSchemaLocation="Buchself.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<Buch>
 		<Autor>Hillary Rodham Clinton</Autor>
 		<Titel>Gelebte Geschichte</Titel>

@@ -1,0 +1,13 @@
+<!ELEMENT AUTO (KFZ+)>
+        <!ELEMENT KFZ (HERSTELLER)>
+        <!ATTLIST HERSTELLER typ CDATA #REQUIRED>
+            <!ELEMENT MODELL (LEERGEWICHT, ZYLINDER?, HUBRAUM, LEISTUNG, HOECHSTGESCHWINDIGKEIT, VON0AUF100)>
+                <!ATTLIST MODELL typ CDATA #REQUIRED>
+                <!ELEMENT LEERGEWICHT (#PCDATA)>
+                    <!ATTLIST LEERGEWICHT typ einheit (kg) #REQUIRED>
+                <!ELEMENT ZYLINDER (#PCDATA)>
+                <!ELEMENT HUBRAUM (#PCDATA)>
+                    <!ATTLIST HUBRAUM einheit (ccm)>
+                <!ELEMENT LEISTUNG (#PCDATA)>
+                <!ELEMENT HOECHSTGESCHWINDIGKEIT (#PCDATA)>
+                <!ELEMENT VON0AUF100 (#PCDATA)>

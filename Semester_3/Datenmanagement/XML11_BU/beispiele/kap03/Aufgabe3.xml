@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE seminar SYSTEM "externAufgabe3.dtd">
+<seminar>
+    <Ziel>Einführung in XML</Ziel>
+    <Datum>02.04. - 06.04.</Datum>
+    <Ort>XML-Stadt</Ort>
+    <Seminarleiter>Herr Hans Hauser</Seminarleiter>
+    <Zeitplan>
+        <ab9Uhr>
+            <Thema>Überblick</Thema>
+            <Thema>XHTML</Thema>
+            <Thema>XML-Struktur</Thema>
+        </ab9Uhr>
+        <ab13Uhr>
+            <Thema>DTD Entwickeln</Thema>
+            <Thema>Darstellung von XML mit XSL</Thema>
+        </ab13Uhr>
+        <ende>17Uhr</ende>
+    </Zeitplan>
+    <Teilnehmer>
+        <Person anrede="Herr">
+            <name>Rabicht</name>
+            <Vorname>Rolf</Vorname>
+        </Person>
+        <Person anrede="Frau">
+            <name>Sieghaar</name>
+            <Vorname>Siegrund</Vorname>
+        </Person>
+        <Person anrede="Frau">
+            <name>Landmann</name>
+            <Vorname>Linda</Vorname>
+        </Person>
+        <Person anrede="Herr">
+            <name>Brahms</name>
+            <Vorname>Bruno</Vorname>
+        </Person>
+    </Teilnehmer>
+</seminar>

@@ -1,0 +1,15 @@
+<!ELEMENT seminar (Ziel, Ort, Datum, Zeitplan+, Seminarleiter,Teilnehmer+,Person+)>
+    <!ELEMENT Ziel (#PCDATA)>
+    <!ELEMENT Datum (#PCDATA)>
+    <!ELEMENT Ort (#PCDATA)>
+    <!ELEMENT Seminarleiter (#PCDATA)>
+    <!ELEMENT Zeitplan (ab9Uhr, ab13Uhr, ende)>
+        <!ELEMENT ab9Uhr (Thema+)>
+            <!ELEMENT Thema (#PCDATA)>
+        <!ELEMENT ab13Uhr (Thema+)>
+        <!ELEMENT ende (#PCDATA)>
+    <!ELEMENT Teilnehmer (Person+)>
+        <!ELEMENT Person (anrede, name, Vorname)>
+            <!ELEMENT anrede (#PCDATA)>
+            <!ELEMENT name (#PCDATA)>
+            <!ELEMENT Vorname (#PCDATA)>

@@ -1,0 +1,30 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="AUTO">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="KFZ">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="HERSTELLER" type="xs:string" />
+                            <xs:element name="MODELL" />
+                            <xs:element name="LEERGEWICHT" >
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:positiveInteger">
+                                        <xs:attribute name="einheit" type="xs:string" fixed="kg" />
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="ZYLINDER" />
+                            <xs:element name="HUBRAUM" />
+                            <xs:element name="LEISTUNG" />
+                            <xs:element name="HOECHSTGESCHWINDIGKEIT" />
+                            <xs:element name="VON0AUF100" />
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

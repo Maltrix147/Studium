@@ -1,0 +1,37 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Lager">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Buch" minOccurs="1" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Autor" type="xs:string" />
+                            <xs:element name="Titel" type="xs:string"/>
+                            <xs:element name="Verlag" type="xs:string"/>
+                            <xs:element name="Seiten" type="xs:integer"/>
+                            <xs:element name="Erscheinungsdatum" type="xs:date"/>
+                            <xs:element name="BestellNummer" >
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:restriction base="xs:string">
+                                        <xs:pattern value="[A-Z]{2}[0-9]{5}" />
+                                        </xs:restriction>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="PreisEUR">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:restriction base="xs:decimal">
+                                            <xs:fractionDigits value="2"/>
+                                        </xs:restriction>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<Bestellung bestelldatum="2014-09-27">
+<!---<!DOCTYPE Bestellung SYSTEM "bestell.dtd">-->
+<Bestellung xsi:noNamespaceSchemaLocation="bestell.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<!--<Bestellung bestelldatum="2014-09-27">-->
   <Adresse>
     <Name>Herbert Hagedorn</Name>
     <Strasse>Hasenweg 13</Strasse>
