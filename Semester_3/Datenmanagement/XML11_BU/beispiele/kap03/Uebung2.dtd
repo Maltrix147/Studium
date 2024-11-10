@@ -1,7 +1,15 @@
-<!ELEMENT Seminar (Name, Datum, Ort, Vormittags, Nachmittags)>
-        <!ELEMENT ALBUM (AUTOR, (INTERPRET | GRUPPE)+, TITEL, LIED*)>
-        <!ELEMENT AUTOR		(#PCDATA)>
-        <!ELEMENT INTERPRET	(#PCDATA)>
-        <!ELEMENT GRUPPE		(#PCDATA)>
-        <!ELEMENT TITEL		(#PCDATA)>
-        <!ELEMENT LIED		(#PCDATA)>
+<!ELEMENT Seminar (Name, Datum, Ort, Vormittags, Nachmittags, Ende, Personen)>
+<!ELEMENT Name (#PCDATA)>
+<!ELEMENT Datum (#PCDATA)>
+<!ELEMENT Ort (#PCDATA)>
+<!ELEMENT Vormittags (Thema)>
+<!ATTLIST Vormittags Zeit>
+<!ELEMENT Nachmittags (Thema)>
+<!ELEMENT Thema (#PCDATA)>
+<!ELEMENT Ende (#PCDATA)>
+<!ELEMENT Personen (Leiter, Teilnehmer)>
+<!ELEMENT Leiter (Vorname, Nachname)>
+<!ELEMENT Vorname (#PCDATA)>
+<!ELEMENT Nachname (#PCDATA)>
+<!ELEMENT Teilnehmer (Person+)>
+<!ELEMENT Person (Vorname, Nachname)>
