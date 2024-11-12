@@ -1,0 +1,39 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Orte">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Ort">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:integer"/>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:element name="Mensch" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="id" type="xs:integer"/>
+                                        <xs:element name="name" type="xs:string"/>
+                                        <xs:element name="vorname" type="xs:string"/>
+                                        <xs:element name="Gehalt" type="xs:decimal"/>
+                                        <xs:element name="idOrt" type="xs:integer"/>
+                                        <xs:element name="Kauf" maxOccurs="unbounded">
+                                            <xs:complexType>
+                                                <xs:sequence>
+                                                    <xs:element name="idMensch" type="xs:integer"/>
+                                                    <xs:element name="anzahl" type="xs:integer"/>
+                                                    <xs:element name="bez" type="xs:string"/>
+                                                    <xs:element name="preis" type="xs:decimal"/>
+                                                    <xs:element name="Gesamt" type="xs:decimal"/>
+                                                </xs:sequence>
+                                            </xs:complexType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>

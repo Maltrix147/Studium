@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Orte xsi:noNamespaceSchemaLocation="Klausur.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Orte>
+    <Ort>
+        <id>1</id>
+        <name>Neustadt</name>
+        <Mensch>
+            <id>1</id>
+            <name>Holzflos</name>
+            <vorname>Hugo</vorname>
+            <Gehalt>234.56</Gehalt>
+            <idOrt>1</idOrt>
+            <Kauf>
+                <idMensch>1</idMensch>
+                <anzahl>3</anzahl>
+                <bez>Hemd</bez>
+                <preis>12.99</preis>
+                <Gesamt>38.97</Gesamt>
+            </Kauf>
+            <Kauf>
+                <idMensch>1</idMensch>
+                <anzahl>9</anzahl>
+                <bez>Hemd</bez>
+                <preis>12.99</preis>
+                <Gesamt>116.91</Gesamt>
+            </Kauf>
+        </Mensch>
+    </Ort>
+</Orte>
