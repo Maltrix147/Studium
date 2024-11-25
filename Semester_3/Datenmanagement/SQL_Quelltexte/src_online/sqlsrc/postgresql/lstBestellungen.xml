@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<bestellungen>
+  <bestellung>
+    <bestellung_id>1</bestellung_id>
+    <kunde_id>1</kunde_id>
+    <adresse_id>1</adresse_id>
+    <datum>2012-05-10 10:01:00</datum>
+    <positionen>
+      <position>
+        <artikel_id>3001</artikel_id>        <menge>1</menge>
+      </position>
+      <position>
+        <artikel_id>3005</artikel_id>        <menge>12</menge>
+      </position>
+      <position>
+        <artikel_id>3007</artikel_id>        <menge>123</menge>
+      </position>
+    </positionen>
+  </bestellung>
+  <bestellung>
+    <bestellung_id>2</bestellung_id>
+    <kunde_id>2</kunde_id>
+    <adresse_id>1</adresse_id>
+    <datum>2012-05-11 10:02:00</datum>
+    <positionen>
+      <position>
+        <artikel_id>9010</artikel_id>        <menge>2</menge>
+      </position>
+      <position>
+        <artikel_id>7856</artikel_id>        <menge>234</menge>
+      </position>
+    </positionen>
+  </bestellung>
+  <bestellung>
+    <bestellung_id>3</bestellung_id>
+    <kunde_id>2</kunde_id>
+    <adresse_id>1</adresse_id>
+    <datum>2012-05-12 10:03:01</datum>
+    <positionen>
+      <position>
+        <artikel_id>9015</artikel_id>        <menge>3</menge>
+      </position>
+    </positionen>
+  </bestellung>
+</bestellungen>
