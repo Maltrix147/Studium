@@ -1,0 +1,7 @@
+Format: 800 x 600 pixel, Auflösung 300 Pixel/Zoll, RGB-Farbmodus
+
+Größe 320 x 220 Pixel (Breite x Höhe)
+
+Farbton: # 117bc5
+
+Vorlage zum Vergleichen: Mercedes-EQS-Muster.jpg
