@@ -1,0 +1,44 @@
+CREATE DATABASE seminarverwaltung;
+USE seminarverwaltung;
+
+CREATE TABLE benutzer (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    anrede VARCHAR(10),
+    vorname VARCHAR(40),
+    name VARCHAR(40),
+    email VARCHAR(50),
+    passwort VARCHAR(20),
+    registriert_seit DATE
+);
+
+CREATE TABLE seminare (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    titel VARCHAR(120),
+    beschreibung TEXT,
+    preis DECIMAL(6,2),
+    kategorie VARCHAR(20)
+);
+
+CREATE TABLE seminartermine (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    beginn DATE,
+    ende DATE,
+    raum VARCHAR(30),
+    seminar_id INT,
+    FOREIGN KEY (seminar_id) REFERENCES seminare(id)
+);
+
+CREATE TABLE nimmt_teil (
+    benutzer_id INT,
+    seminartermin_id INT,
+    PRIMARY KEY (benutzer_id, seminartermin_id),
+    FOREIGN KEY (benutzer_id) REFERENCES benutzer(id),
+    FOREIGN KEY (seminartermin_id) REFERENCES seminartermine(id)
+);
+
+CREATE TABLE benutzer_nm_nimmt_teil (
+    benutzer_id INT,
+    nimmt_teil_benutzer_id INT,
+    FOREIGN KEY (benutzer_id) REFERENCES benutzer(id),
+    FOREIGN KEY (nimmt_teil_benutzer_id) REFERENCES nimmt_teil(benutzer_id)
+);
