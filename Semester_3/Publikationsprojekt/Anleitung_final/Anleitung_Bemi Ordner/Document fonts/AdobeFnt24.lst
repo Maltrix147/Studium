@@ -1,0 +1,78 @@
+%!Adobe-FontList 1.24
+%Locale:0x407
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter-Italic
+FamilyName:Inter
+StyleName:Italic
+FullName:Inter Italic
+MenuName:Inter
+FamilyPrefix:InterItalic
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\malte\Desktop\GitHub\Studium\Semester_3\Publikationsprojekt\Anleitung_final\Anleitung_Bemi Ordner\Document fonts\Inter-Italic-VariableFont_opsz,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:904532
+FileModTime:1725487880
+WeightClass:400
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Inter-Regular
+FamilyName:Inter
+StyleName:Regular
+FullName:Inter Regular
+MenuName:Inter
+FamilyPrefix:Inter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\malte\Desktop\GitHub\Studium\Semester_3\Publikationsprojekt\Anleitung_final\Anleitung_Bemi Ordner\Document fonts\Inter-VariableFont_opsz,wght.ttf
+DataFormat:sfntData
+hasSVG:no
+hasCOLR:no
+VariableFontType:TrueTypeVariableFont
+FileLength:874708
+FileModTime:1725487880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Inter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\malte\Desktop\GitHub\Studium\Semester_3\Publikationsprojekt\Anleitung_final\Anleitung_Bemi Ordner\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:1329304520
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+

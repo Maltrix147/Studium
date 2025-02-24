@@ -1,0 +1,85 @@
+ADOBE INDESIGN - DRUCKANLEITUNGEN FÜR BELICHTUNGSBÜROBERICHT
+
+SATZDATEINAME: Extra_hilfsseite.indd
+
+PACKDATUM: 23.02.2025 23:23
+Erstellungsdatum 23.02.2025
+Änderungsdatum: 23.02.2025
+
+AUFTRAGGEBER
+
+Firma: 
+Ansprechpartner: Malte Hermann
+Adresse: 
+
+
+
+
+
+Telefon: 
+Fax: 
+E-Mail: 
+
+BESONDERE ANWEISUNGEN UND ANDERE ANMERKUNGEN
+
+
+
+
+
+
+Externe Zusatzmodule 0
+Nicht deckende Objekte:  Ohne
+
+SCHRIFTARTEN
+1 Schriftart(en) verwendet; 0 fehlend, 0 eingebettet, 0 unvollst., 0 geschützt
+
+Schriftarten verpackt
+- Name: MinionPro-Regular; Typ: OpenType CFF, Status: OK
+
+
+FARBEN UND DRUCKFARBEN
+4 Prozessfarbe(n); 0 Volltonfarbe(n)
+
+- Name und Typ: Prozessfarbe Cyan; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Magenta; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Gelb; Winkel: 0,000; Linien/Zoll: 0,000
+- Name und Typ: Prozessfarbe Schwarz; Winkel: 0,000; Linien/Zoll: 0,000
+
+
+VERKNÜPFUNGEN UND BILDER
+(Nur fehlende & eingebettete Verknüpfungen)
+Verknüpfungen und Bilder: 1 Verknüpfung(en) gefunden; 0 geändert, 0 fehlend, 0 Zugriff nicht möglich
+Bilder: 0 eingebettet, 0 verwenden RGB-Farbraum
+
+
+DRUCKEINSTELLUNGEN
+PPD: n. zutr., (Microsoft Print to PDF)
+Druckausgabe: Drucker
+Anzahl der Exemplare: 1
+Druckbögen: Nein
+Gerade/Ungerade Seiten: Beides
+Seiten: Alle
+Probedruck: Nein
+Unterteilung: Ohne
+Skalieren: 100 %, 100 %
+Seitenposition: Oben links
+Ebenen drucken: Sichtbare und druckbare Ebenen
+Druckermarken: Ohne
+Anschnitt: 0 mm, 0 mm, 0 mm, 0 mm
+Farbe: Composite-RGB
+Überfüllungsmodus:  Ohne
+Bilddaten senden: Auflösung reduzieren
+OPI/DCS-Bildersetzung: Nein
+Seitenformat: A5
+Papierabmessungen: 210 mm x 297 mm
+Format: Hochformat
+Negativ: Nein
+Spiegelmodus: Aus
+
+
+DATEIPAKETLISTE
+
+1. Extra_hilfsseite.indd; Typ: Adobe InDesign-Satzdatei; Größe: 1268K
+2. Extra_hilfsseite.idml; Typ: InDesign Markup-Dokument; Größe: 56K
+3. Extra_hilfsseite.pdf; Typ: Adobe Acrobat-Dokument; Größe: 558K
+4. MinionPro-Regular.otf; Typ: Schriftartendatei; Größe: 212K
