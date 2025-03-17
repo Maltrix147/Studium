@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\bin\Debug\net9.0\BedingteVerzweigung.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\bin\Debug\net9.0\BedingteVerzweigung.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\bin\Debug\net9.0\BedingteVerzweigung.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\bin\Debug\net9.0\BedingteVerzweigung.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\bin\Debug\net9.0\BedingteVerzweigung.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\refint\BedingteVerzweigung.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\BedingteVerzweigung.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\BedingteVerzweigung\obj\Debug\net9.0\ref\BedingteVerzweigung.dll

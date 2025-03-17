@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\bin\Debug\net9.0\Ratespiel.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\bin\Debug\net9.0\Ratespiel.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\bin\Debug\net9.0\Ratespiel.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\bin\Debug\net9.0\Ratespiel.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\bin\Debug\net9.0\Ratespiel.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\refint\Ratespiel.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\Ratespiel.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Ratespiel\obj\Debug\net9.0\ref\Ratespiel.dll

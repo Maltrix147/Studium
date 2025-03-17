@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\bin\Debug\net9.0\Lektion1.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\bin\Debug\net9.0\Lektion1.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\bin\Debug\net9.0\Lektion1.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\bin\Debug\net9.0\Lektion1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\bin\Debug\net9.0\Lektion1.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\refint\Lektion1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\Lektion1.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Lektion1\obj\Debug\net9.0\ref\Lektion1.dll

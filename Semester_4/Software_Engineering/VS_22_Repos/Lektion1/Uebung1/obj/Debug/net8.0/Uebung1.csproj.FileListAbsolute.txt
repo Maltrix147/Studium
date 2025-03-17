@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\bin\Debug\net8.0\Uebung1.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\bin\Debug\net8.0\Uebung1.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\bin\Debug\net8.0\Uebung1.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\bin\Debug\net8.0\Uebung1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\bin\Debug\net8.0\Uebung1.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\refint\Uebung1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\Uebung1.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1\Uebung1\obj\Debug\net8.0\ref\Uebung1.dll

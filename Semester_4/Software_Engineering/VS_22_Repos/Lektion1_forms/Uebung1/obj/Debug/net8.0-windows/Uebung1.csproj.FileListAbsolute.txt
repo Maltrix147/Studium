@@ -1,0 +1,17 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\bin\Debug\net8.0-windows\Uebung1.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\bin\Debug\net8.0-windows\Uebung1.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\bin\Debug\net8.0-windows\Uebung1.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\bin\Debug\net8.0-windows\Uebung1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\bin\Debug\net8.0-windows\Uebung1.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.Form1.resources
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.csproj.GenerateResource.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\refint\Uebung1.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\Uebung1.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Lektion1_forms\Uebung1\obj\Debug\net8.0-windows\ref\Uebung1.dll

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlWhile", "ControlWhile\ControlWhile.csproj", "{FECAF2B2-EA5E-4616-9E94-DBACD7CD1B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECAF2B2-EA5E-4616-9E94-DBACD7CD1B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECAF2B2-EA5E-4616-9E94-DBACD7CD1B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECAF2B2-EA5E-4616-9E94-DBACD7CD1B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECAF2B2-EA5E-4616-9E94-DBACD7CD1B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
