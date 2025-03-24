@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Passwort_Kapitel7/1.0.0": {
+        "runtime": {
+          "Passwort_Kapitel7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passwort_Kapitel7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
