@@ -1,0 +1,284 @@
+16
+
+BEDIENUNGSANLEITUNG DE
+Die erweiterte Bedienungsanleitung unter www.bemi-electronics.com finden
+[image1]
+
+E-Book-Reader, Modell CGA, in der Bedienungsanleitung  „Gerät“ genannt
+Es ist zwingend notwendig, diese Bedienungsanleitung vor dem Start der
+Verwendung des Gerätes zu lesen.
+Wartung des Gerätes - Gerät zu hohen (über + 50 ° C), niedrigen (unter -10 ° C)
+Temperaturen oder Hitze nicht aussetzen, zum Beispiel Sonnenlicht oder eine
+andere Wärmequelle. Dies kann das Gerät beschädigen. Gerät nicht mit nassen
+Händen anfassen.  Dieses Gerät nicht beim Fahren oder Gehen verwenden. Kein
+Gerät zu Reinigungsmitteln, Ätzmitteln oder anderen Chemikalien aussetzen. Der
+Hersteller übernimmt keine Haftung für Datenverlust, Schäden, die durch
+unsachgemäße Verwendung / Wartung oder mechanische Schäden verursacht
+wurden. Bitte Ihr wichtiges Material jederzeit unterstützen, um Verlust zu
+vermeiden. Kein Anzeigefeld drücken oder berühren- die Navigation auf diesem
+Gerät erfolgt über Tasten. Das Gerät verfügt nicht über ein Touch-Display.
+Autorisiertes Zubehör nur verwenden. Verhindern, dass das Gerät auf den Boden
+fällt oder stark getroffen wird. Bitte nicht versuchen , dieses Gerät selbst zu
+reparieren. Im Falle einer Beschädigung, einen autorisierten Servicepunkt zur
+Überprüfung oder Reparatur  kontaktieren. Produkt vor der Reinigung immer vom
+Stromnetz trennen. Das Gerät sollte gemäß den Angaben in
+der
+Bedienungsanleitung oder gemäß den Angaben auf dem Gerät an ein Netzteil
+angeschlossen werden. Die Batterie ist nicht abnehmbar. Bitte nicht versuchen ,
+die Batterie zu zerlegen. Das Produkt ist nicht für Kinder und Kleinkinder geeignet.
+Laden - Zum Laden, bitte das mitgelieferte Ladekabel verwenden . Der
+empfohlene Netzteilstrom beträgt 5V, 1A. Das vollständige Aufladen des Geräts
+dauert ca. 3 Stunden. Um den Ladevorgang anzuschließen, Micro-USB-Anschluss
+des Ladekabels an das Gerät zuerst anschließen. Dann USB 2.0-Anschluss an die
+Stromquelle anschließen. Nach dem ordnungsgemäßen Anschließen des Geräts
+sollte auf dem Gerätebildschirm eine Grafik zum Ändern angezeigt werden.
+Beachten: Wenn das Gerät vollständig entladen wurde, wird nach einigen Minuten
+möglicherweise eine Animation des Ladevorgangs angezeigt
+Produktbeschreibung
+1.Schriftkegelgröße Taste. 2.Aktualisierung Taste / Bildschirmtaste drehen, beim
+Lesen eines Buches drücken
+und
+halten,
+um
+die
+Einstellungen
+für
+die
+Bildschirmdrehung anzuzeigen.
+3. Menü-Taste. 4.Vorherige /
+Zurück-Taste.
+5.OK-Taste:
+17
+
+auswählen
+/
+bestätigen
+/
+eingeben. 6. Taste nach rechts .
+7. Taste nach links. 8.  Taste nach
+oben. 9. Taste nach unten . 10.
+Mikro-USB-Anschluss.
+11.
+MicroSD-Kartensteckplatz.
+12.Power-Taste 13.Reset-Taste
+Gerät einschalten - Power-Taste
+5 Sekunden lang drücken , um das Gerät einzuschalten. Power-Taste 5 Sekunden
+lang drücken, um das Gerät auszuschalten.
+Navigation - Richtungstasten nach links / rechts / oben /
+unten verwenden, um sich im Menü / in den Optionen zu
+bewegen und Seiten umzublättern. Die aktuell ausgewählte
+Option ist unterstrichen. Die aktuell gültige Option ist mit
+einem Symbol
+gekennzeichnet. OK-Taste drücken, um
+auszuwählen, zu bestätigen oder einzugeben.
+Startbildschirm - Der zuletzt gelesene Abschnitt zeigt 3 kürzlich geöffnete E-Books
+an. Das neu hinzugefügte enthält 4 zuletzt hinzugefügte E-Books.
+
+Bibliothek
+Bibliothekabschnitt eingeben, um alle E-Books auf dem Lesegerät anzuzeigen
+(sowohl im internen Speicher als auch in microSD, falls eingefügt). Auf der rechten
+Seite des Titels wird das Dateiformat angezeigt. Im Untermenü Bibliothek kann der
+Benutzer die Liste der bevorzugten E-Books anzeigen, nach Büchern suchen, nach
+Titel / Autor sortieren/ kürzlich gelesen / neu hinzugefügt  und Typ der angezeigten
+Dateien festlegen (Liste oder Miniaturansichten - Abdeckung)).
+1. Untermenü beim Lesen - Das Untermenü Optionen kann beim Lesen eines E-
+Books aktiviert werden. Menütaste drücken, während gerade eine E-Book-Datei
+geöffnet ist, um mögliche Optionen anzuzeigen. Bitte beachten, dass die Optionen
+des Lesemenüs beim Lesen von E-Books in verschiedenen Formaten unterschiedlich
+sind, da nicht jede Option für jedes Dateiformat verfügbar ist.
+1.1. Lesezeichen hinzufügen - Ein Lesezeichen im gelesenen Buch  hinzufügen.
+1.2. Lesezeichen - Zeigt gespeicherte Lesezeichen an.
+1.3.Inhaltsverzeichnis - Zeigt das Inhaltsverzeichnis an, falls verfügbar. (nicht
+verfügbar in TXT-Dateiformaten).
+[image2]
+[image3]
+[image4]
+[image5]
+[image6]
+18
+
+1.4. Zu Favoriten hinzufügen - Aktuell gelesene Buchfavoritenliste hinzufügen.
+1.5.Zur Seite wechseln - Eine Seite auswählen, um zu bewegen.
+1.6.Suchen - Suchen nach bestimmten Wörtern im aktuell gelesenen Buch.
+1.7.Zoomgröße - Vergrößern / Verkleinern der Datei (nur im PDF-Format verfügbar).
+1.8.Schriftgröße - Erhöhen / Verringern der Schriftgröße des aktuell gelesenen
+Textes; (nicht verfügbar im PDF-Dateiformat ).
+1.9.Schrifttyp - Schrifttyp des Textes verändern (verfügbar in .txt / .html / .fb2 / .rtf
+/. nur Mobi-Dateiformate).
+1.10. Zeilenabstand - Abstand zwischen den Zeilen ändern  (nur verfügbar in den
+Dateiformaten .txt / .html / .fb2 / .tf / .mobi ).
+1.11.Rand - Ränder des Buches ändern.
+1.12.Nur Text - Der Benutzer kann zwischen der Anzeige von Dateien im PDF-Format
+und in der Originalform oder nur als Text (nur verfügbar im PDF-Format ) wechseln.
+1.13.Bildschirm drehen- Bildschirm um 90 ° im Uhrzeigersinn oder gegen den
+Uhrzeigersinn drehen.
+1.14.Farben invertieren- Anzeigefarben invertieren (standardmäßig ist der
+Hintergrund weiß und die Buchstaben sind schwarz; beim Invertieren ist der
+Hintergrund schwarz und die Buchstaben sind weiß); (nicht verfügbar in PDF-
+Dateiformaten).
+1.15.Auto Flip - Automatisches Umblättern einstellen: 10 Sekunden / 20 Sekunden
+/ 30 Sekunden / 1 Minute / 2 Minuten.
+1.16.Aktualisierungsmodus
+-
+Einstellungen
+für
+die
+Bildschirmaktualisierungsfrequenz wählen: nach jeder Seite / nach jeweils 3 Seiten
+/ nach jeweils 5 Seiten.
+1.17.Über Buch - Informationen zum aktuell geöffneten E-Book anzeigt : Titel, Autor,
+Herausgeber und Format (falls verfügbar).
+1.18.Beenden - Untermenü beenden (Benutzer kann das Menü auch durch Drücken
+der vorhergehenden Taste beenden).
+1.19.Link aufsetzen - Endnotenliste anzeigt (falls verfügbar); (Option nur für PDF-,
+ePUB- und Mobi-Dateiformate verfügbar). Endnoten anzeigen , die in einem E-Book
+enthalten sind:
+1.19.1 Seite finden, auf der sich der Endnotenanker im Haupttext befindet,
+Menütaste drücken, um das Untermenü aufzurufen und Set-Link-On-Option zu
+aktivieren. In der oberen rechten Ecke des Bildschirms wird eine Maus angezeigt,
+was bedeutet, dass die Funktion aktiviert ist.
+1.19.2 OK-Taste drücken, um eine Liste der Endnoten anzuzeigen.
+1.19.3 Um zu einer anderen Endnote zu wechseln, Tasten „Up“ / „Down“ verwenden
+und  Taste „OK“ drücken. Der Leser wechselt zum Haupttext zu einer Seite mit der
+19
+
+ausgewählten Note. Um zur Liste der Endnoten zurückzukehren, Taste „OK“
+drücken.
+1.19.4 Taste „Zurück“drücken, um zum Haupttext zurückzukehren (das
+Cursorsymbol verschwindet, was bedeutet, dass die Funktion deaktiviert ist).
+2.Schriftarten. Das Gerät garantiert nicht den ordnungsgemäßen Betrieb jeder Datei
+auf diesem Gerät. Die korrekte Anzeige von Schriftarten, insbesondere von
+diakritischen Zeichen, auf diesem Reader hängt ausschließlich vom E-Book-
+Dateiformat ab und davon, ob sie für die Anzeige auf einem E-Book-Reader
+vorbereitet wurden. Für Dateien im TXT-Format wird empfohlen, sicherzustellen,
+dass die Datei im UTF-Format vorliegt, um die Schriftarten optimal anzuzeigen. Beim
+Lesen von E-Books in den Formaten .rtf / .txt / .fb2 / .mobi in einer Sprache, die aus
+diakritischen Zeichen besteht, wird empfohlen, keine Standardschriftart für eine
+optimale Anzeige von Schriftarten festzulegen.
+Bilder - Abschnitt öffnen, um alle Bilder anzuzeigen (sowohl im internen Speicher
+als auch auf der microSD-Karte, falls eingelegt). Um mögliche Funktionen
+anzuzeigen, Bild öffnen. Menütaste drücken, um das Bilduntermenü zu öffnen. Die
+erste Seite des Untermenüs bietet Optionen: Einstellen des Bildes als
+Bildschirmschoner, Wiederherstellen des Standard-Bildschirmschoners, Einstellen
+des Bildes als off-Screen, Standard von off-Screen wiederherstellen, Bild drehen,
+Vergrößern / Verkleinern. Tasten „Left“ / „Right“drücken, um die zweite Seite des
+Untermenüs anzuzeigen, auf der Sie das Bilddia-Intervall einstellen können: Aus / 5
+Sek./10 Sek./20 Sek./30 Sek./1 Minute sowie Informationen zum Bild (Name und
+Format) anzeigen und Untermenü verlassen.
+Forscher - Registerkarte eingeben, um das Verzeichnis der Dateien auf dem Reader
+anzuzeigen. Taste „Menü“im Speicher-Unterordner drücken, um eine Liste der
+zusätzlichen Optionen anzuzeigen , um eine Liste der zusätzlichen Optionen
+anzuzeigen: Suchen, Löschen und Anzeigen des internen oder externen
+Speicherschalters.
+Suchen - Registerkarte Suchen eingeben. Auf dem Bildschirm wird das Suchmenü
+angezeigt. Richtungstasten verwenden.
+Um die gesuchte Phrase einzugeben, DONE  drücken und OK drücken, um die Suche
+zu starten. Das Gerät zeigt alle verfügbaren E-Books mit dem gesuchten Wort an.
+Sie können nach Dateien nach Dateiname und Autor suchen.
+Sonstiges - Der Abschnitt Sonstige besteht aus 2 Untermenüs: Kalender- und Spiel-
+Registerkarten.
+1.Kalender. Diese Registerkarte eingeben, um den Kalender anzuzeigen. Der
+Kalender wird im aktuellen Monat mit dem markierten aktuellen Tag geöffnet (bitte
+erinnern, das richtige Datum in den Einstellungen einzustellen).
+2.Spiel. Auf dem Reader sind zwei Spiele vorinstalliert: Sokoban und Jigsaw.
+
+
+20
+
+Einstellungen
+1.Aktualisierungsmodus.
+Diese
+Registerkarte
+eingeben,
+um
+das
+Aktualisierungsmuster für die Anzeige festzulegen: nach jeder Seite / nach jeweils 3
+Seiten / nach jeweils 5 Seiten.
+2.Power-Einstellungen. Diese Registerkarte eingeben, um die automatische
+Abschaltzeit und die Standby-Zeit festzulegen.
+2.1.Automatische Abschaltung: Der Benutzer kann entweder deaktivieren oder
+1/2/3/4 Stunden für die automatische Abschaltfunktion eingestellt (das Gerät
+schaltet sich nach der eingestellten Zeit automatisch aus, um Energie zu sparen).
+Beachten: Der Benutzer kann das off-Screen an seine Bedürfnisse anpassen: ein
+vorinstalliertes Bild öffnen, Menütaste drücken und  als off-Screen festlegen.
+2.2.Standby: 5/10/15/30 Minuten / 1 Stunde deaktivieren oder wählen. Wenn diese
+Option aktiviert ist, schaltet die Funktion den Leser in den Standby-Modus, um
+Energie zu sparen. Beachten: Der Benutzer kann den Bildschirmschoner an seine
+Bedürfnisse anpassen:  Ein vorinstalliertes Bild öffnen, Taste „Menü“ drücken und
+als Bildschirmschoner festlegen.
+3. Datum & Uhrzeit. Auf dem Startbildschirm werden Wochentag und Datum in der
+unteren linken Ecke des Displays und die Uhrzeit in der unteren rechten Ecke des
+Displays angezeigt. Beim Lesen eines Buches wird die Uhrzeit in der oberen rechten
+Ecke des Bildschirms angezeigt. Um Daten und Uhrzeit zu ändern, und Einstellungen
+eingeben, Datum und Uhrzeit finden und die entsprechende Registerkarte
+eingeben. In den Zeiteinstellungen, Tasten „Left“ / „Right“ verwenden , um zwischen
+Stunde / Minute / Format zu wechseln, und Tasten „Up“ / „Down“ verwenden, um
+die Ziffern zu ändern und zwischen 24-Stunden-Format / morgens / abends zu
+wählen. In den Datumseinstellungen, Tasten „Left“ / „Right“ verwenden, um
+zwischen Tag (TT) / Monat (MM) / Jahr (JJ) zu wechseln und Tasten „Up“ / „Down“
+verwenden , um die Ziffern zu ändern.
+4.Sprachauswahl. Um die Sprache zu ändern, Einstellungen finden und Sprache
+wählen. Ein Popup-Fenster mit verfügbaren Sprachen wird angezeigt. Die
+entsprechende Sprache wählen und Taste „OK“ zur Bestätigung drücken.
+5.Format Gerät. Der Benutzer kann das Gerät auf dieser Registerkarte formatieren.
+Bitte beachten, dass beim Formatieren alle im internen Speicher gespeicherten
+Daten gelöscht werden! Ihre wichtigen Daten sichern! Es wird empfohlen, die
+Speicherkarte vor dem Formatieren aus dem Gerät zu entfernen.
+6.Standardeinstellungen.
+Um
+die
+Standardeinstellungen
+des
+Lesegeräts
+wiederherzustellen, diese Registerkarte eingeben, OK wählen und Taste „OK“ zur
+Bestätigung drücken. Die Standardeinstellungen werden wiederhergestellt und eine
+Eingabeaufforderung zur Sprachauswahl wird auf dem Bildschirm angezeigt.
+7.Geräteinformationen. Diese Registerkarte eingeben, um die Softwareversion, die
+Gerätemodellnummer, die verwendete und die Gesamtkapazität des internen
+Speichers sowie die verwendete und die Gesamtkapazität des externen Speichers
+anzuzeigen.
+21
+
+Datenübertragung
+Es gibt zwei Möglichkeiten, Dateien hochzuladen:
+1. MicroSD-Karte mit vorinstallierten Dateien in den Speichersteckplatz des Geräts
+einsetzen.
+2. Lesegerät mit dem mitgelieferten USB-Kabel an einen PC anschließen. Auf dem
+Bildschirm wird eine Aufforderung zur erfolgreichen USB-Verbindung angezeigt. Es
+ist jetzt möglich, Dateien auf das Gerät oder die Speicherkarte zu kopieren.
+Beachten: Lesegerät während des Kopierens nicht vom Computer trennen, da dies
+zu einer Beschädigung des Gerätespeichers führen kann.
+Zurücksetzen
+Falls der Leser z.B. eingefroren wird, kann der Benutzer das Gerät zurücksetzen.  Das
+dünne Werkzeug in das Rücksetzloch auf der Rückseite des Geräts einführen und
+Taste drücken und halten, um das Gerät neu zu starten.
+Grundlegende Parameter: Bildschirm: E-Tinte, 6 Zoll 1024 x 758 Pixel;
+Batteriekapazität: 1500 mAh; Speicher: 4 GB;
+
+Ordnungsgemäße Entsorgung dieses Produkts. Das Gerät kann nicht
+zusammen mit dem Hausmüll entsorgt werden. Um potenzielle
+Gefahren für die Umwelt und die menschliche Gesundheit durch
+unsachgemäße Entsorgung von Abfällen zu vermeiden, müssen
+gebrauchte elektronische Geräte zu einer bestimmten Sammelstelle
+oder an den Ort gebracht werden, an dem das Produkt zum Zweck des
+Recyclings von Elektronikschrott gekauft wurde.
+Warnung: Lithiumbatterie im Inneren.
+Dieses Gerät, E-Book-Reader-Modell CGA, entspricht der
+Richtlinie 2014/53 / EU des Europäischen Parlaments und des
+Rates. Die vollständige Konformitätserklärung finden Sie online
+unter folgendem Link[link1]: www.bemi-electronics.com/certificates[link1]
+
+Diese Bedienungsanleitung ist nicht von der Garantie abgedeckt, und das
+Erscheinungsbild und / oder die Funktionalität der auf dem Gerät installierten
+Software können von der beschriebenen abweichen. Der Garant behält sich das
+Recht vor, die Bedienungsanleitung jederzeit ohne vorherige Ankündigung zu
+ändern.
+
+Hersteller: Shenzhen Minrek Electronic Ltd.
+Address: C602, 6th Floor, Building C, Hangcheng Road, Huafeng International Robot
+Industrial Zone, Xi'xiang, Bao'an, Shenzhen, China 518126
+
+In China hergestellt
+
+
+[image7]
+[image8]
