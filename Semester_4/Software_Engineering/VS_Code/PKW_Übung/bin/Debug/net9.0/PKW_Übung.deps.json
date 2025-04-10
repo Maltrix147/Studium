@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PKW_Übung/1.0.0": {
+        "runtime": {
+          "PKW_Übung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PKW_Übung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

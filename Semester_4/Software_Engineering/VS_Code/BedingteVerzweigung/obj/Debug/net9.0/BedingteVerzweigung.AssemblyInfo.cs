@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BedingteVerzweigung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ff5b0e3972b91bc06329ca19c7b263558ca021c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+711597e32e060cd9bbd01b3d070283dc72061c60")]
 [assembly: System.Reflection.AssemblyProductAttribute("BedingteVerzweigung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BedingteVerzweigung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

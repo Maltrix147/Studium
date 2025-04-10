@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\bin\Debug\net9.0\PKW_Übung.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\bin\Debug\net9.0\PKW_Übung.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\bin\Debug\net9.0\PKW_Übung.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\bin\Debug\net9.0\PKW_Übung.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\bin\Debug\net9.0\PKW_Übung.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\refint\PKW_Übung.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\PKW_Übung.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung\obj\Debug\net9.0\ref\PKW_Übung.dll

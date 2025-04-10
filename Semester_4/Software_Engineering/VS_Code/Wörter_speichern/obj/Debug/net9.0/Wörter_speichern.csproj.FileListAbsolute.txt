@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\bin\Debug\net9.0\Wörter_speichern.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\bin\Debug\net9.0\Wörter_speichern.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\bin\Debug\net9.0\Wörter_speichern.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\bin\Debug\net9.0\Wörter_speichern.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\bin\Debug\net9.0\Wörter_speichern.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\refint\Wörter_speichern.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\Wörter_speichern.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Wörter_speichern\obj\Debug\net9.0\ref\Wörter_speichern.dll
