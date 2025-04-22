@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\bin\Debug\net9.0\Rekursion.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\bin\Debug\net9.0\Rekursion.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\bin\Debug\net9.0\Rekursion.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\bin\Debug\net9.0\Rekursion.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\bin\Debug\net9.0\Rekursion.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\refint\Rekursion.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\Rekursion.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\Rekursion\obj\Debug\net9.0\ref\Rekursion.dll

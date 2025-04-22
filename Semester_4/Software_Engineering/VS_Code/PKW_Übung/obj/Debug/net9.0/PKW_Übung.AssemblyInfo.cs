@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PKW_Übung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+711597e32e060cd9bbd01b3d070283dc72061c60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f67a00f8de44eacca2afb2565d1d270f5455653")]
 [assembly: System.Reflection.AssemblyProductAttribute("PKW_Übung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PKW_Übung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

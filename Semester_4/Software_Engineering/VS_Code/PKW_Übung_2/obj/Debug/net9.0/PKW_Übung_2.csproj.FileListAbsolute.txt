@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\bin\Debug\net9.0\PKW_Übung_2.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\bin\Debug\net9.0\PKW_Übung_2.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\bin\Debug\net9.0\PKW_Übung_2.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\bin\Debug\net9.0\PKW_Übung_2.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\bin\Debug\net9.0\PKW_Übung_2.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\refint\PKW_Übung_2.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\PKW_Übung_2.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_Code\PKW_Übung_2\obj\Debug\net9.0\ref\PKW_Übung_2.dll
