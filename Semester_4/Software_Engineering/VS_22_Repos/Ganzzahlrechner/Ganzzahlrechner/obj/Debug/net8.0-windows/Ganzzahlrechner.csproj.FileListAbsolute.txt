@@ -1,0 +1,17 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\bin\Debug\net8.0-windows\Ganzzahlrechner.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\bin\Debug\net8.0-windows\Ganzzahlrechner.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\bin\Debug\net8.0-windows\Ganzzahlrechner.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\bin\Debug\net8.0-windows\Ganzzahlrechner.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\bin\Debug\net8.0-windows\Ganzzahlrechner.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.Form1.resources
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.csproj.GenerateResource.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\refint\Ganzzahlrechner.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\Ganzzahlrechner.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Ganzzahlrechner\Ganzzahlrechner\obj\Debug\net8.0-windows\ref\Ganzzahlrechner.dll

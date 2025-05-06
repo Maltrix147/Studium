@@ -1,0 +1,17 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\bin\Debug\net8.0-windows\First_App.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\bin\Debug\net8.0-windows\First_App.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\bin\Debug\net8.0-windows\First_App.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\bin\Debug\net8.0-windows\First_App.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\bin\Debug\net8.0-windows\First_App.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.Form1.resources
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.csproj.GenerateResource.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\refint\First_App.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\First_App.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\First_App\First_App\obj\Debug\net8.0-windows\ref\First_App.dll
