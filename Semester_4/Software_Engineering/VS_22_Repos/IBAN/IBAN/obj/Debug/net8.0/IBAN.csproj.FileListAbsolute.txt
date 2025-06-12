@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\bin\Debug\net8.0\IBAN.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\bin\Debug\net8.0\IBAN.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\bin\Debug\net8.0\IBAN.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\bin\Debug\net8.0\IBAN.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\bin\Debug\net8.0\IBAN.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\refint\IBAN.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\IBAN.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\IBAN\IBAN\obj\Debug\net8.0\ref\IBAN.dll

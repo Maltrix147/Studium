@@ -1,0 +1,15 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\bin\Debug\net8.0\Stepcounter.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\bin\Debug\net8.0\Stepcounter.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\bin\Debug\net8.0\Stepcounter.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\bin\Debug\net8.0\Stepcounter.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\bin\Debug\net8.0\Stepcounter.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\refint\Stepcounter.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\Stepcounter.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Stepcounter\Stepcounter\obj\Debug\net8.0\ref\Stepcounter.dll

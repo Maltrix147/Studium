@@ -1,0 +1,17 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\bin\Debug\net8.0-windows\AutoSimulation.exe
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\bin\Debug\net8.0-windows\AutoSimulation.deps.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\bin\Debug\net8.0-windows\AutoSimulation.runtimeconfig.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\bin\Debug\net8.0-windows\AutoSimulation.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\bin\Debug\net8.0-windows\AutoSimulation.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.Form1.resources
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.csproj.GenerateResource.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.sourcelink.json
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\refint\AutoSimulation.dll
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.pdb
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\AutoSimulation.genruntimeconfig.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\AutoSimulation\AutoSimulation\obj\Debug\net8.0-windows\ref\AutoSimulation.dll

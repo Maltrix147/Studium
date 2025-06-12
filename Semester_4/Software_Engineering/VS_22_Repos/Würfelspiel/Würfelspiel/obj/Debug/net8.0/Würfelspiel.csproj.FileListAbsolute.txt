@@ -1,0 +1,5 @@
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Würfelspiel\Würfelspiel\obj\Debug\net8.0\Würfelspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Würfelspiel\Würfelspiel\obj\Debug\net8.0\Würfelspiel.AssemblyInfoInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Würfelspiel\Würfelspiel\obj\Debug\net8.0\Würfelspiel.AssemblyInfo.cs
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Würfelspiel\Würfelspiel\obj\Debug\net8.0\Würfelspiel.csproj.CoreCompileInputs.cache
+C:\Users\malte\OneDrive\Desktop\Repositories\Studium\Semester_4\Software_Engineering\VS_22_Repos\Würfelspiel\Würfelspiel\obj\Debug\net8.0\Würfelspiel.sourcelink.json

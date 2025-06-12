@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F979862-80CC-4AEC-9E74-2C6E01FCAB04}|AutoSimulation\\AutoSimulation.csproj|c:\\users\\malte\\onedrive\\desktop\\repositories\\studium\\semester_4\\software_engineering\\vs_22_repos\\autosimulation\\autosimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F979862-80CC-4AEC-9E74-2C6E01FCAB04}|AutoSimulation\\AutoSimulation.csproj|solutionrelative:autosimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F979862-80CC-4AEC-9E74-2C6E01FCAB04}|AutoSimulation\\AutoSimulation.csproj|c:\\users\\malte\\onedrive\\desktop\\repositories\\studium\\semester_4\\software_engineering\\vs_22_repos\\autosimulation\\autosimulation\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F979862-80CC-4AEC-9E74-2C6E01FCAB04}|AutoSimulation\\AutoSimulation.csproj|solutionrelative:autosimulation\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F979862-80CC-4AEC-9E74-2C6E01FCAB04}|AutoSimulation\\AutoSimulation.csproj|c:\\users\\malte\\onedrive\\desktop\\repositories\\studium\\semester_4\\software_engineering\\vs_22_repos\\autosimulation\\autosimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F979862-80CC-4AEC-9E74-2C6E01FCAB04}|AutoSimulation\\AutoSimulation.csproj|solutionrelative:autosimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\AutoSimulation\\Auto.cs",
+              "RelativeDocumentMoniker": "AutoSimulation\\Auto.cs",
+              "ToolTip": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\AutoSimulation\\Auto.cs",
+              "RelativeToolTip": "AutoSimulation\\Auto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:11:23.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\AutoSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\AutoSimulation\\Form1.cs",
+              "RelativeToolTip": "AutoSimulation\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T15:10:25.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\AutoSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "AutoSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\malte\\OneDrive\\Desktop\\Repositories\\Studium\\Semester_4\\Software_Engineering\\VS_22_Repos\\AutoSimulation\\AutoSimulation\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "AutoSimulation\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T14:58:21.494Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
