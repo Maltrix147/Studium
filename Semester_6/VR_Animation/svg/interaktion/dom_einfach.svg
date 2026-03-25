@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="300">
+<g id="firstGroup">
+    <circle id="kreis" cx="90" cy="45" r="20" stroke="black" fill="blue" />
+    <text x="20" y="100">Text1</text>
+    <text x="20" y="130" >Text2</text>
+    <text x="20" y="160" >Text3</text>
+  </g>
+</svg>

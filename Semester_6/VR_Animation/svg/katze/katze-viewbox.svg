@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="170">
+  <title>Eine Miezekatze</title>
+  <desc>Eine Katze, gezeichnet mit Strichen</desc>
+  
+  <!-- Katzenkopf: -->
+  <circle cx="70" cy="95" r="50" style="stroke: black; fill: none;" />
+
+  <!-- Gruene Katzenaugen: -->
+  <circle cx="55" cy="80" r="5" stroke="black" fill="green" />
+  <circle cx="85" cy="80" r="5" stroke="black" fill="green" />
+
+  <!-- Katzenschnurbarthaare, rechts: -->
+  <g id="schnurbart">
+    <line x1="75" y1="95" x2="135" y2="85" style="stroke: black;" />
+    <line x1="75" y1="95" x2="135" y2="105" style="stroke: black;" />
+  </g>
+  
+  <!-- Katzenschnurbarthaare, links (Wiederverwendung): -->
+  <use xmlns:xlink="http://www.w3.org/1999/xlink"
+       xlink:href="#schnurbart"
+       transform="scale(-1 1) translate(-140 0)" />
+
+  <!-- Katzenohren: -->
+  <polyline points="108 62, 90 10, 70 45, 50 10, 32 62"
+            style="stroke: black; fill: none;" />
+
+  <!-- Katzenschnautze: -->
+  <polyline points="35, 110, 45, 120, 95, 120, 105, 110"
+            style="stroke: black; fill: none;" />
+
+  <!-- Rote Katzennase: -->
+  <!-- M: "move", L: "line", A: "arc" -->
+  <path d="M 75 90 L 65 90 A 5 10 0 0 0 75 90"
+        style="stroke: black; fill: red" />
+
+  <!-- Beschriftung: -->
+  <text x="70" y="165" text-anchor="middle"
+        style="font-family: sans-serif; font-size: 14pt;
+               stroke: none; fill: blue;">
+    Miezekatze
+  </text>  
+
+  <!-- Animation: -->
+  <!-- Zielgroesse: 140/20=7 und 170/20=8.5 -->
+  <!-- Zielpunkt:
+       linkes Auge (55, 80) - halbe Groesse (3.5, 4.25) = (51.5, 75.75) -->
+  <animate attributeName="viewBox" id="anim1"
+           values="-140 -170 420 510; 51.5 75.75 7 8.5"
+           begin="mousedown" dur="10s" fill="freeze" />
+  <!-- Startpunkt: rechtes Auge (85, 80) - (3.5, 4.25) = (81.5, 75.75) -->
+  <animate attributeName="viewBox"
+           values="81.5 75.75 7 8.5; -140 -170 420 510"
+           begin="anim1.end+1s" dur="10s" fill="freeze" />
+
+</svg>

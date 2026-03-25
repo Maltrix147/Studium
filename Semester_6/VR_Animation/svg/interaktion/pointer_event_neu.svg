@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+  <title>Event</title>
+  <script type="text/ecmascript">
+    <![CDATA[
+      function showIt(evt,idElem) {
+        var evtElem = evt.target;
+        var doc = evtElem.ownerDocument;
+        var targetElem = doc.getElementById(idElem);
+        if (targetElem) {
+          switch(evt.type) {
+            case 'mouseover':
+              var style = targetElem.style;
+              if (style) {
+                style.setProperty('fill','red');
+              }
+              break;
+            case 'mouseout' :
+              var style = targetElem.style;
+              if (style) {
+                style.setProperty('fill','blue');
+              } 
+          } // switch
+        } // if
+      } // function showIt
+    ]]>
+  </script>
+
+
+  <rect id="toShow" x="10" y="10" width="210" height="210"
+        fill="blue" stroke="black"
+        onmouseover="showIt(evt,'toShow')" onmouseout="showIt(evt,'toShow')"
+        pointer-events="stroke" />
+  <circle id="toShow2" cx="105" cy="105" r="20" fill="green" stroke="black" 
+           pointer-events="fill" 
+          onmouseover="showIt(evt,'toShow2')" onmouseout="showIt(evt,'toShow2')" />
+
+</svg>

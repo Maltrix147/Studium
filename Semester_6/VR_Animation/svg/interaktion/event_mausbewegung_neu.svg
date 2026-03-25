@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300"
+     onload="init(evt)">
+  <title>Event</title>
+  <script type="text/ecmascript">
+    <![CDATA[
+      var elem;
+      var svgdoc;
+      function init(evt) {
+         svgdoc = evt.target.ownerDocument;
+         elem = svgdoc.getElementById('plane');
+         elem.addEventListener("mousemove", mouse_pos, false);
+      }
+
+      function mouse_pos(evt) {
+        var crc = svgdoc.getElementById("toShow");
+        var posX = evt.clientX;
+        var posY = evt.clientY;
+        posX = posX;
+        posY = posY;
+        crc.setAttribute("transform", "translate("+posX+","+posY+")");
+      }
+    ]]>
+  </script>
+
+  <rect id="plane" x="0" y="0" width="300" height="300"
+        style="fill:white; stroke:none; opacity:0" />
+  
+  <g transform="translate(50,50)" id="toShow">
+    <path id="pathcircle" style="fill:none;
+                                 stroke-width:0.5;
+                                 stroke:red;"
+          d="M0 0 a10,10 -30 0,1 20,-20 a10,10 -30 0,1 -20,+20" />
+    <circle cx="0" cy="0" r="3" style="fill:black; stroke:none">
+      <animateMotion dur="3s" repeatCount="indefinite"
+                     path="M0 0 a10,10 -30 0,1 20,-20 a10,10 -30 0,1 -20 +20"
+                     rotate="auto" />
+    </circle>
+  </g>
+
+</svg>

@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="980" height="550" stroke="black">
+	<title>CS-Project</title>
+	<!--Animation erstellt von: 
+		Daniel Plaetschke (49173), 
+		Manuel Holzwarth (48919), 
+		Benjamin Engel (48994),
+		Daniel Schanzenbach (48970)
+	-->
+	<!--Hinweis: Durch die Vielzahl an Animationen kann es vorkommen,
+		dass kleine "Ruckler" auftreten, oder animierte Objekte 
+		kurzzeitig verschwinden. -->
+ 
+	<!--viewbox-->
+	<rect x="0" y="0" width="980" height="550" style="stroke: black; fill: black" />
+	
+	<!--FSK 18-->
+	<defs>
+		<g id="FSK18">
+			<rect x="385" y="165" width="120" height="120" rx="10" ry="10" style="stroke: darkred; stroke-width: 2; fill: red"/>
+			<circle cx="445" cy="225" r="50" style="stroke: none; fill: rgb(205,13,7)" />
+			<text x="442" y="240" text-anchor="middle" style="font-family: arial; font-size: 32pt; stroke: black; fill: black;">
+				18
+			</text>
+	
+			<set attributeName="visibility" to="hidden" begin="4s"/>  
+		</g>
+	</defs>
+ 
+	<!--ESRB-->
+	<defs>
+	<g id="ESRB" visibility="hidden">
+		<g id="Horrendous">
+			<rect x="10" y="50" width="180" height="270" style="stroke: black; fill: white" />
+			<rect x="15" y="55" width="170" height="260" style="fill:black; stroke:none" />
+			<rect x="25" y="100" width="150" height="160" style="fill:white; stroke: none" />
+			<text x="100" y="85" text-anchor="middle" style="font-family: impact; font-size: 22pt; stroke: none; fill: white; font-weight: bold">
+				HORRENDOUS
+			</text>
+			<text x="105" y="240" text-anchor="middle" style="font-family: helvetica; font-size: 130pt; stroke: none; fill: black; font-weight: bold" transform="rotate(350 140,240)">
+				H
+			</text>
+			<text x="100" y="280" text-anchor="middle" style="font-family: impact; font-size: 16pt; stroke: none; fill: white; ">
+				CONTENT RATED BY
+			</text>
+			<text x="100" y="280" text-anchor="middle" style="font-family: impact; font-size: 24pt; stroke: none; fill: white; font-weight: bold">
+				<tspan x="50" y="310"> D</tspan>
+				<tspan x="85" y="310"> M</tspan>
+				<tspan x="120" y="310"> B</tspan>
+				<tspan x="155" y="310"> D</tspan>
+			</text>
+		</g>
+	
+		<g id="Trash">
+			<rect x="200" y="50" width="180" height="270" style="stroke: black; fill: white" />
+			<rect x="205" y="55" width="170" height="260" style="fill:black; stroke:none" />
+			<rect x="215" y="100" width="150" height="160" style="fill:white; stroke: none" />
+			<text x="290" y="85" text-anchor="middle" style="font-family: impact; font-size: 22pt; stroke: none; fill: white; font-weight: bold">
+				TRASH
+			</text>
+			<text x="295" y="240" text-anchor="middle" style="font-family: helvetica; font-size: 130pt; stroke: none; fill: black; font-weight: bold" transform="rotate(350 290,240)">
+				T
+			</text>
+			<text x="290" y="280" text-anchor="middle" style="font-family: impact; font-size: 16pt; stroke: none; fill: white; ">
+				CONTENT RATED BY
+			</text>
+			<text x="290" y="280" text-anchor="middle" style="font-family: impact; font-size: 24pt; stroke: none; fill: white; font-weight: bold">
+				<tspan x="240" y="310"> D</tspan>
+				<tspan x="275" y="310"> M</tspan>
+				<tspan x="310" y="310"> B</tspan>
+				<tspan x="345" y="310"> D</tspan>
+			</text>
+		</g>
+	
+		<g id="Worst">
+			<rect x="390" y="50" width="180" height="270" style="stroke: black; fill: white" />
+			<rect x="395" y="55" width="170" height="260" style="fill:black; stroke:none" />
+			<rect x="405" y="100" width="150" height="160" style="fill:white; stroke: none" />
+			<text x="480" y="85" text-anchor="middle" style="font-family: impact; font-size: 22pt; stroke: none; fill: white; font-weight: bold">
+				WORST
+			</text>
+			<text x="500" y="240" text-anchor="middle" style="font-family: helvetica; font-size: 116pt; stroke: none; fill: black; font-weight: bold" transform="rotate(350 485,240)">
+				W
+			</text>
+			<text x="480" y="280" text-anchor="middle" style="font-family: impact; font-size: 16pt; stroke: none; fill: white; ">
+				CONTENT RATED BY
+			</text>
+			<text x="480" y="280" text-anchor="middle" style="font-family: impact; font-size: 24pt; stroke: none; fill: white; font-weight: bold">
+				<tspan x="430" y="310"> D</tspan>
+				<tspan x="465" y="310"> M</tspan>
+				<tspan x="500" y="310"> B</tspan>
+				<tspan x="535" y="310"> D</tspan>
+			</text>
+		</g>
+	
+		<g id="Abysmal">
+			<rect x="590" y="50" width="180" height="270" style="stroke: black; fill: white" />
+			<rect x="595" y="55" width="170" height="260" style="fill:black; stroke:none" />
+			<rect x="605" y="100" width="150" height="160" style="fill:white; stroke: none" />
+			<text x="680" y="85" text-anchor="middle" style="font-family: impact; font-size: 22pt; stroke: none; fill: white; font-weight: bold">
+				ABYSMAL
+			</text>
+			<text x="680" y="240" text-anchor="middle" style="font-family: helvetica; font-size: 130pt; stroke: none; fill: black; font-weight: bold" transform="rotate(350 680,240)">
+				A
+			</text>
+			<text x="680" y="280" text-anchor="middle" style="font-family: impact; font-size: 16pt; stroke: none; fill: white; ">
+				CONTENT RATED BY
+			</text>
+			<text x="680" y="280" text-anchor="middle" style="font-family: impact; font-size: 24pt; stroke: none; fill: white; font-weight: bold">
+				<tspan x="630" y="310"> D</tspan>
+				<tspan x="665" y="310"> M</tspan>
+				<tspan x="700" y="310"> B</tspan>
+				<tspan x="735" y="310"> D</tspan>
+			</text>
+		</g>
+	
+		<g id="Abominable">
+			<rect x="780" y="50" width="180" height="270" style="stroke: black; fill: white" />
+			<rect x="785" y="55" width="170" height="260" style="fill:black; stroke:none" />
+			<rect x="795" y="100" width="150" height="160" style="fill:white; stroke: none" />
+			<text x="870" y="85" text-anchor="middle" style="font-family: impact; font-size: 22pt; stroke: none; fill: white; font-weight: bold">
+				ABOMINABLE
+			</text>
+			<text x="870" y="240" text-anchor="middle" style="font-family: helvetica; font-size: 130pt; stroke: none; fill: black; font-weight: bold" transform="rotate(350 870,240)">
+				A
+			</text>
+			<text x="870" y="280" text-anchor="middle" style="font-family: impact; font-size: 16pt; stroke: none; fill: white; ">
+				CONTENT RATED BY
+			</text>
+			<text x="870" y="280" text-anchor="middle" style="font-family: impact; font-size: 24pt; stroke: none; fill: white; font-weight: bold">
+				<tspan x="820" y="310"> D</tspan>
+				<tspan x="855" y="310"> M</tspan>
+				<tspan x="890" y="310"> B</tspan>
+				<tspan x="925" y="310"> D</tspan>
+			</text>
+		</g>
+    	
+		<set attributeName="visibility" to="visible" begin="4s"/>
+		<set attributeName="visibility" to="hidden" begin="12"/> 
+	</g>
+	</defs>
+ 
+	<!--Karte-->
+	<defs>
+	<g id="Karte" visibility="hidden">
+		<rect x="0" y="0" width="980" height="550" style="stroke: none; fill: rgb(189,248,137)" />
+	<!--Straßen-->
+		<path id="Straße1" d="M 510 0 L 510 120 0 120 0 150 980 150 980 120 540 120 540 0" style="stroke: none; fill: lightgrey" />
+		<rect id="Straße2" x="0" y ="320" width="980" height="20" style="stroke:none; fill: lightgrey" />
+		<rect id="Straße3" x="0" y="500" width="980" height="30" style="stroke:none; fill: lightgrey" />
+		<rect id="Straße4" x="25" y="340" width="30" height="160" style="stroke:none; fill: lightgrey" />
+		<rect id="Straße5" x="930" y="340" width="30" height="160" style="stroke:none; fill: lightgrey" />
+		<path id="campus" d="M 515 150 L 515 170 510 170 510 300 525 300 525 320 650 320 650 300 665 300 665 170 545 170 545 150" style="stroke:none; fill: lightgrey" />
+		<polyline id="rampe1" points="570,300 570,307 635,317 635,320" style="stroke-width: 1; fill:none" />
+		<polyline id="rampe2" points="580,300 580,303 645,313 645,320" style="stroke-width: 1; fill:none" />
+		<g id="Treppe1">
+			<line x1="515" y1="153" x2="545" y2="153" stroke-width="0.5" />
+			<line x1="515" y1="157" x2="545" y2="157" stroke-width="0.5" />
+			<line x1="515" y1="161" x2="545" y2="161" stroke-width="0.5" />
+			<line x1="515" y1="165" x2="545" y2="165" stroke-width="0.5" />
+		</g>
+		<g id="Treppe2">
+			<line x1="525" y1="303" x2="565" y2="303" stroke-width="0.5" />
+			<line x1="525" y1="307" x2="565" y2="307" stroke-width="0.5" />
+			<line x1="525" y1="311" x2="565" y2="311" stroke-width="0.5" />
+			<line x1="525" y1="315" x2="565" y2="315" stroke-width="0.5" />
+		</g>
+		
+	<!--Gebäude-->
+		<rect id="Mensagr" x="150" y="45" width="355" height="50" style= "stroke:none; fill:lightgrey" />
+		<rect id="Mensa" x="225" y="45" width="225" height="50" style= "stroke:none; fill:rgb(216,94,20)" />
+		<rect id="StudWohnh1" x="580" y="0" width="75" height="55" style="stroke:none; fill:grey"/>
+		<rect id="StudWohnh2" x="695" y="0" width="170" height="55" style="stroke:none; fill:grey"/>
+		<rect id="Bibgr" x="670" y="180" width="275" height="110" style= "stroke:none; fill:lightgrey" />
+		<rect id="Bib" x="670" y="240" width="225" height="50" style= "stroke:none; fill:rgb(216,94,20)" />
+	
+		<path id="G1" d="M 40 180 L 505 180 505 225 445 225 445 235 505 235 505 290 40 290 40 235 100 235 100 225 40 225" style="stroke:none; fill:grey" />
+		<rect id="DT01G1" x="110" y="220" width="325" height="20" style="stroke:lightgrey; fill:rgb(216,94,20)" />
+		<rect id="DT02G1" x="125" y="225" width="90" height="10" style="stroke:none; fill: lightgrey" />
+		<rect id="DT03G1" x="330" y="225" width="90" height="10" style="stroke:none; fill: lightgrey" />
+		<rect id="DT04G1" x="235" y="225" width="65" height="10" style="stroke:none; fill: lightgrey" />
+	
+		<path id="G2" d="M 230 360 L 770 360 770 405 680 405 680 415 770 415 770 470 230 470 230 415 280 415 280 405 230 405" style="stroke:none; fill:grey" />
+		<rect id="DT01G2" x="290" y="400" width="380" height="20" style="stroke:lightgrey; fill:rgb(216,94,20)" /> 
+		<rect id="DT02G2" x="300" y="405" width="100" height="10" style="stroke:none; fill: lightgrey" />
+		<rect id="DT03G2" x="420" y="405" width="110" height="10" style="stroke:none; fill: lightgrey" />
+		<rect id="DT04G2" x="560" y="405" width="100" height="10" style="stroke:none; fill: lightgrey" />
+	
+	<!--Schilder-->
+		<g id="Verboten1">
+			<circle cx="130" cy="430" r="55" style=" stroke:black; fill:red" />
+			<circle cx="130" cy="430" r="42" style=" stroke:none; fill:white" />
+			<text x="130" y="420" text-anchor="middle" style="font-family: Cambria; stroke: black; fill: black;">
+				Betreten
+				<tspan x="130" y="435"> verboten</tspan>
+				<tspan x="130" y="460" font-family="Cambria" font-size="26"> !!!</tspan>
+			</text>  
+		</g>
+		<set attributeName="visibility" to="visible" begin="12"/> 
+		<use xlink:href="#Bombe" />
+	</g>
+	</defs>
+  
+	 		 
+	<!--Figuren-->
+	<defs>
+	<g id="John" visibility="hidden">
+		<circle cx="520" cy="100" r="5" />
+		<line x1="520" y1="104" x2="520" y2="115" stroke-width="2" />
+		<line x1="520" y1="104" x2="520" y2="117" stroke-width="1" />
+		<polyline points="520,100 523.5,108 520,112" style="fill:none" /> 
+		<polyline points="520,100 514,104 520,108" style="fill:none" /> 
+		<set attributeName="visibility" to="visible" begin="12s" />
+		<set attributeName="visibility" to="hidden" begin="37.2s" />
+	</g>
+	
+	<g id="Jürgen" visibility="hidden">
+		<circle cx="0" cy="0" r="5" />
+		<line x1="-2" y1="5" x2="-2" y2="15" stroke-width="3" />
+		<polyline points="-2,2 -7,4 -2,8" style="fill:none" /> 
+		<polyline points="3,2 2,8 -2,15" style="fill:none" /> 
+		<line x1="-1" y1="1" x2="-4" y2="-6" style="stroke:brown" />
+		<line x1="0" y1="0" x2="0" y2="-7" style="stroke:brown" />
+		<line x1="1" y1="1" x2="4" y2="-6" style="stroke:brown" />
+		<set attributeName="visibility" to="visible" begin="12s" />
+		<set attributeName="visibility" to="hidden" begin="28s" />
+	</g>
+	
+	<g id="Karl" visibility="hidden">
+		<circle cx="0" cy="0" r="6" />
+		<line x1="-11" y1="4" x2="18" y2="4" stroke-width="4.5" />
+		<polyline points="3,-1 8,-3 12,4" style="fill:none" /> 
+		<line x1="-7" y1="0" x2="5" y2="0" style="stroke:rgb(0,130,0); stroke-width: 2" />
+		<set attributeName="visibility" to="visible" begin="12s" />
+	</g>
+	
+	<g id="John1" visibility="hidden">
+		<circle cx="0" cy="0" r="5" style="fill:rgb(255,231,174); stroke:black" />
+		<line x1="0" y1="4" x2="0" y2="15" stroke-width="2" />
+		<line x1="0" y1="4" x2="0" y2="17" stroke-width="1" />
+		<polyline points="0,0 3.5,8 0,12" style="fill:none" /> 
+		<polyline points="0,0 -6,4 0,8" style="fill:none" /> 
+		<set attributeName="visibility" to="visible" begin="12" />
+		<set attributeName="visibility" to="hidden" begin="35.9s" />
+	</g>
+	
+	<g id="Jürgen1" visibility="hidden">
+		<circle cx="0" cy="0" r="5" style="fill:rgb(255,231,174); stroke:black" />
+		<line x1="-2" y1="5" x2="-2" y2="15" stroke-width="3" />
+		<polyline points="-2,2 -7,4 -2,8" style="fill:none" /> 
+		<polyline points="3,2 2,8 -2,15" style="fill:none" /> 
+		<line x1="-1" y1="1" x2="-4" y2="-6" style="stroke:brown" />
+		<line x1="0" y1="0" x2="0" y2="-7" style="stroke:brown" />
+		<line x1="1" y1="1" x2="4" y2="-6" style="stroke:brown" />
+		<set attributeName="visibility" to="visible" begin="12s" />
+	</g>
+	
+	<g id="Karl1" visibility="hidden">
+		<circle cx="0" cy="0" r="6" style="fill:rgb(255,231,174); stroke:black" />
+		<line x1="-11" y1="4" x2="18" y2="4" stroke-width="4.5" />
+		<polyline points="3,-1 8,-3 12,4" style="fill:none" /> 
+		<line x1="-7" y1="0" x2="5" y2="0" style="stroke:rgb(0,130,0); stroke-width: 2" />
+		<set attributeName="visibility" to="visible" begin="12s" />
+	</g>
+	</defs>
+ 
+	<!--Figuren tot-->
+	<defs>
+	<g id="Figuren tot">
+
+		<g id="John tot" visibility="hidden" transform="rotate(120 157 150)">
+			<polyline points="147, 152 150, 150 147, 149" fill="none" stroke-width="0.5" />
+			<line x1="150" y1="150" x2="155" y2="150" stroke-width="0.5" />
+			<polyline points="151, 151 153, 152 154, 150 155, 146.5 157, 146" fill="none" stroke-width="0.5" />
+			<circle cx="157" cy="150" r="2" stroke-width="0.5" />
+			<polyline points="163, 145.1 163, 145.8 153.5, 145.8 150, 146.3 150, 144.6 153.5, 144.9" />
+			<line x1="163" y1="145.6" x2="165" y2="145.6" stroke-width="0.5"/>
+			<rect x="154.5" y="144.2" width="2" height="1" style="fill:none; stroke-width: 0.3" rx="0.3" ry="0.15"/>
+			<set attributeName="visibility" to="visible" begin="37.2s" />
+		</g>
+  
+		<g id="Jürgen tot" visibility="hidden">
+			<polyline points="147, 212 150, 210 147, 209" fill="none" stroke-width="0.5" />
+			<line x1="150" y1="210" x2="155" y2="210" stroke-width="0.5" />
+			<polyline points="151, 211 153, 212 154, 210 155, 206.5 157, 206" fill="none" stroke-width="0.5" />
+			<circle cx="157" cy="210" r="2" stroke-width="0.5" />
+			<line x1="153" y1="205" x2="162.8" y2="204" stroke-width="2" />
+			<polyline points="153, 205 152, 205.3 152, 204.5 153, 204.7" />
+			<rect x="154.5" y="202.8" width="2" height="1" style="fill:none; stroke-width: 0.3" rx="0.3" ry="0.15"/>
+			<set attributeName="visibility" to="visible" begin="28s" />
+		</g>
+  
+		<g id="Karl tot" visibility="hidden">
+			<polyline points="147, 182 150, 180 147, 179" fill="none" stroke-width="0.5" />
+			<line x1="150" y1="180" x2="155" y2="180" stroke-width="0.5" />
+			<polyline points="151, 181 153, 182 154, 180 155, 176.5 157, 176" fill="none" stroke-width="0.5" />
+			<rect x="159" y="179.3" width="1.6" height="1.5" style="fill:rgb(0,130,0);stroke:none"/>
+			<circle cx="157" cy="180" r="2" stroke-width="0.5" />
+			<line x1="146" y1="172" x2="168.8" y2="173.2" stroke-width="4" />
+			<rect x="153" y="169.8" width="2" height="1" style="fill:none; stroke-width: 0.3" rx="0.3" ry="0.15"/>
+			<set attributeName="visibility" to="visible" begin="58" />
+		</g> 
+  
+		<g id="John1 tot" visibility="hidden">
+			<polyline points="147, 252 150, 250 147, 249" fill="none" stroke-width="0.5" />
+			<line x1="150" y1="250" x2="155" y2="250" stroke-width="0.5" />
+			<polyline points="151, 251 153, 252 154, 250 155, 246.5 157, 246" fill="none" stroke-width="0.5" />
+			<circle cx="157" cy="250" r="2" stroke-width="0.5" style="fill:rgb(255,231,174)" />
+			<polyline points="163, 245.1 163, 245.8 153.5, 245.8 150, 246.3 150, 244.6 153.5, 244.9" />
+			<line x1="163" y1="245.6" x2="165" y2="245.6" stroke-width="0.5"/>
+			<rect x="154.5" y="244.2" width="2" height="1" style="fill:none; stroke-width: 0.3" rx="0.3" ry="0.15"/>
+			<set attributeName="visibility" to="visible" begin="35.9s" />
+		</g>
+  
+		<g id="Jürgen1 tot" visibility="hidden" >
+			<polyline points="147, 282 150, 280 147, 279" fill="none" stroke-width="0.5" />
+			<line x1="150" y1="280" x2="155" y2="280" stroke-width="0.5" />
+			<polyline points="151, 281 153, 282 154, 280 155, 276.5 157, 276" fill="none" stroke-width="0.5" />
+			<circle cx="157" cy="280" r="2" stroke-width="0.5" style="fill:rgb(255,231,174)"/>
+			<line x1="153" y1="275" x2="162.8" y2="274" stroke-width="2" />
+			<polyline points="153, 275 152, 275.3 152, 274.5 153, 274.7" />
+			<rect x="154.5" y="272.8" width="2" height="1" style="fill:none; stroke-width: 0.3" rx="0.3" ry="0.15"/>
+			<set attributeName="visibility" to="visible" begin="47.7s" />
+		</g>
+  
+		<g id="Karl1 tot" visibility="hidden" >
+			<polyline points="147, 332 150, 330 147, 329" fill="none" stroke-width="0.5" />
+			<line x1="150" y1="330" x2="155" y2="330" stroke-width="0.5" />
+			<polyline points="151, 331 153, 332 154, 330 155, 326.5 157, 326" fill="none" stroke-width="0.5" />
+			<rect x="159" y="329.3" width="1.6" height="1.5" style="fill:rgb(0,130,0);stroke:none"/>
+			<circle cx="157" cy="330" r="2" stroke-width="0.5" style="fill:rgb(255,231,174)" />
+			<line x1="146" y1="322" x2="168.8" y2="323.2" stroke-width="4" />
+			<rect x="153" y="319.8" width="2" height="1" style="fill:none; stroke-width: 0.3" rx="0.3" ry="0.15"/>
+			<set attributeName="visibility" to="visible" begin="58" />
+		</g>
+	</g>
+	</defs>
+	
+	<!-- Kugeln -->
+	<defs>   
+		<circle id="Kugel1" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="26s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel2" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="26s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel3" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="26s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel4" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="27s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel5" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="27s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel6" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="27s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel7" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="27s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugel8" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="27" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugeljo1" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="35.5s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugeljo2" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="35.5s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugeljo3" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="35.5s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugeljü1" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="36.5s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugeljü2" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="36.5s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<circle id="Kugeljü3" cx="0" cy="0" r="0.01" style="stroke:none; fill:black" >
+			<animate attributeName="r" from="0.01" to="2" begin="36.5s" dur="0.01s" repeatCount="1" fill="freeze" />
+		</circle>
+		<g id="Bazoka" visibility="hidden">
+			<circle cx="-1" cy="1.5" r="1.5" style="stroke:none; fill:yellow" />
+			<rect x="0" y="0" width="7" height="3" style="stroke:none; fill:black" />
+			<set attributeName="visibility" to="visible" begin="42s" />
+		</g>
+	</defs>
+  
+	<!--Sprechblasen-->
+	<defs>
+		<g id="Blase1" visibility="hidden">
+			<ellipse cx="100" cy="100" rx="70" ry="50" style="stroke:black; fill:white"/>
+			<polyline points="70,144.5 60,160 90,149" style="stroke:black; fill:white"/>
+			<set attributeName="visibility" to="visible" begin="13s"/>
+			<set attributeName="visibility" to="hidden" begin="17s"/>
+		</g>
+		<g id="Blasenein" visibility="hidden">
+			<ellipse cx="100" cy="100" rx="70" ry="50" style="stroke:black; fill:white"/>
+			<polyline points="70,144.5 60,160 90,149" style="stroke:black; fill:white"/>
+			<set attributeName="visibility" to="visible" begin="44s"/>
+			<set attributeName="visibility" to="hidden" begin="47.5s"/>
+		</g>
+		<g id="Blasefastgeschafft" visibility="hidden">
+			<ellipse cx="100" cy="100" rx="70" ry="50" style="stroke:black; fill:white"/>
+			<polyline points="70,144.5 60,160 90,149" style="stroke:black; fill:white"/>
+			<set attributeName="visibility" to="visible" begin="50s"/>
+			<set attributeName="visibility" to="hidden" begin="52s"/>
+		</g>
+		<g id="Blasekatze" visibility="hidden">
+			<ellipse cx="100" cy="100" rx="70" ry="50" style="stroke:black; fill:white"/>
+			<polyline points="70,144.5 60,160 90,149" style="stroke:black; fill:white"/>
+			<set attributeName="visibility" to="visible" begin="52.5s"/>
+			<set attributeName="visibility" to="hidden" begin="55s"/>
+		</g>
+		<g id="Blase2" visibility="hidden">
+			<rect x="200" y="100" width="140" height="100" rx="20" ry="20" style="stroke:black; fill:white"/>
+			<polyline points="320,199.3 330,220 310,199.3" style="stroke:black; fill:white"/>
+			<set attributeName="visibility" to="visible" begin="17.5s"/>
+			<set attributeName="visibility" to="hidden" begin="22s"/>
+		</g>
+		<g id="Blasekeuch" visibility="hidden">
+			<rect x="0" y="0" width="140" height="100" rx="20" ry="20" style="stroke:black; fill:white"/>
+			<polyline points="120,99.3 130,120 110,99.3" style="stroke:black; fill:white"/>
+			<set attributeName="visibility" to="visible" begin="34s"/>
+			<set attributeName="visibility" to="hidden" begin="36s"/>
+		</g>
+	</defs>
+  
+    <!--Blut-->
+	<defs>
+	<g id="Blut1" visibility="hidden" >
+		<path id="B1" d="M 0 0 L -10 5 -5 0 -23 -3 -2 -5 -10 -10 2 -8 -20 -15 2 -12 -2 2 20 0 10 -4 2 -12" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+		<set attributeName="visibility" to="visible" begin="47.7" />
+	</g>	
+	<g id="Blut2">
+		<circle cx="-13" cy="-22" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-3" cy="-19" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-10" cy="-18" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-19" cy="-20" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-17" cy="-10" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-16" cy="-5" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-2" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-11" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-8" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-1" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-4" cy="-13" r="1" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="-10" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-8" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-6" cy="-9" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-5" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-2" r="3" style="stroke:none; fill:red"/>
+		<circle cx="-2" cy="-6" r="3" style="stroke:none; fill:red"/>
+		<circle cx="3" cy="-5" r="3" style="stroke:none; fill:red"/>
+		<circle cx="4" cy="2" r="4" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+	</g>
+	<g id="Blutjü" visibility="hidden">
+		<circle cx="-13" cy="-22" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-3" cy="-19" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-10" cy="-18" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-19" cy="-20" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-17" cy="-10" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-16" cy="-5" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-2" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-11" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-8" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-1" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-4" cy="-13" r="1" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="-10" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-8" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-6" cy="-9" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-5" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-2" r="3" style="stroke:none; fill:red"/>
+		<circle cx="-2" cy="-6" r="3" style="stroke:none; fill:red"/>
+		<circle cx="3" cy="-5" r="3" style="stroke:none; fill:red"/>
+		<circle cx="4" cy="2" r="4" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+		<set attributeName="visibility" to="visible" begin="27.8s" />
+	</g>
+	<g id="Blutjo1" visibility="hidden">
+		<circle cx="-13" cy="-22" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-3" cy="-19" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-10" cy="-18" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-19" cy="-20" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-17" cy="-10" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-16" cy="-5" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-2" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-11" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-8" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-1" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-4" cy="-13" r="1" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="-10" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-8" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-6" cy="-9" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-5" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-2" r="3" style="stroke:none; fill:red"/>
+		<circle cx="-2" cy="-6" r="3" style="stroke:none; fill:red"/>
+		<circle cx="3" cy="-5" r="3" style="stroke:none; fill:red"/>
+		<circle cx="4" cy="2" r="4" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+		<set attributeName="visibility" to="visible" begin="35.7s" />
+	</g>
+	<g id="Blutjo" visibility="hidden">
+		<circle cx="-13" cy="-22" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-3" cy="-19" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-10" cy="-18" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-19" cy="-20" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-17" cy="-10" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-16" cy="-5" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-2" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-11" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-8" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-1" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-4" cy="-13" r="1" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="-10" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-8" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-6" cy="-9" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-5" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-2" r="3" style="stroke:none; fill:red"/>
+		<circle cx="-2" cy="-6" r="3" style="stroke:none; fill:red"/>
+		<circle cx="3" cy="-5" r="3" style="stroke:none; fill:red"/>
+		<circle cx="4" cy="2" r="4" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+		<set attributeName="visibility" to="visible" begin="37s" />
+	</g>
+	<g id="Blutjü1" visibility="hidden">
+		<circle cx="-13" cy="-22" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-3" cy="-19" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-10" cy="-18" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-19" cy="-20" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-17" cy="-10" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-16" cy="-5" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-2" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-11" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-8" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-1" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-4" cy="-13" r="1" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="-10" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-8" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-6" cy="-9" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-5" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-2" r="3" style="stroke:none; fill:red"/>
+		<circle cx="-2" cy="-6" r="3" style="stroke:none; fill:red"/>
+		<circle cx="3" cy="-5" r="3" style="stroke:none; fill:red"/>
+		<circle cx="4" cy="2" r="4" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+		<set attributeName="visibility" to="visible" begin="47.7s" />
+	</g>
+	<g id="Blutkarl" visibility="hidden">
+		<circle cx="-13" cy="-22" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-3" cy="-19" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-10" cy="-18" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-19" cy="-20" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-17" cy="-10" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-16" cy="-5" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-2" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-11" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-12" cy="-8" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-1" cy="-12" r="1" style="stroke:none; fill:red"/>
+		<circle cx="-4" cy="-13" r="1" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="-10" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-8" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-6" cy="-9" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-11" cy="-5" r="2" style="stroke:none; fill:red"/>
+		<circle cx="-8" cy="-2" r="3" style="stroke:none; fill:red"/>
+		<circle cx="-2" cy="-6" r="3" style="stroke:none; fill:red"/>
+		<circle cx="3" cy="-5" r="3" style="stroke:none; fill:red"/>
+		<circle cx="4" cy="2" r="4" style="stroke:none; fill:red"/>
+		<circle cx="0" cy="0" r="5" style="stroke:none; fill:red"/>
+		<set attributeName="visibility" to="visible" begin="58s" />
+	</g>
+	</defs>
+	
+	<!--BOMBE!!!!!-->
+	<defs>
+		<g id="Bombe" >
+			<rect  x="600" y="230" width="5" height="10" />
+			<circle  cx="602" cy="233" r="4" fill="red" stroke="none" >
+				<animate  attributeName="fill" dur="0.8s" values="red;none" repeatCount="indefinite" />
+			</circle>
+		</g>
+	</defs>
+	
+	<!--Explosionen-->
+	<defs>
+		<g id="Explosion" visibility="hidden">
+			<polyline points=" 159, 163 145, 160 161, 157 147, 148 162, 153 155, 141 164, 149
+			162, 139 167, 150 170, 137 171.8, 152 179, 139 176, 151 188, 144 175, 156
+			190, 159 175, 161 187, 172 172, 163 178, 175 168, 164 169, 178 164, 166
+			161, 177 160.5, 165 156, 175 157.5, 166 145, 170 159, 163"
+			style="stroke:black; fill: yellow"/>
+			<set attributeName="visibility" to="visible" begin="47.6" />
+			<animate attributeName="opacity" from="1" to="0" begin="47.7" dur="0.8" fill="freeze" />
+		</g>
+		<g id="Explosion1" visibility="hidden">
+			<polyline points=" 159, 163 145, 160 161, 157 147, 148 162, 153 155, 141 164, 149
+			162, 139 167, 150 170, 137 171.8, 152 179, 139 176, 151 188, 144 175, 156
+			190, 159 175, 161 187, 172 172, 163 178, 175 168, 164 169, 178 164, 166
+			161, 177 160.5, 165 156, 175 157.5, 166 145, 170 159, 163"
+			style="stroke:black; fill: yellow"/>
+			<set attributeName="visibility" to="visible" begin="58" />
+			<animate attributeName="opacity" from="1" to="0" begin="58.1" dur="0.8" fill="freeze" />
+		</g>
+		<g id="Explosion2" visibility="hidden">
+			<polyline points=" 159, 163 145, 160 161, 157 147, 148 162, 153 155, 141 164, 149
+			162, 139 167, 150 170, 137 171.8, 152 179, 139 176, 151 188, 144 175, 156
+			190, 159 175, 161 187, 172 172, 163 178, 175 168, 164 169, 178 164, 166
+			161, 177 160.5, 165 156, 175 157.5, 166 145, 170 159, 163"
+			style="stroke:black; fill: yellow"/>
+			<set attributeName="visibility" to="visible" begin="58" />
+			<animate attributeName="opacity" from="1" to="0" begin="58.1" dur="0.8" fill="freeze" />
+		</g>
+	</defs>
+	
+	<!--Bombenexplosion-->
+	<defs>
+	<g id="Bomb">
+		<circle  cx="602" cy="235" r="4" fill="red" stroke="none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62s" />
+			<animate attributeName="r" from="4" to="700" begin="62s" dur="0.25" repeatcount="1" fill="freeze" />
+		</circle>
+	
+		<circle  cx="602" cy="235" r="4" fill="orange" stroke="none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.15s" />
+			<animate attributeName="r" from="4" to="700" begin="62.15s" dur="0.25" repeatcount="1" fill="freeze" />
+		</circle>
+	
+		<circle  cx="602" cy="235" r="4" fill="yellow" stroke="none" visibility="hidden" >
+			<set attributeName="visibility" to="visible" begin="62.3s" />
+			<animate attributeName="r" from="4" to="700" begin="62.3s" dur="0.25" repeatcount="1" fill="freeze" />
+		</circle>
+	
+		<circle  cx="602" cy="235" r="4" fill="white" stroke="none" visibility="hidden" >
+			<set attributeName="visibility" to="visible" begin="62.45s" />
+			<animate attributeName="r" from="4" to="700" begin="62.45s" dur="0.25" repeatcount="1" fill="freeze" />
+		</circle>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:back; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.6s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:blue; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.65s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.7s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:white; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.75s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:purple; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.8s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:yellow; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.85s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:black; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.9s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:green; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="62.95s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:white; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:blue; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.05s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.1s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:black; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.15s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:yellow; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.2s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.25s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:white; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.3s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:black; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.35s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.4s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:yellow; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.45s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:white; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.5s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:blue; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.55s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.6s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:black; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.65s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:yellow; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.7s" />
+		</rect>
+		
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.75s" />
+		</rect>
+		
+		<rect x="0" y="0" width="980" height="550" style="fill:white; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.8s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:black; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.85s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:red; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.9s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:yellow; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="63.95s" />
+		</rect>
+	
+		<rect x="0" y="0" width="980" height="550" style="fill:white; stroke:none" visibility="hidden">
+			<set attributeName="visibility" to="visible" begin="64s" />
+		</rect>
+	</g>
+	</defs>
+	
+	<!--Regenbogen-->
+	<defs>
+	<g id="Regenbogen" opacity="0">
+		<path d="M 15 550 A 400 445 0 0 1 965 550" fill="red" stroke="none"/>
+		<path d="M 25 550 A 400 443 0 0 1 955 550" fill="orange" stroke="none"/>
+		<path d="M 40 550 A 400 440 0 0 1 940 550" fill="yellow" stroke="none"/>
+		<path d="M 50 550 A 400 438 0 0 1 930 550" fill="lightgreen" stroke="none"/>
+		<path d="M 60 550 A 400 436 0 0 1 920 550" fill="green" stroke="none"/>
+		<path d="M 70 550 A 400 434 0 0 1 910 550" fill="lightblue" stroke="none"/>
+		<path d="M 80 550 A 400 432 0 0 1 900 550" fill="blue" stroke="none"/>
+		<path d="M 90 550 A 400 430 0 0 1 890 550" fill="purple" stroke="none"/>
+		<path d="M 100 550 A 390.1 428 0 0 1 880 550" fill="white" stroke="none"/>
+		<animate attributeName="opacity" from="0" to="1" begin="65s" dur="7s" repeatCount="1" fill="freeze" />
+	</g>
+	</defs>
+	
+	<!--Katzen-->
+	<defs>
+	<g id="Katze" visibility="hidden">
+	<!-- Katzenkopf: -->
+		<circle cx="70" cy="95" r="50" style="stroke: brown; fill: lightgrey;" />
+		<!-- Vampirzahn links: -->
+		<g id="Zahn">
+			<polyline points ="55 120, 60 140, 65 120" style="stroke: black; fill:none; "/>
+		</g>
+		<!-- Vampirzahn, rechts: -->
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#Zahn" transform="scale(-1 1) translate(-140 0)" />
+		<!-- Katzenschnurbarthaare, rechts: -->
+		<g id="schnurbart">
+			<line x1="75" y1="95" x2="135" y2="85" style="stroke: black;" />
+			<line x1="75" y1="95" x2="135" y2="105" style="stroke: black;" />
+		</g>
+		<!-- Katzenschnurbarthaare, links (Wiederverwendung): -->
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#schnurbart" transform="scale(-1 1) translate(-140 0)" />
+		<!-- Katzenohren: -->
+		<polyline points="113 69, 86 -15, 33 59" style="stroke: black; fill: yellow;" />
+		<polyline points=" 110 61, 39.5 51, 44 44, 107.5 53" style="stroke: none; fill: purple" />
+		<polyline points=" 105 46, 49.5 37, 54.3 30, 102.5 38" style="stroke: none; fill: blue" />
+		<polyline points=" 100 31, 59.5 23, 64.3 16, 97.5 22.5" style="stroke: none; fill: red" />
+		<polyline points=" 95.5 16, 69 10, 73.8 3, 93 7.5" style="stroke: none; fill: orange" />
+		<!-- Katzenschnautze: -->
+		<polyline points="35, 110, 45, 120, 95, 120, 105, 110" style="stroke: black; fill: none;" />
+		<!-- Rote Katzennase: -->
+		<path d="M 75 90 L 65 90 A 5 10 0 0 0 75 90" style="stroke: black; fill: red" />
+		<!-- Blutstropfen: -->
+		<g id="Blut">
+			<path d="M 64 140 L 60 130 L 56 140 A 2 3 0 0 0 64 140" style="stroke: none; fill: red" >
+				<animate attributeName="d" begin="67s" dur="1.5s" from="M 64 140 L 60 130 L 56 140 A 2 3 0 0 0 64 140" to="M 64 180 L 60 170 L 56 180 A 2 3 0 0 0 64 180" repeatCount="indefinite" />
+			</path>
+		</g>
+		<use xlink:href="#Blut" />
+		<use x="20" y="0" xlink:href="#Blut" />
+		<!-- Rote Katzenaugen: -->
+		<circle cx="55" cy="80" r="5" stroke="yellow" stroke-width="2" fill="green">
+			<set attributeName="stroke" to="none" begin="73s" />
+			<animate attributeName="fill" from="green" to="red" begin="73s" dur="1s" fill="freeze" />
+			<animate attributeName="stroke" from="none" to="red" begin="74.2s" dur="0.5s" repeatCount="4" />
+			<animate attributeName="stroke-width" from="2" to="4" begin="75s" dur="0.5s" repeatCount="4" />
+			<animate attributeName="r" from="5" to="500" begin="76.5s" dur="2s" repeatCount="1" fill="freeze" />
+			<animate attributeName="fill" from="red" to="black" begin="77.5s" dur="1s" fill="freeze" />
+		</circle>
+		<circle cx="85" cy="80" r="5" stroke="yellow" stroke-width="2" fill="green">
+			<set attributeName="stroke" to="none" begin="73s" />
+			<animate attributeName="fill" from="green" to="red" begin="73s" dur="1s" fill="freeze" />
+			<animate attributeName="stroke" from="none" to="red" begin="74.2s" dur="0.5s" repeatCount="4" />
+			<animate attributeName="stroke-width" from="2" to="4" begin="75s" dur="0.5s" repeatCount="4" />
+			<animate attributeName="r" from="5" to="500" begin="76.5s" dur="2s" repeatCount="1" fill="freeze" />
+			<animate attributeName="fill" from="red" to="black" begin="77.5s" dur="1s" fill="freeze" />
+		</circle>
+		<set attributeName="visibility" to="visible" begin="67s" /> 
+	</g>
+	</defs>
+	
+	<defs>
+	<g id="Katze2" visibility="hidden">
+	<!-- Katzenohren: -->
+	<polyline points="108 62, 90 10, 70 45, 50 10, 32 62" style="stroke: black; fill:white;" />
+	<!-- Katzenkopf: -->
+		<circle cx="70" cy="95" r="50" style="stroke: brown; fill: white;" />
+		<!-- Vampirzahn links: -->
+		<g id="Zahn1">
+			<polyline points ="55 120, 60 140, 65 120" style="stroke: black; fill:none; "/>
+		</g>
+		<!-- Vampirzahn, rechts: -->
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#Zahn1" transform="scale(-1 1) translate(-140 0)" />
+		<!-- Katzenschnurbarthaare, rechts: -->
+		<g id="schnurbart1">
+			<line x1="75" y1="95" x2="135" y2="85" style="stroke: black;" />
+			<line x1="75" y1="95" x2="135" y2="105" style="stroke: black;" />
+		</g>
+		<!-- Katzenschnurbarthaare, links (Wiederverwendung): -->
+		<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#schnurbart1" transform="scale(-1 1) translate(-140 0)" />
+		<!-- Katzenschnautze: -->
+		<polyline points="35, 110, 45, 120, 95, 120, 105, 110" style="stroke: black; fill: none;" />
+		<!-- Rote Katzennase: -->
+		<path d="M 75 90 L 65 90 A 5 10 0 0 0 75 90" style="stroke: black; fill: red" />
+		<!-- Rote Katzenaugen: -->
+		<circle cx="55" cy="80" r="5" stroke="yellow" stroke-width="2" fill="green">
+			<set attributeName="stroke" to="none" begin="55s" />
+			<animate attributeName="fill" from="green" to="red" begin="55s" dur="1s" fill="freeze" />
+			<animate attributeName="stroke" from="none" to="red" begin="56.2s" dur="0.5s" repeatCount="indefinite" />
+			<animate attributeName="stroke-width" from="2" to="4" begin="57s" dur="0.5s" repeatCount="indefinite" />
+		</circle>
+		<circle cx="85" cy="80" r="5" stroke="yellow" stroke-width="2" fill="green">
+			<set attributeName="stroke" to="none" begin="55s" />
+			<animate attributeName="fill" from="green" to="red" begin="55s" dur="1s" fill="freeze" />
+			<animate attributeName="stroke" from="none" to="red" begin="56.2s" dur="0.5s" repeatCount="indefinite" />
+			<animate attributeName="stroke-width" from="2" to="4" begin="57s" dur="0.5s" repeatCount="indefinite" />
+		</circle>
+		<set attributeName="visibility" to="visible" begin="52s" /> 
+	</g>
+	</defs>
+	
+	<!--Animation-->
+	<use xlink:href="#FSK18" />
+	<use xlink:href="#ESRB" />
+	<use xlink:href="#Karte" />
+	<use xlink:href="#Blase1" x="80" y="-38"/>
+	<text x="180" y="75" text-anchor="middle" style="font-family: arial; font-size: 28pt; stroke: black; fill: black; opacity: 0">
+		OMG!!! 
+		<animate attributeName="opacity" from="0" to="1" begin="13s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="14s" dur="0.1" fill="freeze"/> 
+	</text>
+	<text x="180" y="70" text-anchor="middle" style="font-family: arial; font-size: 16pt; stroke: black; fill: black; opacity: 0">
+		Eine BOMBE!
+		<animate attributeName="opacity" from="0" to="1" begin="14s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="16s" dur="0.1" fill="freeze"/> 
+	</text>
+	<text x="180" y="71" text-anchor="middle" style="font-family: arial; font-size: 18pt; stroke: black; fill: black; opacity: 0">
+		Entschärfen! 
+		<animate attributeName="opacity" from="0" to="1" begin="16s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="17s" dur="0.1" fill="freeze"/> 
+	</text>
+	<use xlink:href="#Blase2" x="600" y="290"/>
+	<text x="870" y="450" text-anchor="middle" style="font-family: arial; font-size: 22pt; stroke: black; fill: black; opacity: 0">
+		FEINDE! 
+		<animate attributeName="opacity" from="0" to="1" begin="17.5s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="19s" dur="0.1" fill="freeze"/> 
+	</text>
+	<text x="870" y="450" text-anchor="middle" style="font-family: arial; font-size: 22pt; stroke: black; fill: black; opacity: 0">
+		Töten? 
+		<animate attributeName="opacity" from="0" to="1" begin="19s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="20.5s" dur="0.1" fill="freeze"/> 
+	</text>
+	<text x="870" y="450" text-anchor="middle" style="font-family: arial; font-size: 26pt; stroke: black; fill: black; opacity: 0">
+		TÖTEN!
+		<animate attributeName="opacity" from="0" to="1" begin="20.5s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="22s" dur="0.1" fill="freeze"/> 
+	</text>
+	
+	<use x="420" y="360" transform="rotate(90 910 490)" xlink:href="#John" >
+		<animateMotion path="M 0 0 L -900 -10" begin="22s" dur="6s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="90 940 490" to="180 940 490" begin="28s" dur="0.001" fill="freeze"/>
+		<animateMotion path="M-900 -10 L -900 -190" begin="28.01s" dur="2s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="180 970 490" to="270 970 490" begin="30s" dur="0.001" fill="freeze"/>
+		<animateMotion path="M -900 -190 L -450 -190" begin="30.01" dur="4.5" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="270 940 490" to="180 940 490" begin="34.5s" dur="0.001" fill="freeze"/>
+		<animateMotion path="M -450 -190 L -390 -190" begin="34.5" dur="1" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugeljo1" x="550" y="330" >
+		<animateMotion path="M 0 0 L 0 -98" begin="35.5s" dur="0.4s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugeljo2" x="550" y="330" >
+		<animateMotion path="M 0 0 L 0 -98" begin="35.7s" dur="0.4s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugeljo3" x="550" y="330" >
+		<animateMotion path="M 0 0 L -0 -98" begin="35.9s" dur="0.4s" fill="freeze" />
+	</use>
+	<use xlink:href="#Blutjo" x="545" y="340" transform="rotate(240 545 340)" />
+	<use xlink:href="#John tot" transform="scale(2 2)" x="113" y="23"/>
+	
+	
+	<use xlink:href="#Jürgen" x="950" y="490" transform="rotate(180 950 490)">
+		<animateMotion path="M 0 0 L 0 -160" begin="22s" dur="2s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="180 950 490" to="90 950 490" begin="23.7s" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M 0 -160 L -300 -160" begin="24s" dur="2s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="90 950 490" to="140 950 490" begin="25.7s" dur="0.5s" fill="freeze"/>
+	</use>
+	<use xlink:href="#Kugel1" x="650" y="330" >
+		<animateMotion path="M 0 0 L -200 -280" begin="26.2s" dur="1s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugel2" x="650" y="330" >
+		<animateMotion path="M 0 0 L -200 -260" begin="26.2s" dur="1s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugel3" x="650" y="330" >
+		<animateMotion path="M 0 0 L -400 -600" begin="26.2s" dur="2s" fill="freeze" />
+	</use>
+	<use xlink:href="#Blutjü" x="650" y="330" transform="rotate(210 650 330)" />
+	<use xlink:href="#Jürgen tot" x="170" y="-45" transform="scale(2 2)" />
+	
+	
+	<use xlink:href="#Karl" x="965" y="510" transform="rotate(180 965 510)" >
+		<animateMotion path="M 0 0 L -920 0" begin="22s" dur="12s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="180 965 510" to="270 965 510" begin="33s" dur="1s" fill="freeze"/>
+		<animateMotion path="M -920 0 L -920 -182" begin="36s" dur="5s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="270 965 510" to="360 965 510" begin="40s" dur="1s" fill="freeze"/>
+		<animateMotion path="M -920 -182 L -923 -182 -920 -182" begin="42s" dur="0.2s" fill="freeze" />
+		<animateMotion path="M -920 -182 L -600 -182" begin="48s" dur="4s" fill="freeze" />
+	</use>
+	<use xlink:href="#Blasekeuch" x="-185" y="380" transform="scale(-1 1)"/>
+	<text x="115" y="440" text-anchor="middle" style="font-family: arial; font-size: 22pt; stroke: black; fill: black; opacity: 0">
+		Keuch! 
+		<animate attributeName="opacity" from="0" to="1" begin="34s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="36s" dur="0.1" fill="freeze"/> 
+	</text>
+	<use xlink:href="#Bazoka" x="50" y="331" >
+		<animateMotion path="M 0 0 L 470 0" begin="42.1s" dur="5.5s" fill="freeze" />
+	</use>	
+	<use xlink:href="#Explosion1" x="196" y="171" />
+	<use xlink:href="#Blutkarl" x="365" y="328" />
+	<use xlink:href="#Blutkarl" x="365" y="328" transform="rotate(170 365 328)" />
+	<use xlink:href="#Karl tot" transform="scale(2 2)" x="30" y="-15" />
+	
+	
+	<use xlink:href="#John1" x="70" y="145" transform="rotate(-90 70 145)" >
+		<animateMotion path="M 0 0 L 300 -15 580 -20 " begin="22s" dur="5s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="-90 70 145" to="0 70 145" begin="25s" dur="2s" fill="freeze"/>
+		<animateMotion path="M 580 -20 L 460 0  480 90" begin="29s" dur="6.5s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="0 70 145" to="-90 70 145" begin="32s" dur="2.5s" fill="freeze"/>
+	</use>
+	<use xlink:href="#Kugel4" x="650" y="130" >
+		<animateMotion path="M 0 0 L 0 200" begin="27.1s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugel5" x="650" y="130" >
+		<animateMotion path="M 0 0 L 0 200" begin="27.2s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugel6" x="650" y="130" >
+		<animateMotion path="M 0 0 L 0 200" begin="27.3s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugel7" x="650" y="130" >
+		<animateMotion path="M 0 0 L 0 200" begin="27.4s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugel8" x="650" y="130" >
+		<animateMotion path="M 0 0 L 0 200" begin="27.5s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Blutjo1" x="553" y="238" />
+	<use xlink:href="#John1 tot" transform="scale(2 2)" x="123" y="-130"/>
+	
+	
+	<use xlink:href="#Jürgen1" x="45" y="125" transform="rotate(-90 45 125)" >
+		<animateMotion path="M 0 0 L 300 10 480 20 490 100 530 120 565 125" begin="22s" dur="7.5s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="-90 45 125" to="-30 45 125" begin="27s" dur="1s" fill="freeze"/>
+		<animateTransform  attributeName="transform" type="rotate" from="-30 45 125" to="-90 45 125" begin="28s" dur="1s" fill="freeze"/>
+		<animateTransform  attributeName="transform" type="rotate" from="-90 45 125" to="-200 45 125" begin="29s" dur="1s" fill="freeze"/>
+		<animateTransform  attributeName="transform" type="rotate" from="-200 45 125" to="-327 45 125" begin="36s" dur="0.5s" fill="freeze"/>
+		<animateMotion path="M 565 125 L 505 175" begin="37.5" dur="3s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="-327 45 125" to="-360 45 125" begin="38s" dur="2.5s" fill="freeze"/>
+		<animateMotion path="M 505 175 L 495 195 475 208" begin="40.5" dur="1.5s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="-360 45 125" to="-270 45 125" begin="40.5s" dur="2.5s" fill="freeze"/>
+	</use>
+	<use xlink:href="#Kugeljü1" x="610" y="250" >
+		<animateMotion path="M 0 0 L -60 80" begin="36.5s" dur="0.4s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugeljü2" x="610" y="250" >
+		<animateMotion path="M 0 0 L -55 110" begin="36.5s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Kugeljü3" x="610" y="250" >
+		<animateMotion path="M 0 0 L -110 110" begin="36.5s" dur="0.5s" fill="freeze" />
+	</use>
+	<use xlink:href="#Blasenein" x="-560" y="160" transform="scale(-1 1)" />
+	<text x="460" y="270" text-anchor="middle" style="font-family: arial; font-size: 22pt; stroke: black; fill: black; opacity: 0">
+		NEIIIIN! 
+		<animate attributeName="opacity" from="0" to="1" begin="44s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="47.4s" dur="0.1" fill="freeze"/> 
+	</text>
+	<use xlink:href="#Blut1" x="520" y="333" transform="rotate(180, 520, 333)" />
+	<use xlink:href="#Blut1" x="520" y="333" transform="rotate(140, 520, 333)" />
+	<use xlink:href="#Blutjü1" x="520" y="333" transform="rotate(180, 520 333)" />
+	<use xlink:href="#Blutjü1" x="520" y="333" transform="rotate(250, 520 333)" />
+	<use xlink:href="#Blutjü1" x="520" y="333" transform="rotate(115, 520 333)" />
+	<use xlink:href="#Jürgen1 tot" transform="scale(2 2)" x="110" y="-113" />
+	<use xlink:href="#Blutjü1" x="520" y="333" />
+	<use xlink:href="#Explosion" x="350" y="170" />
+	
+	
+	<use xlink:href="#Karl1" x="20" y="135" >
+		<animateMotion path="M 0 0 L 510 0 " begin="23s" dur="12s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="0 20 135" to="90 20 135" begin="34.5s" dur="2s" fill="freeze"/>
+		<animateMotion path="M 510 0 L 510 40 620 70" begin="38s" dur="4s" fill="freeze" />
+		<animateTransform  attributeName="transform" type="rotate" from="90 20 135" to="10 20 135" begin="38.5s" dur="1.5s" fill="freeze"/>
+		<animateTransform  attributeName="transform" type="rotate" from="10 20 135" to="130 20 135" begin="40s" dur="2s" fill="freeze"/>
+		<animateMotion path="M 620 70 L 595 95" begin="42s" dur="2s" fill="freeze" />
+	</use>
+	<use xlink:href="#Blasefastgeschafft" x="575" y="55" />
+	<text x="680" y="140" text-anchor="middle" style="font-family: arial; font-size: 22pt; stroke: black; fill: black; opacity: 0">
+		Fast
+		<tspan x="675" y="170">geschafft!</tspan>
+		<animate attributeName="opacity" from="0" to="1" begin="50s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="51.9s" dur="0.1" fill="freeze"/> 
+	</text>
+	<use xlink:href="#Explosion2" x="448" y="73" />
+	<use xlink:href="#Blutkarl" x="615" y="230" transform="rotate(90 615 230)" />
+	<use xlink:href="#Blutkarl" x="615" y="230" transform="rotate(130 615 230)" />
+	<use xlink:href="#Karl1 tot" transform="scale(2 2)" x="155" y="-214" />
+	
+	
+	<use xlink:href="#Katze2" />
+	<use xlink:href="#Blasekatze" x="100" y="-50" />
+	<text x="200" y="60" text-anchor="middle" style="font-family: arial; font-size: 19pt; stroke: black; fill: black; opacity: 0">
+		Endlich frei!
+		<animate attributeName="opacity" from="0" to="1" begin="53s" dur="0.1" fill="freeze"/>
+		<animate attributeName="opacity" from="1" to="0" begin="54.9s" dur="0.1" fill="freeze"/> 
+	</text>
+	
+	<g id="laser1" visibility="hidden">
+		<line x1="55" y1="80" x2="363" y2="328" style="fill:red; stroke:red; stroke-width: 8" >
+			<animate attributeName="opacity" from="1" to="0" begin="57.2" dur="0.3" repeatCount="indefinite" />
+		</line>
+		<line x1="55" y1="80" x2="363" y2="328" style="fill:red; stroke:red; stroke-width: 6" />
+	
+		<line x1="85" y1="80" x2="615" y2="230" style="fill:red; stroke:red; stroke-width: 8" >
+			<animate attributeName="opacity" from="1" to="0" begin="57.2" dur="0.3" repeatCount="indefinite" />
+		</line>
+		<line x1="85" y1="80" x2="615" y2="230" style="fill:red; stroke:red; stroke-width: 6" />
+		<set attributeName="visibility" to="visible" begin="57" />
+		<set attributeName="visibility" to="hidden" begin="59" />
+	</g>
+	
+	<g id="laser2" visibility="hidden">
+		<line x1="55" y1="80" x2="602" y2="233" style="fill:red; stroke:red; stroke-width: 8" >
+			<animate attributeName="opacity" from="1" to="0" begin="59.7" dur="0.3" repeatCount="indefinite" />
+		</line>
+		<line x1="55" y1="80" x2="602" y2="233" style="fill:red; stroke:red; stroke-width: 6" />
+	
+		<line x1="85" y1="80" x2="602" y2="233" style="fill:red; stroke:red; stroke-width: 8" >
+			<animate attributeName="opacity" from="1" to="0" begin="59.7" dur="0.3" repeatCount="indefinite" />
+		</line>
+		<line x1="85" y1="80" x2="602" y2="233" style="fill:red; stroke:red; stroke-width: 6" />
+		<set attributeName="visibility" to="visible" begin="61" />
+		<set attributeName="visibility" to="hidden" begin="63" />
+	</g>
+		
+	<use xlink:href="#Bomb" />
+	<use xlink:href="#Regenbogen" />
+	<use xlink:href="#Katze" x="220" y="150" transform="scale(1.7,1.7)"/>
+  </svg>

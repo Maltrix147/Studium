@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300">
+<title>Animation entlang eines Bewegungspfades</title>
+<!-- *** Uf de schwaebsche Eisebahne ... Zunaechst definieren wir
+eine Eisenbahnschiene. Diese ragt auf jeder Seite 5
+Einheiten ueber den SVG-Sichtbereich hinaus: *** -->
+<path id="Schiene" d="M-5,200C0,50 200,150 200,-5"
+style="fill:none; stroke:grey; stroke-width:3;
+stroke-dasharray:0.2 5 .02 5" />
+<g id="bsp_animateMotion">
+<!-- *** Es folgt die Lok in Form eines schwarzen Rechtecks.
+Damit der typische Eisenbahneffekt zu Stande kommt, legen
+wir das Rechteck mittig auf den Ursprung und weisen der
+Animation das Attribut rotate="auto" zu: *** -->
+<rect x="-10" y="-2.5" width="20" height="5">
+<animateMotion path="M-5,200C0,50 200,150 200,-5" dur="10s"
+rotate="auto" />
+<!-- *** Damit das Rechteck nach der Animation nicht wieder in der
+linken oberen Ecke erscheint, bauen wir noch eine Animation
+ein, die es nach 10 Sekunden versteckt. *** -->
+<set attributeName="visibility" to="hidden" begin="10s" />
+</rect>
+<!-- *** Es folgt ein brauner Wagon. Dieser entspricht in Groesse
+und Lage der Lok, wird nur 0.7 Sekunden spaeter
+eingeblendet und "abgeschickt", so dass der Eindruck
+entsteht, er waere hinten angehaengt. *** -->
+<rect x="-10" y="-2.5" width="20" height="5"
+style="visibility:hidden;fill:brown;">
+<set attributeName="visibility" to="visible" begin="0.7s" />
+<set attributeName="visibility" to="hidden" begin="10.7s" />
+<animateMotion begin="0.7s" path="M-5,200C0,50 200,150 200,-5"
+dur="10s" rotate="auto" />
+</rect>
+</g>
+</svg>

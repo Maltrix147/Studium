@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" >
+  <title>Event</title>
+  <script type="text/ecmascript">
+    <![CDATA[
+      var svgNS = "http://www.w3.org/2000/svg";
+      var svgdoc;
+      var y=50;
+      var elem;
+      function new_elem(evt) {
+         svgdoc = evt.target.ownerDocument;
+         new_el = svgdoc.createElementNS(svgNS, "rect");
+         new_el.setAttribute("x", "10");
+         new_el.setAttribute("y", y);
+         y = y+20;
+         new_el.setAttribute("width", "50");
+         new_el.setAttribute("height", "10");
+         new_el.setAttribute("fill", "blue");
+         svgdoc.firstChild.appendChild(new_el);
+      }
+
+    ]]>
+  </script>
+  
+  <circle cx="35" cy="20" r="10" fill="red" 
+          onmousedown="new_elem(evt)" />
+</svg>

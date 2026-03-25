@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="340">
+<title>Smiley kommt</title>
+<style type="text/css">
+<![CDATA[
+.gesicht {fill:white; fill-opacity:.5;}
+.mund {fill:none; stroke:#000099; stroke-width:5; stroke-linecap:round;}
+.auge {fill:#000099; stroke:none;}
+]]>
+</style>
+<rect id="IDbg" x="0" y="0" width="340" height="340"
+style="fill:blue; opacity:.2;" />
+<defs>
+<!-- *** Hier wird Smiley definiert: *** -->
+<g id="IDsmiley">
+<circle id="IDgesicht" class="gesicht" cx="85" cy="85" r="85" />
+<g id="IDaugen" class="auge">
+<ellipse id="IDlinks" transform="rotate(19,85,65)" rx="6" ry="9"
+cx="85" cy="65" />
+<ellipse id="IDrechts" transform="rotate(19,102,70)" rx="6" ry="9"
+cx="102" cy="70" />
+</g>
+<path id="IDmund" class="mund" d="M44,77Q50,182 137,94" />
+</g>
+</defs>
+<!-- *** Damit wir die Koordinaten X und Y animieren koennen, rufen
+wir Smiley mit <use> auf (<g> enthaelt die Attribute x und
+y nicht!): *** -->
+<use xmlns:xlink="http://www.w3.org/1999/xlink" x="-170" y="-170" xlink:href="#IDsmiley">
+<!-- *** Die Attribute x und y werden animiert: *** -->
+<animate id="animKoord" attributeName="x" dur="5s" from="-170"
+to="85" fill="freeze" />
+<!-- *** Um y in zeitlicher Abhaengigkeit von x zu animieren, nehmen
+wir fuer den Beginn "animKoord" als Basis: *** -->
+<animate attributeName="y" begin="animKoord.begin" dur="5s"
+from="-170" to="50" fill="freeze" />
+</use>
+<!-- *** Als Naechstes zeichnen wir den Text "SMILEY" aus. Dieser
+erhaelt die Fontgroesse 0 und den Opazitaetswert 0, so dass
+er zunaechst nicht sichtbar ist. Nachdem die Animation
+"animKoord" beendet ist, wird die Fontgroesse 3 Sekunden
+lang auf 30 und die Opazitaet auf 1 animiert. *** -->
+<text x="170" y="250" text-anchor="middle"
+style="font-family:Arial;fill:red;font-size:0;fill-opacity:0;">
+SMILEY
+<!-- *** Die Attribute font-size und fill-opacity werden animiert:
+*** -->
+<animate attributeName="font-size" begin="animKoord.end" dur="3s"
+from="0" to="30" fill="freeze" />
+<animate attributeName="fill-opacity" begin="animKoord.end"
+dur="3s" from="0" to="1" fill="freeze" />
+</text>
+</svg>

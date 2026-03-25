@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="300">
+  <script type="text/ecmascript">
+  <![CDATA[
+    function aendere_farbe(evt) {
+      var red = Math.round(Math.random() * 255);
+      var green = Math.round(Math.random() * 255);
+      var blue = Math.round(Math.random() * 255);
+      evt.target.setAttributeNS(null,"fill","rgb("+ red +","+ green+","+blue+")");
+    }
+	
+     function zeige_kreis_farbe() {
+        alert(document.getElementById("kreis").getAttributeNS(null,"fill"));
+     }
+
+  ]]>
+  </script>
+  <g id="firstGroup">
+    <circle id="kreis" cx="90" cy="45" r="20" stroke="black"  fill="blue"
+	        onclick="aendere_farbe(evt)" />
+   <text x="20" y="100">Klicke auf den Kreis, um seine Farbe zu modifzieren.</text>
+   <text x="20" y="130"  onclick="zeige_kreis_farbe()">
+      Klicke auf diesen Text, um die Kreisfarbe anzuzeigen.</text>
+
+  </g>
+</svg>

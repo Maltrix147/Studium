@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- C. Lecon, 24.11.2005 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300"
+      onload="init(evt)">
+  <title>Event</title>
+  <script type="text/ecmascript">
+    <![CDATA[
+      var elem;
+      var svgdoc;
+      function init(evt) {
+         svgdoc = evt.target.ownerDocument;
+         elem = svgdoc.getElementById("toShow");
+         elem.addEventListener("mouseover", changeColor, false);
+         elem.addEventListener("mouseout", changeColor, false);
+      }
+
+      function changeColor(evt) {
+        var crc = evt.target;
+        var actColor = crc.getAttribute("style");
+        if (actColor=="fill:green") {
+           crc.setAttribute("style", "fill:red");
+        } else {
+           crc.setAttribute("style", "fill:green");
+        }
+      }
+    ]]>
+  </script>
+
+  <circle id="toShow" cx="105" cy="105" r="20" style="fill:green" stroke="black" 
+          stroke-width="2" />
+
+</svg>

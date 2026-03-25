@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="250">
+<title>Er laeuft und laeuft ...</title>
+<style type="text/css">
+<![CDATA[
+   .strich {fill:none;stroke:black;stroke-width:3;}
+   .schatten {fill:none;stroke:black;stroke-width:5;opacity:.4;}
+   #strasse {fill:#999;}
+   #himmel {fill:#00F;opacity:.2;}
+]]>
+</style>
+
+<defs>
+  <desc>Definition von Wolke, Pflastersteinen und Gliedmassen</desc>
+  <g id="wolke" transform="translate(-170,70)">
+    <ellipse id="ellipse1" cx="0" cy="0" rx="100" ry="20"  />
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ellipse1" x="150" y="10" />
+  </g>
+
+  <g id="pflaster" transform="translate(-170,200)">
+    <ellipse id="ellipse2" cx="0" cy="0" rx="20" ry="5" fill="grey"  />
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ellipse2" x="50" y="20" />
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ellipse2" x="100" y="0" />
+    <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ellipse2" x="150" y="20" />
+  </g>
+
+  <g id="strichmaennchen_def">
+    <circle id="kopf" cx="64" cy="-180.5" r="21" />
+    <path id="arm1" d="M67.5,-143.5L110,-138.5L108,-98" transform="rotate(130,67.5,-143.5)" />
+    <path id="bein1" d="M83.5,-82.5L41.5,-67.5L35.5,-22.5" transform="rotate(-130,83.5,-82.5)"/>
+    <path id="torso" d="M63.5,-159.5L83.5,-82.5" />
+    <path id="arm2" d="M67.5,-143.5L110,-138.5L108,-98" />
+    <path id="bein2" d="M83.5,-82.5L41.5,-67.5L35.5,-22.5"  />
+  </g>
+</defs>
+
+<rect id="himmel" width="340" height="250" />
+<rect id="strasse" y="180" width="340" height="70" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster" id="pflaster1" x="300" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster" id="pflaster2" x="100" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster" id="pflaster3" x="0" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster" id="pflaster4" x="0" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster" id="pflaster5" x="0" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster" id="pflaster6" x="0" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#wolke" id="wolke1" x="0" fill="white" />
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#strichmaennchen_def" class="schatten" transform="translate(75,220),skewX(-75),scale(1,.2)" />
+<g id="strichmaennchen" class="strich" transform="translate(80,230)">
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#kopf" />
+  <use xmlns:xlink="http://www.w3.org/1999/xlink"  xlink:href="#arm1" stroke="blue"  />
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bein1" stroke="blue"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink"  xlink:href="#torso"/>
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arm2" stroke="red"  />
+  <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bein2" stroke="red"/>
+  </g>
+
+<!-- ********** Referenzierte Animationen ********* -->
+<!-- *** Animation Strichmaennchen *** -->
+<animateTransform id="anim1" xmlns:xlink="http://www.w3.org/1999/xlink"  xlink:href="#arm1" attributeName="transform" type="rotate" dur="1s" values="0,67.5,-143.5;-130,67.5,-143.5;0,67.5,-143.5" additive="sum" repeatCount="indefinite" />
+
+<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#arm2" attributeName="transform" type="rotate" dur="1s" values="0,67.5,-143.5;130,67.5,-143.5;0,67.5,-143.5" additive="sum" repeatCount="indefinite" />
+
+<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bein1" attributeName="transform" type="rotate" dur="1s" values="0,83.5,-82.5;130,83.5,-82.5;0,83.5,-82.5" additive="sum" repeatCount="indefinite" />
+
+<animateTransform xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#bein2" attributeName="transform" type="rotate" dur="1s" values="0,83.5,-82.5;-130,83.5,-82.5;0,83.5,-82.5" additive="sum" repeatCount="indefinite" />
+
+<!-- *** Animation Wolke *** -->
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#wolke1" attributeName="x" begin="0s" dur="8s" from="-170" to="850" repeatCount="indefinite" />
+
+<!-- *** Animation Pflastersteine *** -->
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster1" id="anim2" attributeName="x" begin="0s" dur="5s" from="300" to="1150" fill="freeze" />
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster2" attributeName="x" begin="anim2.begin" dur="5s" from="100" to="950" fill="freeze" />
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster3" attributeName="x" begin="anim2.begin" dur="5s" from="0" to="850" repeatCount="indefinite"  />
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster4" id="anim3" attributeName="x" begin="anim2.begin+1.25s" dur="5s" from="0" to="850" repeatCount="indefinite"  />
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster5" id="anim3" attributeName="x" begin="anim2.begin+2.5s" dur="5s" from="0" to="850" repeatCount="indefinite"  />
+<animate xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pflaster6" id="anim3" attributeName="x" begin="anim2.begin+3.75s" dur="5s" from="0" to="850" repeatCount="indefinite"  />
+
+</svg>
+

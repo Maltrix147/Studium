@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="170">
+  <title>Animierter Kreis</title>
+  <desc>Ein roter Kreis</desc>
+  <circle cx="70" cy="95" r="50"
+          style="stroke: black; fill: red;">
+     <animate attributeName="fill" begin="3s" dur="7s" end="mouseover" from="red" to="yellow" fill="freeze"/>
+  </circle>
+</svg>

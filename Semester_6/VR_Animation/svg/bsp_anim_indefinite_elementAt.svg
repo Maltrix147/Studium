@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="500">
+  <script>
+    <![CDATA[
+      function mouse_over2(evt,time_after) {
+        document.getElementById("anim").beginElementAt(time_after);
+      }
+      function mouse_out(evt) {
+        document.getElementById("anim").endElement()
+      }
+    ]]>
+  </script>
+
+  <rect x="20" y="30" width="150" height="80" fill="red"
+        onmouseover="mouse_over2(evt,0.5)"
+        onmouseout="mouse_out(evt)">
+    <set id="anim" attributeName="fill" begin="indefinite"
+         end="indefinite" to="yellow"/>
+  </rect>
+</svg>
