@@ -1,0 +1,98 @@
+Quelle 1
+
+    DOI: https://doi.org/10.1186/s13756-019-0648-6
+    Autor: Tillmann Görig, Kathleen Dittmann, Axel Kramer, Claus-Dieter Heidecke, Stephan Diedrich, Nils-Olaf Hübner
+    Titel: Active involvement of patients and relatives improves subjective adherence to hygienic measures, especially selfreported hand hygiene: Results of the AHOI pilot study
+    Jahr: 2019
+    Ort: Greifswald, Deutschland
+    Verleger: BMC (BioMed Central) / Springer Nature
+
+Quelle 2
+
+    DOI: Nicht im Quellentext angegeben
+    Autor: Amelie Koch, Nikoloz Gambashidze, Matthias Weigl
+    Titel: Einbeziehung von Patientinnen und Patienten zur strategischen Förderung von Patientensicherheit: Eine Recherche zu publizierten Ansätzen und Praktiken in Deutschland (Projektreport)
+    Jahr: 2022
+    Ort: Bonn, Deutschland
+    Verleger: Institut für Patientensicherheit, Universitätsklinikum Bonn
+
+Quelle 3
+
+    DOI: http://dx.doi.org/10.1016/j.ajic.2015.11.024
+    Autor: Vincent C.C. Cheng, Josepha W.M. Tai, W.S. Li, P.H. Chau, Simon Y.C. So, Lisa M.W. Wong, Radley H.C. Ching, Modissa M.L. Ng, Sara K.Y. Ho, Doris W.Y. Lee, W.M. Lee, Sally C.Y. Wong, K.Y. Yuen
+    Titel: Implementation of directly observed patient hand hygiene for hospitalized patients by hand hygiene ambassadors in Hong Kong
+    Jahr: 2016
+    Ort: Hong Kong, China
+    Verleger: Elsevier (American Journal of Infection Control)
+
+Quelle 4
+
+    DOI: https://doi.org/10.1016/j.jhin.2021.09.009
+    Autor: P.G. Hansen, E.G. Larsen, A. Modin, C.D. Gundersen, M. Schilling
+    Titel: Nudging hand hygiene compliance: a large-scale field experiment on hospital visitors
+    Jahr: 2021
+    Ort: Roskilde, Dänemark
+    Verleger: Elsevier (Journal of Hospital Infection)
+
+Quelle 5
+
+    DOI: http://dx.doi.org/10.1016/j.jhin.2013.01.014
+    Autor: M. McGuckin, J. Govednik
+    Titel: Patient empowerment and hand hygiene, 1997–2012
+    Jahr: 2013
+    Ort: Ardmore, PA, USA
+    Verleger: Elsevier (Journal of Hospital Infection)
+
+Quelle 6
+
+    DOI: doi:10.1016/j.ajic.2012.02.006
+    Autor: Timothy Landers, Said Abusalem, Mary-Beth Coty, James Bingham
+    Titel: Patient-centered hand hygiene: The next step in infection prevention
+    Jahr: 2012
+    Ort: Columbus, OH, USA
+    Verleger: Elsevier (American Journal of Infection Control)
+
+Quelle 7
+
+    DOI: https://doi.org/10.1016/j.infpip.2025.100456
+    Autor: Yusuke Watanabe, Asami Okugawa, Hiroshi Soeda, Tomohide Shimodaira, Satoko Sato, Hiroaki Fujita, Takehito Kobayashi, Itaru Nakamura, Hidehiro Watanabe
+    Titel: The effect of a patient empowerment hand hygiene programme: a single-centre study in Japan
+    Jahr: 2025
+    Ort: Tokyo, Japan
+    Verleger: Elsevier (Infection Prevention in Practice)
+
+Quelle 8
+
+    DOI: http://dx.doi.org/10.1016/j.ajic.2017.01.033
+    Autor: Jun Rong Jeffrey Neo, Rana Sagha-Zadeh
+    Titel: The influence of spatial configuration on the frequency of use of hand sanitizing stations in health care environments
+    Jahr: 2017
+    Ort: Ithaca, NY, USA
+    Verleger: Elsevier (American Journal of Infection Control)
+
+Quelle 9
+
+    DOI: https://doi.org/10.1016/j.ajic.2021.01.003
+    Autor: Susanne Gaube, Wulf Schneider-Brachert, Thomas Holzmann, Peter Fischer, Eva Lermer
+    Titel: Utilizing behavioral theories to explain hospital visitors’ observed hand hygiene behavior
+    Jahr: 2021
+    Ort: Regensburg, Deutschland
+    Verleger: Elsevier (American Journal of Infection Control)
+
+Quelle 10
+
+    DOI: https://doi.org/10.1016/j.infpip.2024.100364
+    Autor: Christoph Senges, Christiane Herzer, Erlandas Norkus, Marco Krewing, Clara Mattner, Leonard Rose, Tobias Gebhardt, Frauke Mattner, Heide Niesalla
+    Titel: Workflows and locations matter – insights from electronic hand hygiene monitoring into the use of hand rub dispensers across diverse hospital wards
+    Jahr: 2024
+    Ort: Hamburg, Deutschland
+    Verleger: Elsevier (Infection Prevention in Practice)
+
+Quelle 11
+
+    DOI: Nicht im Quellentext angegeben
+    Autor: Dr. Sabrina Artinger, Susanne Baltes, Perke Jacobs, Dr. Christian Jarchow, Dr. Malte Petersen, Dr. Andrea M. Schneider
+    Titel: Patientensicherheit im Krankenhaus: Gemeinsam für die Infektionsprävention. Untersuchung zur Wirkung eines Programms zur Infektionsprävention durch Partizipation, Feedback und Leadership auf Intensivstationen
+    Jahr: 2021
+    Ort: Berlin, Deutschland
+    Verleger: Presse- und Informationsamt der Bundesregierung
